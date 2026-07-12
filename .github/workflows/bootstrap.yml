@@ -36,11 +36,14 @@ jobs:
       - name: Backtest — this is the output that matters
         run: python pickhub.py backtest | tee backtest-report.txt
 
+      - name: Fit the calibration (fixes overconfidence)
+        run: python calibrate.py fit | tee -a backtest-report.txt
+
       - name: Commit the data and the report
         run: |
           git config user.name  "pickhub-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add games.csv pitcher_era_cache.json backtest-report.txt
+          git add games.csv pitcher_era_cache.json backtest-report.txt calibration.json
           git commit -m "bootstrap: game history + backtest report"
           git push
 
