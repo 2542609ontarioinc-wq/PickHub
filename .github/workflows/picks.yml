@@ -1,0 +1,42 @@
+name: Publish picks
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub's scheduler drifts under load, which is why
+    # bot.py publishes on a 50-80 minute window rather than an exact time.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write           # required so the bot can commit the ledger
+
+concurrency:
+  group: picks
+  cancel-in-progress: false # never let two runs write the ledger at once
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Run the bot
+        run: python bot.py
+
+      - name: Commit the ledger
+        run: |
+          git config user.name  "pickhub-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add ledger.csv games.csv site/picks.json pitcher_era_cache.json
+          if git diff --staged --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "picks: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
