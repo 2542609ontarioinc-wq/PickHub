@@ -1,33 +1,3 @@
-  looking up 1491 pitcher seasons (cached after this)...
-    50/1491
-    100/1491
-    150/1491
-    200/1491
-    250/1491
-    300/1491
-    350/1491
-    400/1491
-    450/1491
-    500/1491
-    550/1491
-    600/1491
-    650/1491
-    700/1491
-    750/1491
-    800/1491
-    850/1491
-    900/1491
-    950/1491
-    1000/1491
-    1050/1491
-    1100/1491
-    1150/1491
-    1200/1491
-    1250/1491
-    1300/1491
-    1350/1491
-    1400/1491
-    1450/1491
 
 9734 games, seasons 2022–2025
 Burning in on the first season; scoring on the rest.
@@ -88,4 +58,42 @@ READ THIS BEFORE YOU BET A DOLLAR
   your probability to the vig-free market probability. If your model has
   no edge over the closing line, it has no edge. Publishing calibrated
   probabilities is still an honest product. Selling them as +EV is not.
+
+
+  Fitting on 2023–2024  (4869 games)
+  Testing on 2025, which the fit never sees  (2434 games)
+
+==============================================================
+OUT-OF-SAMPLE RESULT
+==============================================================
+  shrinkage a = 0.770   (below 1.0 means it pulls toward 50%)
+  bias      b = -0.020
+
+  log loss before  0.6785
+  log loss after   0.6786   (+0.0001)
+
+  miscalibration before  2.15%
+  miscalibration after   2.42%
+
+  BEFORE — raw model
+        band   games   we said   happened     gap
+     20%–30%      31     27.8%      29.0%   +1.3%
+     30%–40%     152     36.1%      39.5%   +3.4%  <-- off
+     40%–50%     683     45.9%      47.6%   +1.7%
+     50%–60%    1003     54.8%      56.6%   +1.8%
+     60%–70%     462     63.9%      60.8%   -3.1%  <-- off
+     70%–80%     101     73.4%      76.2%   +2.8%
+     80%–90%       2     80.3%     100.0%  +19.7%
+
+  AFTER  — calibrated
+        band   games   we said   happened     gap
+     20%–30%       6     29.2%      50.0%  +20.8%
+     30%–40%     126     36.5%      33.3%   -3.2%  <-- off
+     40%–50%     800     46.3%      49.1%   +2.9%
+     50%–60%    1159     54.4%      56.6%   +2.2%
+     60%–70%     316     63.3%      65.2%   +1.9%
+     70%–80%      27     71.8%      81.5%   +9.6%
+
+  Did NOT improve out-of-sample. Not saving.
+  The raw model was already as calibrated as this can make it.
 
