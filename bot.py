@@ -25,6 +25,7 @@ from pickhub import (
     API, expected_score, pitcher_adjustment, run_elo,
     load_era_cache, get_prior_era, HFA_ELO,
 )
+from calibrate import load_calibration, apply_calibration
 
 HERE   = os.path.dirname(os.path.abspath(__file__))
 GAMES  = os.path.join(HERE, "games.csv")
@@ -207,7 +208,13 @@ def publish(ledger, elo):
 
             h_eff = elo.get(ht, 1500.0) + HFA_ELO + pitcher_adjustment(h_era)
             a_eff = elo.get(at, 1500.0) + pitcher_adjustment(a_era)
-            p_home = expected_score(h_eff, a_eff)
+            p_raw = expected_score(h_eff, a_eff)
+
+            # Shrink toward 50% using the fitted calibration. The raw Elo model
+            # is overconfident on favourites; this is what makes the published
+            # confidence number mean what it says.
+            cal_a, cal_b = load_calibration()
+            p_home = apply_calibration(p_raw, cal_a, cal_b)
 
             side  = ht if p_home >= 0.5 else at
             p_win = p_home if p_home >= 0.5 else 1 - p_home
