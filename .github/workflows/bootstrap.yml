@@ -1,0 +1,51 @@
+name: Bootstrap (run this once)
+
+# Run this ONCE, by hand, from the Actions tab.
+# It downloads the game history and commits it, so you never need to
+# install Python or open a terminal on your own computer.
+
+on:
+  workflow_dispatch:
+    inputs:
+      seasons:
+        description: "Seasons to download"
+        default: "2022 2023 2024 2025"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Check the model's math
+        run: python pickhub.py selftest
+
+      - name: Download game history
+        run: python pickhub.py fetch ${{ inputs.seasons }}
+
+      - name: Backtest — this is the output that matters
+        run: python pickhub.py backtest | tee backtest-report.txt
+
+      - name: Commit the data and the report
+        run: |
+          git config user.name  "pickhub-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add games.csv pitcher_era_cache.json backtest-report.txt
+          git commit -m "bootstrap: game history + backtest report"
+          git push
+
+      - name: Upload the report so you can read it in the browser
+        uses: actions/upload-artifact@v4
+        with:
+          name: backtest-report
+          path: backtest-report.txt
