@@ -1,0 +1,91 @@
+  looking up 1491 pitcher seasons (cached after this)...
+    50/1491
+    100/1491
+    150/1491
+    200/1491
+    250/1491
+    300/1491
+    350/1491
+    400/1491
+    450/1491
+    500/1491
+    550/1491
+    600/1491
+    650/1491
+    700/1491
+    750/1491
+    800/1491
+    850/1491
+    900/1491
+    950/1491
+    1000/1491
+    1050/1491
+    1100/1491
+    1150/1491
+    1200/1491
+    1250/1491
+    1300/1491
+    1350/1491
+    1400/1491
+    1450/1491
+
+9734 games, seasons 2022–2025
+Burning in on the first season; scoring on the rest.
+
+Fitting the pitcher dial (grid search on log loss)...
+  best: 8 Elo pts per run of ERA, clamped at ±30
+
+==============================================================
+BACKTEST  (walk-forward: every prediction made before the game)
+==============================================================
+  Games scored          7303
+  Home team actually won 52.8% of the time
+
+                          log loss    brier     acc
+  Coin flip (50/50)         0.6931   0.2500       —
+  Always pick home          0.6915   0.2492   52.8%
+  THIS MODEL                0.6802   0.2436   56.6%
+
+  Improvement over 'always pick home': +0.0113 log loss
+  >> The model beats the dumb baseline. Necessary, not sufficient.
+
+--------------------------------------------------------------
+CALIBRATION — the number that actually matters
+--------------------------------------------------------------
+        band   games   we said   happened     gap
+     20%–30%      81     27.9%      28.4%   +0.5%
+     30%–40%     594     36.1%      41.4%   +5.3%  <-- off
+     40%–50%    1978     45.7%      46.5%   +0.8%
+     50%–60%    2797     54.9%      54.0%   -0.9%
+     60%–70%    1517     64.0%      60.4%   -3.5%
+     70%–80%     331     73.1%      71.9%   -1.2%
+     80%–90%       5     80.7%     100.0%  +19.3%  <-- off
+
+--------------------------------------------------------------
+TOP 10 TEAMS, final ratings
+--------------------------------------------------------------
+     1577  Milwaukee Brewers
+     1571  New York Yankees
+     1569  Los Angeles Dodgers
+     1565  Philadelphia Phillies
+     1543  Chicago Cubs
+     1542  Boston Red Sox
+     1541  Toronto Blue Jays
+     1541  San Diego Padres
+     1538  Seattle Mariners
+     1525  Cleveland Guardians
+
+==============================================================
+READ THIS BEFORE YOU BET A DOLLAR
+==============================================================
+
+  Beating the baselines above is the easy part. The market beats them too,
+  by more. What you have NOT tested here is whether this model beats the
+  CLOSING LINE — and that is the only test that matters commercially.
+
+  To run that test you need historical odds, which MLB's API does not have.
+  Get them from a paid odds archive, join on game_pk + date, and compare
+  your probability to the vig-free market probability. If your model has
+  no edge over the closing line, it has no edge. Publishing calibrated
+  probabilities is still an honest product. Selling them as +EV is not.
+
