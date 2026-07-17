@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-07-17T21:29:25+00:00",
+  "updated_utc": "2026-07-17T22:21:05+00:00",
   "record": "5-3",
   "settled": 8,
   "hit_rate": 62.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Texas Rangers @ Atlanta Braves",
+      "side": "Atlanta Braves",
+      "confidence": 59.4,
+      "fair_line": "-146",
+      "published": "2026-07-17T22:21:05+00:00",
+      "starts": "2026-07-17T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ Toronto Blue Jays",
+      "side": "Toronto Blue Jays",
+      "confidence": 66.1,
+      "fair_line": "-195",
+      "published": "2026-07-17T22:21:05+00:00",
+      "starts": "2026-07-17T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Miami Marlins @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 68.0,
+      "fair_line": "-213",
+      "published": "2026-07-17T22:21:05+00:00",
+      "starts": "2026-07-17T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Houston Astros @ Texas Rangers",
