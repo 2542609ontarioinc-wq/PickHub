@@ -7,9 +7,9 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824250,2026-07-12T16:42:20+00:00,2026-07-12T17:40:00+00:00,MLB,Philadelphia Phillies,Detroit Tigers,Zack Wheeler,Tarik Skubal,Philadelphia Phillies,0.5179,-107,SETTLED,5,0,WIN
 823842,2026-07-12T16:42:20+00:00,2026-07-12T17:40:00+00:00,MLB,Cleveland Guardians,Miami Marlins,Joey Cantillo,Tyler Phillips,Cleveland Guardians,0.5043,-102,SETTLED,5,2,WIN
 822876,2026-07-12T17:41:56+00:00,2026-07-12T18:35:00+00:00,MLB,Houston Astros,Texas Rangers,Cristian Javier,MacKenzie Gore,Texas Rangers,0.5504,-122,SETTLED,5,6,WIN
-824901,2026-07-17T22:21:05+00:00,2026-07-17T23:15:00+00:00,MLB,Texas Rangers,Atlanta Braves,Cal Quantrill,Chris Sale,Atlanta Braves,0.5938,-146,PENDING,,,
-822789,2026-07-17T22:21:05+00:00,2026-07-17T23:15:00+00:00,MLB,Chicago White Sox,Toronto Blue Jays,Anthony Kay,Spencer Miles,Toronto Blue Jays,0.6608,-195,PENDING,,,
-823766,2026-07-17T22:21:05+00:00,2026-07-17T23:40:00+00:00,MLB,Miami Marlins,Milwaukee Brewers,Sandy Alcantara,Logan Henderson,Milwaukee Brewers,0.6805,-213,PENDING,,,
-824655,2026-07-17T23:12:53+00:00,2026-07-18T00:05:00+00:00,MLB,Minnesota Twins,Chicago Cubs,Bailey Ober,Colin Rea,Chicago Cubs,0.6459,-182,PENDING,,,
-824170,2026-07-17T23:12:53+00:00,2026-07-18T00:10:00+00:00,MLB,Baltimore Orioles,Houston Astros,Dean Kremer,Peter Lambert,Houston Astros,0.5499,-122,PENDING,,,
-824090,2026-07-17T23:12:53+00:00,2026-07-18T00:10:00+00:00,MLB,San Diego Padres,Kansas City Royals,Michael King,Seth Lugo,San Diego Padres,0.5412,-118,PENDING,,,
+824901,2026-07-17T22:21:05+00:00,2026-07-17T23:15:00+00:00,MLB,Texas Rangers,Atlanta Braves,Cal Quantrill,Chris Sale,Atlanta Braves,0.5938,-146,SETTLED,1,15,WIN
+822789,2026-07-17T22:21:05+00:00,2026-07-17T23:15:00+00:00,MLB,Chicago White Sox,Toronto Blue Jays,Anthony Kay,Spencer Miles,Toronto Blue Jays,0.6608,-195,SETTLED,12,4,LOSS
+823766,2026-07-17T22:21:05+00:00,2026-07-17T23:40:00+00:00,MLB,Miami Marlins,Milwaukee Brewers,Sandy Alcantara,Logan Henderson,Milwaukee Brewers,0.6805,-213,SETTLED,1,2,WIN
+824655,2026-07-17T23:12:53+00:00,2026-07-18T00:05:00+00:00,MLB,Minnesota Twins,Chicago Cubs,Bailey Ober,Colin Rea,Chicago Cubs,0.6459,-182,SETTLED,5,2,LOSS
+824170,2026-07-17T23:12:53+00:00,2026-07-18T00:10:00+00:00,MLB,Baltimore Orioles,Houston Astros,Dean Kremer,Peter Lambert,Houston Astros,0.5499,-122,SETTLED,3,2,LOSS
+824090,2026-07-17T23:12:53+00:00,2026-07-18T00:10:00+00:00,MLB,San Diego Padres,Kansas City Royals,Michael King,Seth Lugo,San Diego Padres,0.5412,-118,SETTLED,6,7,LOSS

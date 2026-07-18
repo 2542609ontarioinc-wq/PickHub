@@ -1,8 +1,8 @@
 {
-  "updated_utc": "2026-07-18T00:08:17+00:00",
-  "record": "5-3",
-  "settled": 8,
-  "hit_rate": 62.5,
+  "updated_utc": "2026-07-18T03:27:11+00:00",
+  "record": "7-7",
+  "settled": 14,
+  "hit_rate": 50.0,
   "picks": [
     {
       "sport": "MLB",
@@ -12,9 +12,9 @@
       "fair_line": "-182",
       "published": "2026-07-17T23:12:53+00:00",
       "starts": "2026-07-18T00:05:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "5-2"
     },
     {
       "sport": "MLB",
@@ -24,9 +24,9 @@
       "fair_line": "-122",
       "published": "2026-07-17T23:12:53+00:00",
       "starts": "2026-07-18T00:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "3-2"
     },
     {
       "sport": "MLB",
@@ -36,9 +36,9 @@
       "fair_line": "-118",
       "published": "2026-07-17T23:12:53+00:00",
       "starts": "2026-07-18T00:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "6-7"
     },
     {
       "sport": "MLB",
@@ -48,9 +48,9 @@
       "fair_line": "-146",
       "published": "2026-07-17T22:21:05+00:00",
       "starts": "2026-07-17T23:15:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "1-15"
     },
     {
       "sport": "MLB",
@@ -60,9 +60,9 @@
       "fair_line": "-195",
       "published": "2026-07-17T22:21:05+00:00",
       "starts": "2026-07-17T23:15:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "12-4"
     },
     {
       "sport": "MLB",
@@ -72,9 +72,9 @@
       "fair_line": "-213",
       "published": "2026-07-17T22:21:05+00:00",
       "starts": "2026-07-17T23:40:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "1-2"
     },
     {
       "sport": "MLB",
