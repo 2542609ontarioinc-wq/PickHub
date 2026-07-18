@@ -9816,7 +9816,9 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824901,2026-07-17,2026,Atlanta Braves,Texas Rangers,15,1,519242,615698,Chris Sale,Cal Quantrill
 822790,2026-07-18,2026,Toronto Blue Jays,Chicago White Sox,1,0,669456,663436,Shane Bieber,Davis Martin
 823115,2026-07-18,2026,Seattle Mariners,San Francisco Giants,0,7,682243,694738,Bryce Miller,Landen Roupp
+823441,2026-07-18,2026,Philadelphia Phillies,New York Mets,6,1,666200,640455,Jesús Luzardo,Sean Manaea
 824009,2026-07-18,2026,Los Angeles Angels,Detroit Tigers,1,2,672282,675512,Reid Detmers,Troy Melton
+824088,2026-07-18,2026,Kansas City Royals,San Diego Padres,6,1,677976,656288,Randy Dobnak,Griffin Canning
 824090,2026-07-18,2026,Kansas City Royals,San Diego Padres,7,6,607625,650633,Seth Lugo,Michael King
 824170,2026-07-18,2026,Houston Astros,Baltimore Orioles,2,3,663567,665152,Peter Lambert,Dean Kremer
 824331,2026-07-18,2026,Colorado Rockies,Cincinnati Reds,10,3,608372,695076,Tomoyuki Sugano,Rhett Lowder
@@ -9825,4 +9827,5 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824655,2026-07-18,2026,Chicago Cubs,Minnesota Twins,2,5,607067,641927,Colin Rea,Bailey Ober
 824657,2026-07-18,2026,Chicago Cubs,Minnesota Twins,6,2,571510,671737,Matthew Boyd,Taj Bradley
 824981,2026-07-18,2026,Athletics,Washington Nationals,4,23,695611,676917,Gage Jump,Cade Cavalli
+825059,2026-07-18,2026,Arizona Diamondbacks,St. Louis Cardinals,5,3,694297,669160,Brandon Pfaadt,Dustin May
 825060,2026-07-18,2026,Arizona Diamondbacks,St. Louis Cardinals,4,5,518876,700241,Merrill Kelly,Michael McGreevy

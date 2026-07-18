@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-18T22:04:04+00:00",
-  "record": "9-9",
-  "settled": 18,
-  "hit_rate": 50.0,
+  "updated_utc": "2026-07-18T23:06:17+00:00",
+  "record": "10-9",
+  "settled": 19,
+  "hit_rate": 52.6,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "San Francisco Giants @ Seattle Mariners",
+      "side": "Seattle Mariners",
+      "confidence": 55.2,
+      "fair_line": "-123",
+      "published": "2026-07-18T23:06:16+00:00",
+      "starts": "2026-07-19T00:08:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Pittsburgh Pirates @ Cleveland Guardians",
@@ -24,9 +36,9 @@
       "fair_line": "-162",
       "published": "2026-07-18T18:05:08+00:00",
       "starts": "2026-07-18T19:05:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "1-6"
     },
     {
       "sport": "MLB",
