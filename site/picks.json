@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-18T21:03:00+00:00",
-  "record": "8-8",
-  "settled": 16,
+  "updated_utc": "2026-07-18T22:04:04+00:00",
+  "record": "9-9",
+  "settled": 18,
   "hit_rate": 50.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Pittsburgh Pirates @ Cleveland Guardians",
+      "side": "Cleveland Guardians",
+      "confidence": 60.1,
+      "fair_line": "-150",
+      "published": "2026-07-18T22:04:04+00:00",
+      "starts": "2026-07-18T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "New York Mets @ Philadelphia Phillies",
@@ -24,9 +36,9 @@
       "fair_line": "-190",
       "published": "2026-07-18T18:05:08+00:00",
       "starts": "2026-07-18T19:07:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "0-1"
     },
     {
       "sport": "MLB",
@@ -36,9 +48,9 @@
       "fair_line": "-180",
       "published": "2026-07-18T18:05:08+00:00",
       "starts": "2026-07-18T19:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "3-10"
     },
     {
       "sport": "MLB",
