@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-07-18T17:10:58+00:00",
+  "updated_utc": "2026-07-18T18:05:08+00:00",
   "record": "7-7",
   "settled": 14,
   "hit_rate": 50.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "New York Mets @ Philadelphia Phillies",
+      "side": "Philadelphia Phillies",
+      "confidence": 61.9,
+      "fair_line": "-162",
+      "published": "2026-07-18T18:05:08+00:00",
+      "starts": "2026-07-18T19:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ Toronto Blue Jays",
+      "side": "Toronto Blue Jays",
+      "confidence": 65.5,
+      "fair_line": "-190",
+      "published": "2026-07-18T18:05:08+00:00",
+      "starts": "2026-07-18T19:07:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Colorado Rockies",
+      "side": "Cincinnati Reds",
+      "confidence": 64.3,
+      "fair_line": "-180",
+      "published": "2026-07-18T18:05:08+00:00",
+      "starts": "2026-07-18T19:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Minnesota Twins @ Chicago Cubs",
