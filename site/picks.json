@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-18T15:10:49+00:00",
+  "updated_utc": "2026-07-18T16:08:30+00:00",
   "record": "7-7",
   "settled": 14,
   "hit_rate": 50.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Pittsburgh Pirates @ Cleveland Guardians",
+      "side": "Cleveland Guardians",
+      "confidence": 60.9,
+      "fair_line": "-156",
+      "published": "2026-07-18T16:08:30+00:00",
+      "starts": "2026-07-18T17:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Minnesota Twins @ Chicago Cubs",
