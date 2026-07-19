@@ -18,5 +18,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823441,2026-07-18T18:05:08+00:00,2026-07-18T19:05:00+00:00,MLB,New York Mets,Philadelphia Phillies,Sean Manaea,Jesús Luzardo,Philadelphia Phillies,0.6190,-162,SETTLED,1,6,WIN
 822790,2026-07-18T18:05:08+00:00,2026-07-18T19:07:00+00:00,MLB,Chicago White Sox,Toronto Blue Jays,Davis Martin,Shane Bieber,Toronto Blue Jays,0.6547,-190,SETTLED,0,1,WIN
 824331,2026-07-18T18:05:08+00:00,2026-07-18T19:10:00+00:00,MLB,Cincinnati Reds,Colorado Rockies,Rhett Lowder,Tomoyuki Sugano,Cincinnati Reds,0.6429,-180,SETTLED,3,10,LOSS
-824412,2026-07-18T22:04:04+00:00,2026-07-18T23:10:00+00:00,MLB,Pittsburgh Pirates,Cleveland Guardians,Mason Montgomery,Logan Allen,Cleveland Guardians,0.6007,-150,PENDING,,,
-823116,2026-07-18T23:06:16+00:00,2026-07-19T00:08:00+00:00,MLB,San Francisco Giants,Seattle Mariners,Logan Webb,Bryan Woo,Seattle Mariners,0.5524,-123,PENDING,,,
+824412,2026-07-18T22:04:04+00:00,2026-07-18T23:10:00+00:00,MLB,Pittsburgh Pirates,Cleveland Guardians,Mason Montgomery,Logan Allen,Cleveland Guardians,0.6007,-150,SETTLED,3,5,WIN
+823116,2026-07-18T23:06:16+00:00,2026-07-19T00:08:00+00:00,MLB,San Francisco Giants,Seattle Mariners,Logan Webb,Bryan Woo,Seattle Mariners,0.5524,-123,SETTLED,3,4,WIN
