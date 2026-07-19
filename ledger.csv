@@ -20,7 +20,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824331,2026-07-18T18:05:08+00:00,2026-07-18T19:10:00+00:00,MLB,Cincinnati Reds,Colorado Rockies,Rhett Lowder,Tomoyuki Sugano,Cincinnati Reds,0.6429,-180,SETTLED,3,10,LOSS
 824412,2026-07-18T22:04:04+00:00,2026-07-18T23:10:00+00:00,MLB,Pittsburgh Pirates,Cleveland Guardians,Mason Montgomery,Logan Allen,Cleveland Guardians,0.6007,-150,SETTLED,3,5,WIN
 823116,2026-07-18T23:06:16+00:00,2026-07-19T00:08:00+00:00,MLB,San Francisco Giants,Seattle Mariners,Logan Webb,Bryan Woo,Seattle Mariners,0.5524,-123,SETTLED,3,4,WIN
-823523,2026-07-19T15:43:38+00:00,2026-07-19T16:35:00+00:00,MLB,Los Angeles Dodgers,New York Yankees,Yoshinobu Yamamoto,Cam Schlittler,New York Yankees,0.5534,-124,PENDING,,,
+823523,2026-07-19T15:43:38+00:00,2026-07-19T16:35:00+00:00,MLB,Los Angeles Dodgers,New York Yankees,Yoshinobu Yamamoto,Cam Schlittler,New York Yankees,0.5534,-124,SETTLED,8,2,LOSS
 824739,2026-07-19T16:35:28+00:00,2026-07-19T17:35:00+00:00,MLB,Tampa Bay Rays,Boston Red Sox,Shane McClanahan,Sonny Gray,Boston Red Sox,0.6183,-162,PENDING,,,
 823439,2026-07-19T16:35:28+00:00,2026-07-19T17:35:00+00:00,MLB,New York Mets,Philadelphia Phillies,Nolan McLean,Alan Rangel,Philadelphia Phillies,0.5915,-145,PENDING,,,
 824897,2026-07-19T16:35:28+00:00,2026-07-19T17:35:00+00:00,MLB,Texas Rangers,Atlanta Braves,Nathan Eovaldi,Grant Holmes,Atlanta Braves,0.5041,-102,PENDING,,,
