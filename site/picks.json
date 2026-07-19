@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-19T14:46:04+00:00",
+  "updated_utc": "2026-07-19T15:43:38+00:00",
   "record": "12-9",
   "settled": 21,
   "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Dodgers @ New York Yankees",
+      "side": "New York Yankees",
+      "confidence": 55.3,
+      "fair_line": "-124",
+      "published": "2026-07-19T15:43:38+00:00",
+      "starts": "2026-07-19T16:35:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "San Francisco Giants @ Seattle Mariners",
