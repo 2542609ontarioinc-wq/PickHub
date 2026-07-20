@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-20T22:27:31+00:00",
+  "updated_utc": "2026-07-20T23:29:16+00:00",
   "record": "14-12",
   "settled": 26,
   "hit_rate": 53.8,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Washington Nationals @ Colorado Rockies",
+      "side": "Washington Nationals",
+      "confidence": 58.0,
+      "fair_line": "-138",
+      "published": "2026-07-20T23:29:16+00:00",
+      "starts": "2026-07-21T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "San Francisco Giants @ Kansas City Royals",
