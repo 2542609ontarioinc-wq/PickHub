@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-07-20T21:21:18+00:00",
+  "updated_utc": "2026-07-20T22:27:31+00:00",
   "record": "14-12",
   "settled": 26,
   "hit_rate": 53.8,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "San Francisco Giants @ Kansas City Royals",
+      "side": "San Francisco Giants",
+      "confidence": 51.7,
+      "fair_line": "-107",
+      "published": "2026-07-20T22:27:30+00:00",
+      "starts": "2026-07-20T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "New York Mets @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 57.5,
+      "fair_line": "-135",
+      "published": "2026-07-20T22:27:30+00:00",
+      "starts": "2026-07-20T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Minnesota Twins @ Cleveland Guardians",
