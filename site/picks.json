@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-20T20:02:37+00:00",
+  "updated_utc": "2026-07-20T21:21:18+00:00",
   "record": "14-12",
   "settled": 26,
   "hit_rate": 53.8,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Minnesota Twins @ Cleveland Guardians",
+      "side": "Cleveland Guardians",
+      "confidence": 59.3,
+      "fair_line": "-146",
+      "published": "2026-07-20T21:21:18+00:00",
+      "starts": "2026-07-20T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Tampa Bay Rays @ Boston Red Sox",
