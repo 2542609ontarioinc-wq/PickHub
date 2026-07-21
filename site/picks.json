@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-07-21T20:11:38+00:00",
+  "updated_utc": "2026-07-21T21:32:11+00:00",
   "record": "17-13",
   "settled": 30,
   "hit_rate": 56.7,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Minnesota Twins @ Cleveland Guardians",
+      "side": "Cleveland Guardians",
+      "confidence": 64.0,
+      "fair_line": "-178",
+      "published": "2026-07-21T21:32:11+00:00",
+      "starts": "2026-07-21T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Dodgers @ Philadelphia Phillies",
+      "side": "Philadelphia Phillies",
+      "confidence": 57.2,
+      "fair_line": "-134",
+      "published": "2026-07-21T21:32:11+00:00",
+      "starts": "2026-07-21T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Washington Nationals @ Colorado Rockies",
