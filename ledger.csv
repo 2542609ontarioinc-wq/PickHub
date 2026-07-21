@@ -25,7 +25,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823439,2026-07-19T16:35:28+00:00,2026-07-19T17:35:00+00:00,MLB,New York Mets,Philadelphia Phillies,Nolan McLean,Alan Rangel,Philadelphia Phillies,0.5915,-145,SETTLED,6,1,LOSS
 824897,2026-07-19T16:35:28+00:00,2026-07-19T17:35:00+00:00,MLB,Texas Rangers,Atlanta Braves,Nathan Eovaldi,Grant Holmes,Atlanta Braves,0.5041,-102,SETTLED,5,8,WIN
 824411,2026-07-19T16:35:28+00:00,2026-07-19T17:40:00+00:00,MLB,Pittsburgh Pirates,Cleveland Guardians,Paul Skenes,Joey Cantillo,Cleveland Guardians,0.5605,-128,SETTLED,7,1,LOSS
-824410,2026-07-20T21:21:18+00:00,2026-07-20T22:40:00+00:00,MLB,Minnesota Twins,Cleveland Guardians,Joe Ryan,Tanner Bibee,Cleveland Guardians,0.5928,-146,PENDING,,,
-824087,2026-07-20T22:27:30+00:00,2026-07-20T23:40:00+00:00,MLB,San Francisco Giants,Kansas City Royals,Trevor McDonald,Michael Wacha,San Francisco Giants,0.5169,-107,PENDING,,,
-823762,2026-07-20T22:27:30+00:00,2026-07-20T23:40:00+00:00,MLB,New York Mets,Milwaukee Brewers,Freddy Peralta,Jacob Misiorowski,Milwaukee Brewers,0.5752,-135,PENDING,,,
-824328,2026-07-20T23:29:16+00:00,2026-07-21T00:40:00+00:00,MLB,Washington Nationals,Colorado Rockies,Andrew Alvarez,Kyle Freeland,Washington Nationals,0.5795,-138,PENDING,,,
+824410,2026-07-20T21:21:18+00:00,2026-07-20T22:40:00+00:00,MLB,Minnesota Twins,Cleveland Guardians,Joe Ryan,Tanner Bibee,Cleveland Guardians,0.5928,-146,SETTLED,4,13,WIN
+824087,2026-07-20T22:27:30+00:00,2026-07-20T23:40:00+00:00,MLB,San Francisco Giants,Kansas City Royals,Trevor McDonald,Michael Wacha,San Francisco Giants,0.5169,-107,SETTLED,3,4,LOSS
+823762,2026-07-20T22:27:30+00:00,2026-07-20T23:40:00+00:00,MLB,New York Mets,Milwaukee Brewers,Freddy Peralta,Jacob Misiorowski,Milwaukee Brewers,0.5752,-135,SETTLED,3,8,WIN
+824328,2026-07-20T23:29:16+00:00,2026-07-21T00:40:00+00:00,MLB,Washington Nationals,Colorado Rockies,Andrew Alvarez,Kyle Freeland,Washington Nationals,0.5795,-138,SETTLED,7,3,WIN
