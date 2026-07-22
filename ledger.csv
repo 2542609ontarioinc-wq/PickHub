@@ -34,3 +34,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824085,2026-07-21T22:33:12+00:00,2026-07-21T23:40:00+00:00,MLB,San Francisco Giants,Kansas City Royals,Tyler Mahle,Luinder Avila,Kansas City Royals,0.5381,-117,SETTLED,2,3,WIN
 823760,2026-07-21T22:33:12+00:00,2026-07-21T23:40:00+00:00,MLB,New York Mets,Milwaukee Brewers,Zac Thornton,Brandon Sproat,Milwaukee Brewers,0.6014,-151,SETTLED,4,0,LOSS
 824329,2026-07-21T23:37:40+00:00,2026-07-22T00:40:00+00:00,MLB,Washington Nationals,Colorado Rockies,Carson Palmquist,Michael Lorenzen,Colorado Rockies,0.5316,-114,SETTLED,7,8,WIN
+824735,2026-07-22T16:41:50+00:00,2026-07-22T17:35:00+00:00,MLB,Baltimore Orioles,Boston Red Sox,Dean Kremer,Jake Bennett,Boston Red Sox,0.6143,-159,PENDING,,,
