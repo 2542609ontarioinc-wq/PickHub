@@ -36,6 +36,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824329,2026-07-21T23:37:40+00:00,2026-07-22T00:40:00+00:00,MLB,Washington Nationals,Colorado Rockies,Carson Palmquist,Michael Lorenzen,Colorado Rockies,0.5316,-114,SETTLED,7,8,WIN
 824735,2026-07-22T16:41:50+00:00,2026-07-22T17:35:00+00:00,MLB,Baltimore Orioles,Boston Red Sox,Dean Kremer,Jake Bennett,Boston Red Sox,0.6143,-159,SETTLED,3,6,WIN
 824327,2026-07-22T17:52:34+00:00,2026-07-22T19:10:00+00:00,MLB,Washington Nationals,Colorado Rockies,Cade Cavalli,Gabriel Hughes,Washington Nationals,0.5374,-116,SETTLED,8,0,WIN
-824004,2026-07-22T18:53:47+00:00,2026-07-22T20:07:00+00:00,MLB,St. Louis Cardinals,Los Angeles Angels,Hunter Dobbins,Reid Detmers,Los Angeles Angels,0.5060,-102,PENDING,,,
+824004,2026-07-22T18:53:47+00:00,2026-07-22T20:07:00+00:00,MLB,St. Louis Cardinals,Los Angeles Angels,Hunter Dobbins,Reid Detmers,Los Angeles Angels,0.5060,-102,SETTLED,1,0,LOSS
 824408,2026-07-22T21:20:13+00:00,2026-07-22T22:40:00+00:00,MLB,Minnesota Twins,Cleveland Guardians,Bailey Ober,Slade Cecconi,Cleveland Guardians,0.6345,-174,PENDING,,,
 823438,2026-07-22T21:20:13+00:00,2026-07-22T22:40:00+00:00,MLB,Los Angeles Dodgers,Philadelphia Phillies,Eric Lauer,Aaron Nola,Los Angeles Dodgers,0.5088,-104,PENDING,,,

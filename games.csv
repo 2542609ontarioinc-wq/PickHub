@@ -9879,6 +9879,7 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 823114,2026-07-22,2026,Seattle Mariners,Cincinnati Reds,2,4,622491,695505,Luis Castillo,Chase Burns
 823518,2026-07-22,2026,New York Yankees,Pittsburgh Pirates,3,5,543037,656605,Gerrit Cole,Mitch Keller
 823761,2026-07-22,2026,Milwaukee Brewers,New York Mets,4,3,701656,681035,Logan Henderson,Christian Scott
+824004,2026-07-22,2026,Los Angeles Angels,St. Louis Cardinals,0,1,672282,690928,Reid Detmers,Hunter Dobbins
 824005,2026-07-22,2026,Los Angeles Angels,St. Louis Cardinals,5,1,700712,669461,Walbert Ureña,Matthew Liberatore
 824083,2026-07-22,2026,Kansas City Royals,San Francisco Giants,5,4,607625,694738,Seth Lugo,Landen Roupp
 824165,2026-07-22,2026,Houston Astros,Miami Marlins,5,3,837227,663969,Tatsuya Imai,Tyler Phillips
@@ -9886,4 +9887,5 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824329,2026-07-22,2026,Colorado Rockies,Washington Nationals,8,7,547179,687223,Michael Lorenzen,Carson Palmquist
 824652,2026-07-22,2026,Chicago Cubs,Detroit Tigers,11,2,656849,664285,David Peterson,Framber Valdez
 824735,2026-07-22,2026,Boston Red Sox,Baltimore Orioles,6,3,687562,665152,Jake Bennett,Dean Kremer
+825055,2026-07-22,2026,Arizona Diamondbacks,Athletics,15,5,518876,695611,Merrill Kelly,Gage Jump
 825056,2026-07-22,2026,Arizona Diamondbacks,Athletics,6,5,684442,678022,Kohl Drake,Jack Perkins
