@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-22T16:41:50+00:00",
+  "updated_utc": "2026-07-22T17:52:34+00:00",
   "record": "20-15",
   "settled": 35,
   "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Washington Nationals @ Colorado Rockies",
+      "side": "Washington Nationals",
+      "confidence": 53.7,
+      "fair_line": "-116",
+      "published": "2026-07-22T17:52:34+00:00",
+      "starts": "2026-07-22T19:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Baltimore Orioles @ Boston Red Sox",
