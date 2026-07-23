@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-23T16:43:19+00:00",
+  "updated_utc": "2026-07-23T18:00:22+00:00",
   "record": "23-17",
   "settled": 40,
   "hit_rate": 57.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Tampa Bay Rays @ Toronto Blue Jays",
+      "side": "Toronto Blue Jays",
+      "confidence": 59.2,
+      "fair_line": "-145",
+      "published": "2026-07-23T18:00:22+00:00",
+      "starts": "2026-07-23T19:07:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "San Diego Padres @ Atlanta Braves",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "8-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Philadelphia Phillies @ Detroit Tigers",
-      "side": "Philadelphia Phillies",
-      "confidence": 51.8,
-      "fair_line": "-107",
-      "published": "2026-07-12T16:42:20+00:00",
-      "starts": "2026-07-12T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-0"
     }
   ]
 }
