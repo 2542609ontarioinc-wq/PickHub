@@ -39,5 +39,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824004,2026-07-22T18:53:47+00:00,2026-07-22T20:07:00+00:00,MLB,St. Louis Cardinals,Los Angeles Angels,Hunter Dobbins,Reid Detmers,Los Angeles Angels,0.5060,-102,SETTLED,1,0,LOSS
 824408,2026-07-22T21:20:13+00:00,2026-07-22T22:40:00+00:00,MLB,Minnesota Twins,Cleveland Guardians,Bailey Ober,Slade Cecconi,Cleveland Guardians,0.6345,-174,SETTLED,10,6,LOSS
 823438,2026-07-22T21:20:13+00:00,2026-07-22T22:40:00+00:00,MLB,Los Angeles Dodgers,Philadelphia Phillies,Eric Lauer,Aaron Nola,Los Angeles Dodgers,0.5088,-104,SETTLED,9,5,WIN
-824893,2026-07-23T15:08:23+00:00,2026-07-23T16:15:00+00:00,MLB,San Diego Padres,Atlanta Braves,Kyle Hart,Chris Sale,Atlanta Braves,0.5658,-130,PENDING,,,
+824893,2026-07-23T15:08:23+00:00,2026-07-23T16:15:00+00:00,MLB,San Diego Padres,Atlanta Braves,Kyle Hart,Chris Sale,Atlanta Braves,0.5658,-130,SETTLED,5,6,WIN
 822785,2026-07-23T18:00:22+00:00,2026-07-23T19:07:00+00:00,MLB,Tampa Bay Rays,Toronto Blue Jays,Casey Legumina,Shane Bieber,Toronto Blue Jays,0.5916,-145,PENDING,,,
