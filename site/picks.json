@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-24T17:47:52+00:00",
+  "updated_utc": "2026-07-24T19:08:29+00:00",
   "record": "26-17",
   "settled": 43,
   "hit_rate": 60.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Colorado Rockies @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 76.0,
+      "fair_line": "-317",
+      "published": "2026-07-24T19:08:29+00:00",
+      "starts": "2026-07-24T20:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Kansas City Royals @ Detroit Tigers",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "8-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Boston Red Sox @ New York Mets",
-      "side": "New York Mets",
-      "confidence": 50.8,
-      "fair_line": "-103",
-      "published": "2026-07-12T16:42:20+00:00",
-      "starts": "2026-07-12T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-2"
     }
   ]
 }
