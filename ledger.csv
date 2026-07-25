@@ -44,7 +44,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824247,2026-07-23T21:40:03+00:00,2026-07-23T22:40:00+00:00,MLB,Kansas City Royals,Detroit Tigers,Randy Dobnak,Troy Melton,Detroit Tigers,0.5346,-115,SETTLED,3,4,WIN
 823759,2026-07-24T19:08:29+00:00,2026-07-24T20:10:00+00:00,MLB,Colorado Rockies,Milwaukee Brewers,Tomoyuki Sugano,Shane Drohan,Milwaukee Brewers,0.7601,-317,SETTLED,5,2,LOSS
 824248,2026-07-24T21:42:39+00:00,2026-07-24T22:40:00+00:00,MLB,Kansas City Royals,Detroit Tigers,Beck Way,Tarik Skubal,Detroit Tigers,0.5902,-144,SETTLED,1,2,WIN
-823352,2026-07-24T21:42:39+00:00,2026-07-24T22:40:00+00:00,MLB,Chicago Cubs,Pittsburgh Pirates,Matthew Boyd,Jared Jones,Chicago Cubs,0.5434,-119,PENDING,,,
-822707,2026-07-24T21:42:39+00:00,2026-07-24T22:45:00+00:00,MLB,Arizona Diamondbacks,Washington Nationals,Eduardo Rodriguez,Carson Palmquist,Arizona Diamondbacks,0.6407,-178,PENDING,,,
-823434,2026-07-24T21:42:39+00:00,2026-07-24T22:45:00+00:00,MLB,New York Yankees,Philadelphia Phillies,Cam Schlittler,Jesús Luzardo,New York Yankees,0.5025,-101,PENDING,,,
-824573,2026-07-24T22:41:31+00:00,2026-07-24T23:40:00+00:00,MLB,Houston Astros,Chicago White Sox,Spencer Arrighetti,Davis Martin,Houston Astros,0.5110,-105,PENDING,,,
+823352,2026-07-24T21:42:39+00:00,2026-07-24T22:40:00+00:00,MLB,Chicago Cubs,Pittsburgh Pirates,Matthew Boyd,Jared Jones,Chicago Cubs,0.5434,-119,SETTLED,3,2,WIN
+822707,2026-07-24T21:42:39+00:00,2026-07-24T22:45:00+00:00,MLB,Arizona Diamondbacks,Washington Nationals,Eduardo Rodriguez,Carson Palmquist,Arizona Diamondbacks,0.6407,-178,SETTLED,3,2,WIN
+823434,2026-07-24T21:42:39+00:00,2026-07-24T22:45:00+00:00,MLB,New York Yankees,Philadelphia Phillies,Cam Schlittler,Jesús Luzardo,New York Yankees,0.5025,-101,SETTLED,1,0,WIN
+824573,2026-07-24T22:41:31+00:00,2026-07-24T23:40:00+00:00,MLB,Houston Astros,Chicago White Sox,Spencer Arrighetti,Davis Martin,Houston Astros,0.5110,-105,SETTLED,9,5,WIN
