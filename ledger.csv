@@ -48,3 +48,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 822707,2026-07-24T21:42:39+00:00,2026-07-24T22:45:00+00:00,MLB,Arizona Diamondbacks,Washington Nationals,Eduardo Rodriguez,Carson Palmquist,Arizona Diamondbacks,0.6407,-178,SETTLED,3,2,WIN
 823434,2026-07-24T21:42:39+00:00,2026-07-24T22:45:00+00:00,MLB,New York Yankees,Philadelphia Phillies,Cam Schlittler,Jesús Luzardo,New York Yankees,0.5025,-101,SETTLED,1,0,WIN
 824573,2026-07-24T22:41:31+00:00,2026-07-24T23:40:00+00:00,MLB,Houston Astros,Chicago White Sox,Spencer Arrighetti,Davis Martin,Houston Astros,0.5110,-105,SETTLED,9,5,WIN
+823355,2026-07-25T21:32:33+00:00,2026-07-25T22:40:00+00:00,MLB,Chicago Cubs,Pittsburgh Pirates,Shota Imanaga,Paul Skenes,Pittsburgh Pirates,0.5003,-100,PENDING,,,
