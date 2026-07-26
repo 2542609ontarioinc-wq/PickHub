@@ -1,8 +1,8 @@
 {
-  "updated_utc": "2026-07-26T19:51:42+00:00",
-  "record": "32-19",
-  "settled": 51,
-  "hit_rate": 62.7,
+  "updated_utc": "2026-07-26T20:43:49+00:00",
+  "record": "34-21",
+  "settled": 55,
+  "hit_rate": 61.8,
   "picks": [
     {
       "sport": "MLB",
@@ -24,9 +24,9 @@
       "fair_line": "-140",
       "published": "2026-07-26T16:43:31+00:00",
       "starts": "2026-07-26T17:35:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "7-10"
     },
     {
       "sport": "MLB",
@@ -36,9 +36,9 @@
       "fair_line": "-112",
       "published": "2026-07-26T16:43:31+00:00",
       "starts": "2026-07-26T17:35:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "7-8"
     },
     {
       "sport": "MLB",
@@ -48,9 +48,9 @@
       "fair_line": "-141",
       "published": "2026-07-26T16:43:31+00:00",
       "starts": "2026-07-26T17:35:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "1-6"
     },
     {
       "sport": "MLB",
@@ -96,9 +96,9 @@
       "fair_line": "-122",
       "published": "2026-07-26T16:43:31+00:00",
       "starts": "2026-07-26T17:40:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "5-3"
     },
     {
       "sport": "MLB",

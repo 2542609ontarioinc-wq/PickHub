@@ -50,11 +50,11 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824573,2026-07-24T22:41:31+00:00,2026-07-24T23:40:00+00:00,MLB,Houston Astros,Chicago White Sox,Spencer Arrighetti,Davis Martin,Houston Astros,0.5110,-105,SETTLED,9,5,WIN
 823355,2026-07-25T21:32:33+00:00,2026-07-25T22:40:00+00:00,MLB,Chicago Cubs,Pittsburgh Pirates,Shota Imanaga,Paul Skenes,Pittsburgh Pirates,0.5003,-100,SETTLED,11,0,LOSS
 822950,2026-07-26T14:55:23+00:00,2026-07-26T16:15:00+00:00,MLB,Cleveland Guardians,Tampa Bay Rays,Parker Messick,Drew Rasmussen,Tampa Bay Rays,0.5298,-113,SETTLED,0,1,WIN
-822706,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Arizona Diamondbacks,Washington Nationals,Kohl Drake,Miles Mikolas,Arizona Diamondbacks,0.5832,-140,PENDING,,,
-823354,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Chicago Cubs,Pittsburgh Pirates,Jameson Taillon,Braxton Ashcraft,Chicago Cubs,0.5276,-112,PENDING,,,
-824730,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Toronto Blue Jays,Boston Red Sox,Kevin Gausman,Ranger Suarez,Boston Red Sox,0.5843,-141,PENDING,,,
+822706,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Arizona Diamondbacks,Washington Nationals,Kohl Drake,Miles Mikolas,Arizona Diamondbacks,0.5832,-140,SETTLED,7,10,LOSS
+823354,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Chicago Cubs,Pittsburgh Pirates,Jameson Taillon,Braxton Ashcraft,Chicago Cubs,0.5276,-112,SETTLED,7,8,LOSS
+824730,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Toronto Blue Jays,Boston Red Sox,Kevin Gausman,Ranger Suarez,Boston Red Sox,0.5843,-141,SETTLED,1,6,WIN
 824810,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Atlanta Braves,Baltimore Orioles,Reynaldo López,Shane Baz,Baltimore Orioles,0.5176,-107,PENDING,,,
 824246,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,Kansas City Royals,Detroit Tigers,Luinder Avila,Framber Valdez,Detroit Tigers,0.5147,-106,PENDING,,,
 823599,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,Los Angeles Dodgers,New York Mets,Emmet Sheehan,Freddy Peralta,Los Angeles Dodgers,0.5266,-111,PENDING,,,
-823840,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,San Diego Padres,Miami Marlins,Walker Buehler,Janson Junk,San Diego Padres,0.5495,-122,PENDING,,,
+823840,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,San Diego Padres,Miami Marlins,Walker Buehler,Janson Junk,San Diego Padres,0.5495,-122,SETTLED,5,3,WIN
 822870,2026-07-26T17:43:05+00:00,2026-07-26T18:35:00+00:00,MLB,Seattle Mariners,Texas Rangers,Logan Gilbert,Jacob deGrom,Texas Rangers,0.5406,-118,PENDING,,,
