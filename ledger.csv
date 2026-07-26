@@ -53,8 +53,8 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 822706,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Arizona Diamondbacks,Washington Nationals,Kohl Drake,Miles Mikolas,Arizona Diamondbacks,0.5832,-140,SETTLED,7,10,LOSS
 823354,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Chicago Cubs,Pittsburgh Pirates,Jameson Taillon,Braxton Ashcraft,Chicago Cubs,0.5276,-112,SETTLED,7,8,LOSS
 824730,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Toronto Blue Jays,Boston Red Sox,Kevin Gausman,Ranger Suarez,Boston Red Sox,0.5843,-141,SETTLED,1,6,WIN
-824810,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Atlanta Braves,Baltimore Orioles,Reynaldo López,Shane Baz,Baltimore Orioles,0.5176,-107,PENDING,,,
-824246,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,Kansas City Royals,Detroit Tigers,Luinder Avila,Framber Valdez,Detroit Tigers,0.5147,-106,PENDING,,,
-823599,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,Los Angeles Dodgers,New York Mets,Emmet Sheehan,Freddy Peralta,Los Angeles Dodgers,0.5266,-111,PENDING,,,
+824810,2026-07-26T16:43:31+00:00,2026-07-26T17:35:00+00:00,MLB,Atlanta Braves,Baltimore Orioles,Reynaldo López,Shane Baz,Baltimore Orioles,0.5176,-107,SETTLED,3,2,LOSS
+824246,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,Kansas City Royals,Detroit Tigers,Luinder Avila,Framber Valdez,Detroit Tigers,0.5147,-106,SETTLED,5,4,LOSS
+823599,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,Los Angeles Dodgers,New York Mets,Emmet Sheehan,Freddy Peralta,Los Angeles Dodgers,0.5266,-111,SETTLED,3,8,LOSS
 823840,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,San Diego Padres,Miami Marlins,Walker Buehler,Janson Junk,San Diego Padres,0.5495,-122,SETTLED,5,3,WIN
 822870,2026-07-26T17:43:05+00:00,2026-07-26T18:35:00+00:00,MLB,Seattle Mariners,Texas Rangers,Logan Gilbert,Jacob deGrom,Texas Rangers,0.5406,-118,PENDING,,,
