@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-26T13:51:50+00:00",
+  "updated_utc": "2026-07-26T14:55:23+00:00",
   "record": "31-19",
   "settled": 50,
   "hit_rate": 62.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cleveland Guardians @ Tampa Bay Rays",
+      "side": "Tampa Bay Rays",
+      "confidence": 53.0,
+      "fair_line": "-113",
+      "published": "2026-07-26T14:55:23+00:00",
+      "starts": "2026-07-26T16:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Chicago Cubs @ Pittsburgh Pirates",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "6-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Texas Rangers @ Atlanta Braves",
-      "side": "Atlanta Braves",
-      "confidence": 59.4,
-      "fair_line": "-146",
-      "published": "2026-07-17T22:21:05+00:00",
-      "starts": "2026-07-17T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-15"
     }
   ]
 }
