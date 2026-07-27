@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-07-27T20:59:44+00:00",
+  "updated_utc": "2026-07-27T22:07:25+00:00",
   "record": "34-25",
   "settled": 59,
   "hit_rate": 57.6,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cleveland Guardians @ Cincinnati Reds",
+      "side": "Cincinnati Reds",
+      "confidence": 52.4,
+      "fair_line": "-110",
+      "published": "2026-07-27T22:07:25+00:00",
+      "starts": "2026-07-27T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Atlanta Braves @ New York Mets",
+      "side": "New York Mets",
+      "confidence": 50.4,
+      "fair_line": "-102",
+      "published": "2026-07-27T22:07:25+00:00",
+      "starts": "2026-07-27T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Seattle Mariners @ Texas Rangers",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "8-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Francisco Giants @ Seattle Mariners",
-      "side": "Seattle Mariners",
-      "confidence": 55.2,
-      "fair_line": "-123",
-      "published": "2026-07-18T23:06:16+00:00",
-      "starts": "2026-07-19T00:08:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Pittsburgh Pirates @ Cleveland Guardians",
-      "side": "Cleveland Guardians",
-      "confidence": 60.1,
-      "fair_line": "-150",
-      "published": "2026-07-18T22:04:04+00:00",
-      "starts": "2026-07-18T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-5"
     }
   ]
 }
