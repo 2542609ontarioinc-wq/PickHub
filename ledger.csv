@@ -60,3 +60,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 822870,2026-07-26T17:43:05+00:00,2026-07-26T18:35:00+00:00,MLB,Seattle Mariners,Texas Rangers,Logan Gilbert,Jacob deGrom,Texas Rangers,0.5406,-118,SETTLED,6,4,LOSS
 824490,2026-07-27T22:07:25+00:00,2026-07-27T23:10:00+00:00,MLB,Cleveland Guardians,Cincinnati Reds,Slade Cecconi,Chase Burns,Cincinnati Reds,0.5244,-110,SETTLED,6,5,LOSS
 823597,2026-07-27T22:07:25+00:00,2026-07-27T23:10:00+00:00,MLB,Atlanta Braves,New York Mets,Martín Pérez,Zac Thornton,New York Mets,0.5043,-102,SETTLED,3,14,WIN
+823676,2026-07-28T22:30:38+00:00,2026-07-28T23:40:00+00:00,MLB,Kansas City Royals,Minnesota Twins,Seth Lugo,Taj Bradley,Kansas City Royals,0.5125,-105,PENDING,,,
+824569,2026-07-28T22:30:38+00:00,2026-07-28T23:40:00+00:00,MLB,New York Yankees,Chicago White Sox,Gerrit Cole,Anthony Kay,New York Yankees,0.6122,-158,PENDING,,,
+823026,2026-07-28T22:30:38+00:00,2026-07-28T23:45:00+00:00,MLB,Chicago Cubs,St. Louis Cardinals,Colin Rea,Michael McGreevy,Chicago Cubs,0.5825,-139,PENDING,,,
