@@ -59,4 +59,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823840,2026-07-26T16:43:31+00:00,2026-07-26T17:40:00+00:00,MLB,San Diego Padres,Miami Marlins,Walker Buehler,Janson Junk,San Diego Padres,0.5495,-122,SETTLED,5,3,WIN
 822870,2026-07-26T17:43:05+00:00,2026-07-26T18:35:00+00:00,MLB,Seattle Mariners,Texas Rangers,Logan Gilbert,Jacob deGrom,Texas Rangers,0.5406,-118,SETTLED,6,4,LOSS
 824490,2026-07-27T22:07:25+00:00,2026-07-27T23:10:00+00:00,MLB,Cleveland Guardians,Cincinnati Reds,Slade Cecconi,Chase Burns,Cincinnati Reds,0.5244,-110,PENDING,,,
-823597,2026-07-27T22:07:25+00:00,2026-07-27T23:10:00+00:00,MLB,Atlanta Braves,New York Mets,Martín Pérez,Zac Thornton,New York Mets,0.5043,-102,PENDING,,,
+823597,2026-07-27T22:07:25+00:00,2026-07-27T23:10:00+00:00,MLB,Atlanta Braves,New York Mets,Martín Pérez,Zac Thornton,New York Mets,0.5043,-102,SETTLED,3,14,WIN
