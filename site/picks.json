@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-29T20:34:00+00:00",
+  "updated_utc": "2026-07-29T21:33:14+00:00",
   "record": "37-28",
   "settled": 65,
   "hit_rate": 56.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Texas Rangers @ Tampa Bay Rays",
+      "side": "Texas Rangers",
+      "confidence": 50.1,
+      "fair_line": "-100",
+      "published": "2026-07-29T21:33:14+00:00",
+      "starts": "2026-07-29T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Arizona Diamondbacks @ Pittsburgh Pirates",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "4-13"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Tampa Bay Rays @ Boston Red Sox",
-      "side": "Boston Red Sox",
-      "confidence": 61.8,
-      "fair_line": "-162",
-      "published": "2026-07-19T16:35:28+00:00",
-      "starts": "2026-07-19T17:35:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-6"
     }
   ]
 }
