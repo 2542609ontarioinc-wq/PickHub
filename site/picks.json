@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-07-30T20:53:17+00:00",
-  "record": "38-31",
-  "settled": 69,
-  "hit_rate": 55.1,
+  "updated_utc": "2026-07-30T21:56:14+00:00",
+  "record": "39-32",
+  "settled": 71,
+  "hit_rate": 54.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Pittsburgh Pirates @ Cincinnati Reds",
+      "side": "Cincinnati Reds",
+      "confidence": 57.9,
+      "fair_line": "-137",
+      "published": "2026-07-30T21:56:14+00:00",
+      "starts": "2026-07-30T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Miami Marlins @ New York Mets",
+      "side": "New York Mets",
+      "confidence": 62.3,
+      "fair_line": "-165",
+      "published": "2026-07-30T21:56:14+00:00",
+      "starts": "2026-07-30T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Washington Nationals @ Atlanta Braves",
+      "side": "Atlanta Braves",
+      "confidence": 65.7,
+      "fair_line": "-191",
+      "published": "2026-07-30T21:56:14+00:00",
+      "starts": "2026-07-30T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "New York Yankees @ Chicago White Sox",
@@ -12,9 +48,9 @@
       "fair_line": "-159",
       "published": "2026-07-30T16:56:14+00:00",
       "starts": "2026-07-30T18:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "1-2"
     },
     {
       "sport": "MLB",
@@ -24,9 +60,9 @@
       "fair_line": "-155",
       "published": "2026-07-30T16:56:14+00:00",
       "starts": "2026-07-30T18:15:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "4-2"
     },
     {
       "sport": "MLB",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "7-8"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Francisco Giants @ Kansas City Royals",
-      "side": "Kansas City Royals",
-      "confidence": 53.8,
-      "fair_line": "-117",
-      "published": "2026-07-21T22:33:12+00:00",
-      "starts": "2026-07-21T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Mets @ Milwaukee Brewers",
-      "side": "Milwaukee Brewers",
-      "confidence": 60.1,
-      "fair_line": "-151",
-      "published": "2026-07-21T22:33:12+00:00",
-      "starts": "2026-07-21T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Minnesota Twins @ Cleveland Guardians",
-      "side": "Cleveland Guardians",
-      "confidence": 64.0,
-      "fair_line": "-178",
-      "published": "2026-07-21T21:32:11+00:00",
-      "starts": "2026-07-21T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-5"
     }
   ]
 }

@@ -68,5 +68,8 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823677,2026-07-29T22:35:59+00:00,2026-07-29T23:40:00+00:00,MLB,Kansas City Royals,Minnesota Twins,Randy Dobnak,Joe Ryan,Kansas City Royals,0.5227,-109,SETTLED,4,0,WIN
 824567,2026-07-29T22:35:59+00:00,2026-07-29T23:40:00+00:00,MLB,New York Yankees,Chicago White Sox,Cam Schlittler,Davis Martin,New York Yankees,0.6337,-173,SETTLED,5,6,LOSS
 823022,2026-07-29T22:35:59+00:00,2026-07-29T23:45:00+00:00,MLB,Chicago Cubs,St. Louis Cardinals,Matthew Boyd,Dustin May,Chicago Cubs,0.6141,-159,SETTLED,2,3,LOSS
-824568,2026-07-30T16:56:14+00:00,2026-07-30T18:10:00+00:00,MLB,New York Yankees,Chicago White Sox,Ryan Weathers,Sean Burke,New York Yankees,0.6140,-159,PENDING,,,
-823023,2026-07-30T16:56:14+00:00,2026-07-30T18:15:00+00:00,MLB,Chicago Cubs,St. Louis Cardinals,Javier Assad,Andre Pallante,Chicago Cubs,0.6078,-155,PENDING,,,
+824568,2026-07-30T16:56:14+00:00,2026-07-30T18:10:00+00:00,MLB,New York Yankees,Chicago White Sox,Ryan Weathers,Sean Burke,New York Yankees,0.6140,-159,SETTLED,1,2,LOSS
+823023,2026-07-30T16:56:14+00:00,2026-07-30T18:15:00+00:00,MLB,Chicago Cubs,St. Louis Cardinals,Javier Assad,Andre Pallante,Chicago Cubs,0.6078,-155,SETTLED,4,2,WIN
+824488,2026-07-30T21:56:14+00:00,2026-07-30T23:10:00+00:00,MLB,Pittsburgh Pirates,Cincinnati Reds,Yohan Ramírez,Rhett Lowder,Cincinnati Reds,0.5789,-137,PENDING,,,
+823595,2026-07-30T21:56:14+00:00,2026-07-30T23:10:00+00:00,MLB,Miami Marlins,New York Mets,Eury Pérez,Nolan McLean,New York Mets,0.6227,-165,PENDING,,,
+824894,2026-07-30T21:56:14+00:00,2026-07-30T23:15:00+00:00,MLB,Washington Nationals,Atlanta Braves,Jake Irvin,Grant Holmes,Atlanta Braves,0.6566,-191,PENDING,,,
