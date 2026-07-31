@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-07-31T22:42:24+00:00",
+  "updated_utc": "2026-07-31T23:40:34+00:00",
   "record": "42-32",
   "settled": 74,
   "hit_rate": 56.8,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Kansas City Royals @ Colorado Rockies",
+      "side": "Kansas City Royals",
+      "confidence": 63.2,
+      "fair_line": "-172",
+      "published": "2026-07-31T23:40:34+00:00",
+      "starts": "2026-08-01T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Pittsburgh Pirates @ Cincinnati Reds",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "3-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Washington Nationals @ Colorado Rockies",
-      "side": "Colorado Rockies",
-      "confidence": 53.2,
-      "fair_line": "-114",
-      "published": "2026-07-21T23:37:40+00:00",
-      "starts": "2026-07-22T00:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "7-8"
     }
   ]
 }

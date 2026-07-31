@@ -73,3 +73,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824488,2026-07-30T21:56:14+00:00,2026-07-30T23:10:00+00:00,MLB,Pittsburgh Pirates,Cincinnati Reds,Yohan Ramírez,Rhett Lowder,Cincinnati Reds,0.5789,-137,SETTLED,2,3,WIN
 823595,2026-07-30T21:56:14+00:00,2026-07-30T23:10:00+00:00,MLB,Miami Marlins,New York Mets,Eury Pérez,Nolan McLean,New York Mets,0.6227,-165,SETTLED,2,4,WIN
 824894,2026-07-30T21:56:14+00:00,2026-07-30T23:15:00+00:00,MLB,Washington Nationals,Atlanta Braves,Jake Irvin,Grant Holmes,Atlanta Braves,0.6566,-191,SETTLED,4,5,WIN
+824325,2026-07-31T23:40:34+00:00,2026-08-01T00:40:00+00:00,MLB,Kansas City Royals,Colorado Rockies,Michael Wacha,Tomoyuki Sugano,Kansas City Royals,0.6321,-172,PENDING,,,
