@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-01T22:34:53+00:00",
+  "updated_utc": "2026-08-01T23:37:38+00:00",
   "record": "42-33",
   "settled": 75,
   "hit_rate": 56.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "San Francisco Giants @ San Diego Padres",
+      "side": "San Diego Padres",
+      "confidence": 54.6,
+      "fair_line": "-120",
+      "published": "2026-08-01T23:37:38+00:00",
+      "starts": "2026-08-02T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Pittsburgh Pirates @ Cincinnati Reds",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "1-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Washington Nationals @ Colorado Rockies",
-      "side": "Washington Nationals",
-      "confidence": 53.7,
-      "fair_line": "-116",
-      "published": "2026-07-22T17:52:34+00:00",
-      "starts": "2026-07-22T19:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "8-0"
     }
   ]
 }
