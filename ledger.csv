@@ -80,6 +80,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824891,2026-08-02T16:34:42+00:00,2026-08-02T17:35:00+00:00,MLB,Washington Nationals,Atlanta Braves,Cade Cavalli,JR Ritchie,Atlanta Braves,0.6453,-182,SETTLED,2,4,WIN
 822783,2026-08-02T16:34:42+00:00,2026-08-02T17:37:00+00:00,MLB,St. Louis Cardinals,Toronto Blue Jays,Matthew Liberatore,Max Scherzer,Toronto Blue Jays,0.6103,-157,SETTLED,5,1,LOSS
 824404,2026-08-02T16:34:42+00:00,2026-08-02T17:40:00+00:00,MLB,Arizona Diamondbacks,Cleveland Guardians,Merrill Kelly,Gavin Williams,Cleveland Guardians,0.5130,-105,PENDING,,,
-824483,2026-08-02T16:34:42+00:00,2026-08-02T17:40:00+00:00,MLB,Pittsburgh Pirates,Cincinnati Reds,Mitch Keller,Chase Burns,Cincinnati Reds,0.5502,-122,PENDING,,,
+824483,2026-08-02T16:34:42+00:00,2026-08-02T17:40:00+00:00,MLB,Pittsburgh Pirates,Cincinnati Reds,Mitch Keller,Chase Burns,Cincinnati Reds,0.5502,-122,SETTLED,2,10,WIN
 822943,2026-08-02T16:34:42+00:00,2026-08-02T17:40:00+00:00,MLB,Chicago White Sox,Tampa Bay Rays,Anthony Kay,Griffin Jax,Tampa Bay Rays,0.5976,-149,SETTLED,9,1,LOSS
 823592,2026-08-02T16:34:42+00:00,2026-08-02T17:40:00+00:00,MLB,Miami Marlins,New York Mets,Sandy Alcantara,Robert Stock,New York Mets,0.5062,-103,SETTLED,2,0,LOSS
