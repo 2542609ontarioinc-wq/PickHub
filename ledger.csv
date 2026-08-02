@@ -74,5 +74,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823595,2026-07-30T21:56:14+00:00,2026-07-30T23:10:00+00:00,MLB,Miami Marlins,New York Mets,Eury Pérez,Nolan McLean,New York Mets,0.6227,-165,SETTLED,2,4,WIN
 824894,2026-07-30T21:56:14+00:00,2026-07-30T23:15:00+00:00,MLB,Washington Nationals,Atlanta Braves,Jake Irvin,Grant Holmes,Atlanta Braves,0.6566,-191,SETTLED,4,5,WIN
 824325,2026-07-31T23:40:34+00:00,2026-08-01T00:40:00+00:00,MLB,Kansas City Royals,Colorado Rockies,Michael Wacha,Tomoyuki Sugano,Kansas City Royals,0.6321,-172,SETTLED,1,3,LOSS
-824485,2026-08-01T21:33:12+00:00,2026-08-01T22:40:00+00:00,MLB,Pittsburgh Pirates,Cincinnati Reds,Braxton Ashcraft,Andrew Abbott,Cincinnati Reds,0.5626,-129,PENDING,,,
-823269,2026-08-01T23:37:38+00:00,2026-08-02T00:40:00+00:00,MLB,San Francisco Giants,San Diego Padres,Tyler Mahle,Walker Buehler,San Diego Padres,0.5458,-120,PENDING,,,
+824485,2026-08-01T21:33:12+00:00,2026-08-01T22:40:00+00:00,MLB,Pittsburgh Pirates,Cincinnati Reds,Braxton Ashcraft,Andrew Abbott,Cincinnati Reds,0.5626,-129,SETTLED,4,1,LOSS
+823269,2026-08-01T23:37:38+00:00,2026-08-02T00:40:00+00:00,MLB,San Francisco Giants,San Diego Padres,Tyler Mahle,Walker Buehler,San Diego Padres,0.5458,-120,SETTLED,5,6,WIN
