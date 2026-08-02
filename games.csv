@@ -10027,7 +10027,9 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824975,2026-08-01,2026,Athletics,Detroit Tigers,1,13,605488,663947,Jeffrey Springs,Tyler Holton
 822783,2026-08-02,2026,Toronto Blue Jays,St. Louis Cardinals,1,5,453286,669461,Max Scherzer,Matthew Liberatore
 822943,2026-08-02,2026,Tampa Bay Rays,Chicago White Sox,1,9,643377,641743,Griffin Jax,Anthony Kay
+823107,2026-08-02,2026,Seattle Mariners,Minnesota Twins,7,6,669923,671737,George Kirby,Taj Bradley
 823269,2026-08-02,2026,San Diego Padres,San Francisco Giants,6,5,621111,641816,Walker Buehler,Tyler Mahle
+823270,2026-08-02,2026,San Diego Padres,San Francisco Giants,5,4,606996,694738,Kyle Hart,Landen Roupp
 823592,2026-08-02,2026,New York Mets,Miami Marlins,0,2,476594,645261,Robert Stock,Sandy Alcantara
 823920,2026-08-02,2026,Los Angeles Dodgers,Boston Red Sox,2,3,808967,801139,Yoshinobu Yamamoto,Payton Tolle
 823996,2026-08-02,2026,Los Angeles Angels,Milwaukee Brewers,3,0,700712,694819,Walbert Ureña,Jacob Misiorowski
@@ -10040,4 +10042,5 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824648,2026-08-02,2026,Chicago Cubs,New York Yankees,1,2,607067,543037,Colin Rea,Gerrit Cole
 824807,2026-08-02,2026,Baltimore Orioles,Philadelphia Phillies,0,8,680694,554430,Kyle Bradish,Zack Wheeler
 824891,2026-08-02,2026,Atlanta Braves,Washington Nationals,4,2,702275,676917,JR Ritchie,Cade Cavalli
+824971,2026-08-02,2026,Athletics,Detroit Tigers,0,11,695611,672456,Gage Jump,Keider Montero
 824972,2026-08-02,2026,Athletics,Detroit Tigers,6,8,678022,664285,Jack Perkins,Framber Valdez
