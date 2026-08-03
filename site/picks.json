@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-03T22:31:21+00:00",
+  "updated_utc": "2026-08-03T23:44:29+00:00",
   "record": "47-37",
   "settled": 84,
   "hit_rate": 56.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Tampa Bay Rays @ Colorado Rockies",
+      "side": "Tampa Bay Rays",
+      "confidence": 62.9,
+      "fair_line": "-169",
+      "published": "2026-08-03T23:44:29+00:00",
+      "starts": "2026-08-04T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Pittsburgh Pirates @ Milwaukee Brewers",
@@ -468,18 +480,6 @@
       "fair_line": "-119",
       "published": "2026-07-24T21:42:39+00:00",
       "starts": "2026-07-24T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Washington Nationals",
-      "side": "Arizona Diamondbacks",
-      "confidence": 64.1,
-      "fair_line": "-178",
-      "published": "2026-07-24T21:42:39+00:00",
-      "starts": "2026-07-24T22:45:00+00:00",
       "status": "SETTLED",
       "result": "WIN",
       "score": "3-2"
