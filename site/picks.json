@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-04T22:02:27+00:00",
+  "updated_utc": "2026-08-04T23:16:26+00:00",
   "record": "48-38",
   "settled": 86,
   "hit_rate": 55.8,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Toronto Blue Jays @ Houston Astros",
+      "side": "Houston Astros",
+      "confidence": 50.3,
+      "fair_line": "-101",
+      "published": "2026-08-04T23:16:26+00:00",
+      "starts": "2026-08-05T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "St. Louis Cardinals @ New York Yankees",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "0-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago Cubs @ Pittsburgh Pirates",
-      "side": "Pittsburgh Pirates",
-      "confidence": 50.0,
-      "fair_line": "-100",
-      "published": "2026-07-25T21:32:33+00:00",
-      "starts": "2026-07-25T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "11-0"
     }
   ]
 }
