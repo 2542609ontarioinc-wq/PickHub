@@ -83,5 +83,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824483,2026-08-02T16:34:42+00:00,2026-08-02T17:40:00+00:00,MLB,Pittsburgh Pirates,Cincinnati Reds,Mitch Keller,Chase Burns,Cincinnati Reds,0.5502,-122,SETTLED,2,10,WIN
 822943,2026-08-02T16:34:42+00:00,2026-08-02T17:40:00+00:00,MLB,Chicago White Sox,Tampa Bay Rays,Anthony Kay,Griffin Jax,Tampa Bay Rays,0.5976,-149,SETTLED,9,1,LOSS
 823592,2026-08-02T16:34:42+00:00,2026-08-02T17:40:00+00:00,MLB,Miami Marlins,New York Mets,Sandy Alcantara,Robert Stock,New York Mets,0.5062,-103,SETTLED,2,0,LOSS
-823757,2026-08-03T22:31:21+00:00,2026-08-03T23:40:00+00:00,MLB,Pittsburgh Pirates,Milwaukee Brewers,Bubba Chandler,Brandon Sproat,Milwaukee Brewers,0.6185,-162,PENDING,,,
-824324,2026-08-03T23:44:29+00:00,2026-08-04T00:40:00+00:00,MLB,Tampa Bay Rays,Colorado Rockies,Ian Seymour,Michael Lorenzen,Tampa Bay Rays,0.6288,-169,PENDING,,,
+823757,2026-08-03T22:31:21+00:00,2026-08-03T23:40:00+00:00,MLB,Pittsburgh Pirates,Milwaukee Brewers,Bubba Chandler,Brandon Sproat,Milwaukee Brewers,0.6185,-162,SETTLED,4,3,LOSS
+824324,2026-08-03T23:44:29+00:00,2026-08-04T00:40:00+00:00,MLB,Tampa Bay Rays,Colorado Rockies,Ian Seymour,Michael Lorenzen,Tampa Bay Rays,0.6288,-169,SETTLED,13,9,WIN
