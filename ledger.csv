@@ -85,3 +85,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823592,2026-08-02T16:34:42+00:00,2026-08-02T17:40:00+00:00,MLB,Miami Marlins,New York Mets,Sandy Alcantara,Robert Stock,New York Mets,0.5062,-103,SETTLED,2,0,LOSS
 823757,2026-08-03T22:31:21+00:00,2026-08-03T23:40:00+00:00,MLB,Pittsburgh Pirates,Milwaukee Brewers,Bubba Chandler,Brandon Sproat,Milwaukee Brewers,0.6185,-162,SETTLED,4,3,LOSS
 824324,2026-08-03T23:44:29+00:00,2026-08-04T00:40:00+00:00,MLB,Tampa Bay Rays,Colorado Rockies,Ian Seymour,Michael Lorenzen,Tampa Bay Rays,0.6288,-169,SETTLED,13,9,WIN
+823517,2026-08-04T22:02:26+00:00,2026-08-04T23:05:00+00:00,MLB,St. Louis Cardinals,New York Yankees,Hunter Dobbins,Ryan Weathers,New York Yankees,0.6535,-189,PENDING,,,
+824731,2026-08-04T22:02:26+00:00,2026-08-04T23:10:00+00:00,MLB,Chicago White Sox,Boston Red Sox,Davis Martin,Patrick Sandoval,Boston Red Sox,0.6709,-204,PENDING,,,
+824888,2026-08-04T22:02:26+00:00,2026-08-04T23:15:00+00:00,MLB,Miami Marlins,Atlanta Braves,Ryan Gusto,Grant Holmes,Atlanta Braves,0.6185,-162,PENDING,,,
