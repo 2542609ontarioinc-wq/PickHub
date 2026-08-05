@@ -90,3 +90,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824888,2026-08-04T22:02:26+00:00,2026-08-04T23:15:00+00:00,MLB,Miami Marlins,Atlanta Braves,Ryan Gusto,Grant Holmes,Atlanta Braves,0.6185,-162,SETTLED,2,4,WIN
 824161,2026-08-04T23:16:26+00:00,2026-08-05T00:10:00+00:00,MLB,Toronto Blue Jays,Houston Astros,Trey Yesavage,Hayden Wesneski,Houston Astros,0.5035,-101,SETTLED,2,7,WIN
 824158,2026-08-05T16:57:17+00:00,2026-08-05T18:10:00+00:00,MLB,Toronto Blue Jays,Houston Astros,Jameson Taillon,Hunter Brown,Houston Astros,0.5574,-126,PENDING,,,
+824322,2026-08-05T18:16:01+00:00,2026-08-05T19:10:00+00:00,MLB,Tampa Bay Rays,Colorado Rockies,Nick Martinez,Tomoyuki Sugano,Tampa Bay Rays,0.6267,-168,PENDING,,,
