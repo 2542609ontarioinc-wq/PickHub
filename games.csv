@@ -10049,7 +10049,19 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 823520,2026-08-03,2026,New York Yankees,St. Louis Cardinals,7,13,693645,700241,Cam Schlittler,Michael McGreevy
 823757,2026-08-03,2026,Milwaukee Brewers,Pittsburgh Pirates,3,4,687075,696149,Brandon Sproat,Bubba Chandler
 822867,2026-08-04,2026,Texas Rangers,San Francisco Giants,1,5,615698,657277,Cal Quantrill,Logan Webb
+823432,2026-08-04,2026,Philadelphia Phillies,Washington Nationals,5,0,666200,687223,Jesús Luzardo,Carson Palmquist
+823517,2026-08-04,2026,New York Yankees,St. Louis Cardinals,2,0,677960,690928,Ryan Weathers,Hunter Dobbins
+823756,2026-08-04,2026,Milwaukee Brewers,Pittsburgh Pirates,4,2,701656,683003,Logan Henderson,Jared Jones
+824084,2026-08-04,2026,Kansas City Royals,Minnesota Twins,8,2,677976,657746,Randy Dobnak,Joe Ryan
 824160,2026-08-04,2026,Houston Astros,Toronto Blue Jays,1,3,664299,669456,Cristian Javier,Shane Bieber
 824324,2026-08-04,2026,Colorado Rockies,Tampa Bay Rays,9,13,547179,693855,Michael Lorenzen,Ian Seymour
+824403,2026-08-04,2026,Cleveland Guardians,New York Mets,2,6,676282,640455,Joey Cantillo,Sean Manaea
+824484,2026-08-04,2026,Cincinnati Reds,Athletics,5,4,663903,669372,Brady Singer,J.T. Ginn
 824647,2026-08-04,2026,Chicago Cubs,Los Angeles Dodgers,10,5,571510,680736,Matthew Boyd,Justin Wrobleski
+824731,2026-08-04,2026,Boston Red Sox,Chicago White Sox,14,2,663776,663436,Patrick Sandoval,Davis Martin
+824805,2026-08-04,2026,Baltimore Orioles,Los Angeles Angels,3,1,700249,680570,Cade Povich,Grayson Rodriguez
+824888,2026-08-04,2026,Atlanta Braves,Miami Marlins,4,2,656550,687473,Grant Holmes,Ryan Gusto
 825095,2026-08-04,2026,Arizona Diamondbacks,San Diego Padres,5,1,694297,650633,Brandon Pfaadt,Michael King
+822865,2026-08-05,2026,Texas Rangers,San Francisco Giants,5,4,669022,694918,MacKenzie Gore,Blade Tidwell
+824161,2026-08-05,2026,Houston Astros,Toronto Blue Jays,7,2,669713,702056,Hayden Wesneski,Trey Yesavage
+824645,2026-08-05,2026,Chicago Cubs,Los Angeles Dodgers,5,1,665871,669373,Javier Assad,Tarik Skubal
