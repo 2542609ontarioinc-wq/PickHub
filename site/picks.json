@@ -1,9 +1,57 @@
 {
-  "updated_utc": "2026-08-05T20:01:22+00:00",
-  "record": "52-38",
-  "settled": 90,
-  "hit_rate": 57.8,
+  "updated_utc": "2026-08-05T21:23:04+00:00",
+  "record": "52-39",
+  "settled": 91,
+  "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Angels @ Baltimore Orioles",
+      "side": "Baltimore Orioles",
+      "confidence": 65.1,
+      "fair_line": "-187",
+      "published": "2026-08-05T21:23:04+00:00",
+      "starts": "2026-08-05T22:35:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "New York Mets @ Cleveland Guardians",
+      "side": "Cleveland Guardians",
+      "confidence": 52.9,
+      "fair_line": "-112",
+      "published": "2026-08-05T21:23:04+00:00",
+      "starts": "2026-08-05T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Athletics @ Cincinnati Reds",
+      "side": "Cincinnati Reds",
+      "confidence": 61.2,
+      "fair_line": "-157",
+      "published": "2026-08-05T21:23:04+00:00",
+      "starts": "2026-08-05T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Washington Nationals @ Philadelphia Phillies",
+      "side": "Philadelphia Phillies",
+      "confidence": 70.4,
+      "fair_line": "-237",
+      "published": "2026-08-05T21:23:04+00:00",
+      "starts": "2026-08-05T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Tampa Bay Rays @ Colorado Rockies",
@@ -24,9 +72,9 @@
       "fair_line": "-126",
       "published": "2026-08-05T16:57:17+00:00",
       "starts": "2026-08-05T18:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "5-4"
     },
     {
       "sport": "MLB",
@@ -435,54 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "7-8"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Toronto Blue Jays @ Boston Red Sox",
-      "side": "Boston Red Sox",
-      "confidence": 58.4,
-      "fair_line": "-141",
-      "published": "2026-07-26T16:43:31+00:00",
-      "starts": "2026-07-26T17:35:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Atlanta Braves @ Baltimore Orioles",
-      "side": "Baltimore Orioles",
-      "confidence": 51.8,
-      "fair_line": "-107",
-      "published": "2026-07-26T16:43:31+00:00",
-      "starts": "2026-07-26T17:35:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Kansas City Royals @ Detroit Tigers",
-      "side": "Detroit Tigers",
-      "confidence": 51.5,
-      "fair_line": "-106",
-      "published": "2026-07-26T16:43:31+00:00",
-      "starts": "2026-07-26T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "5-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Los Angeles Dodgers @ New York Mets",
-      "side": "Los Angeles Dodgers",
-      "confidence": 52.7,
-      "fair_line": "-111",
-      "published": "2026-07-26T16:43:31+00:00",
-      "starts": "2026-07-26T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-8"
     }
   ]
 }
