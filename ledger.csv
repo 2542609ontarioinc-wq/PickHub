@@ -91,9 +91,9 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824161,2026-08-04T23:16:26+00:00,2026-08-05T00:10:00+00:00,MLB,Toronto Blue Jays,Houston Astros,Trey Yesavage,Hayden Wesneski,Houston Astros,0.5035,-101,SETTLED,2,7,WIN
 824158,2026-08-05T16:57:17+00:00,2026-08-05T18:10:00+00:00,MLB,Toronto Blue Jays,Houston Astros,Jameson Taillon,Hunter Brown,Houston Astros,0.5574,-126,SETTLED,5,4,LOSS
 824322,2026-08-05T18:16:01+00:00,2026-08-05T19:10:00+00:00,MLB,Tampa Bay Rays,Colorado Rockies,Nick Martinez,Tomoyuki Sugano,Tampa Bay Rays,0.6267,-168,SETTLED,4,0,WIN
-824806,2026-08-05T21:23:04+00:00,2026-08-05T22:35:00+00:00,MLB,Los Angeles Angels,Baltimore Orioles,Reid Detmers,Trevor Rogers,Baltimore Orioles,0.6511,-187,PENDING,,,
-824402,2026-08-05T21:23:04+00:00,2026-08-05T22:40:00+00:00,MLB,New York Mets,Cleveland Guardians,Christian Scott,Tanner Bibee,Cleveland Guardians,0.5287,-112,PENDING,,,
-824482,2026-08-05T21:23:04+00:00,2026-08-05T22:40:00+00:00,MLB,Athletics,Cincinnati Reds,Jacob Lopez,Rhett Lowder,Cincinnati Reds,0.6115,-157,PENDING,,,
-823429,2026-08-05T21:23:04+00:00,2026-08-05T22:40:00+00:00,MLB,Washington Nationals,Philadelphia Phillies,Jake Irvin,Andrew Painter,Philadelphia Phillies,0.7036,-237,PENDING,,,
-824082,2026-08-05T22:32:19+00:00,2026-08-05T23:40:00+00:00,MLB,Minnesota Twins,Kansas City Royals,Dean Kremer,Noah Cameron,Kansas City Royals,0.5757,-136,PENDING,,,
-823753,2026-08-05T22:32:19+00:00,2026-08-05T23:40:00+00:00,MLB,Pittsburgh Pirates,Milwaukee Brewers,Paul Skenes,Kyle Harrison,Milwaukee Brewers,0.5963,-148,PENDING,,,
+824806,2026-08-05T21:23:04+00:00,2026-08-05T22:35:00+00:00,MLB,Los Angeles Angels,Baltimore Orioles,Reid Detmers,Trevor Rogers,Baltimore Orioles,0.6511,-187,SETTLED,2,5,WIN
+824402,2026-08-05T21:23:04+00:00,2026-08-05T22:40:00+00:00,MLB,New York Mets,Cleveland Guardians,Christian Scott,Tanner Bibee,Cleveland Guardians,0.5287,-112,SETTLED,6,5,LOSS
+824482,2026-08-05T21:23:04+00:00,2026-08-05T22:40:00+00:00,MLB,Athletics,Cincinnati Reds,Jacob Lopez,Rhett Lowder,Cincinnati Reds,0.6115,-157,SETTLED,2,3,WIN
+823429,2026-08-05T21:23:04+00:00,2026-08-05T22:40:00+00:00,MLB,Washington Nationals,Philadelphia Phillies,Jake Irvin,Andrew Painter,Philadelphia Phillies,0.7036,-237,SETTLED,10,4,LOSS
+824082,2026-08-05T22:32:19+00:00,2026-08-05T23:40:00+00:00,MLB,Minnesota Twins,Kansas City Royals,Dean Kremer,Noah Cameron,Kansas City Royals,0.5757,-136,SETTLED,1,2,WIN
+823753,2026-08-05T22:32:19+00:00,2026-08-05T23:40:00+00:00,MLB,Pittsburgh Pirates,Milwaukee Brewers,Paul Skenes,Kyle Harrison,Milwaukee Brewers,0.5963,-148,SETTLED,2,4,WIN
