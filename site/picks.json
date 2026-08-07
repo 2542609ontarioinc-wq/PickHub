@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-07T20:55:14+00:00",
+  "updated_utc": "2026-08-07T21:26:35+00:00",
   "record": "57-41",
   "settled": 98,
   "hit_rate": 58.2,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "New York Mets @ Pittsburgh Pirates",
+      "side": "New York Mets",
+      "confidence": 50.6,
+      "fair_line": "-103",
+      "published": "2026-08-07T21:26:34+00:00",
+      "starts": "2026-08-07T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Toronto Blue Jays @ Philadelphia Phillies",
+      "side": "Philadelphia Phillies",
+      "confidence": 59.2,
+      "fair_line": "-145",
+      "published": "2026-08-07T21:26:34+00:00",
+      "starts": "2026-08-07T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Washington Nationals",
+      "side": "Washington Nationals",
+      "confidence": 52.2,
+      "fair_line": "-109",
+      "published": "2026-08-07T21:26:34+00:00",
+      "starts": "2026-08-07T22:45:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Minnesota Twins @ Kansas City Royals",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "10-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Cleveland Guardians @ Cincinnati Reds",
-      "side": "Cincinnati Reds",
-      "confidence": 52.4,
-      "fair_line": "-110",
-      "published": "2026-07-27T22:07:25+00:00",
-      "starts": "2026-07-27T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "6-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Atlanta Braves @ New York Mets",
-      "side": "New York Mets",
-      "confidence": 50.4,
-      "fair_line": "-102",
-      "published": "2026-07-27T22:07:25+00:00",
-      "starts": "2026-07-27T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-14"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Seattle Mariners @ Texas Rangers",
-      "side": "Texas Rangers",
-      "confidence": 54.1,
-      "fair_line": "-118",
-      "published": "2026-07-26T17:43:05+00:00",
-      "starts": "2026-07-26T18:35:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "6-4"
     }
   ]
 }

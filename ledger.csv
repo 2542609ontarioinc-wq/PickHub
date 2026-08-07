@@ -97,3 +97,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823429,2026-08-05T21:23:04+00:00,2026-08-05T22:40:00+00:00,MLB,Washington Nationals,Philadelphia Phillies,Jake Irvin,Andrew Painter,Philadelphia Phillies,0.7036,-237,SETTLED,10,4,LOSS
 824082,2026-08-05T22:32:19+00:00,2026-08-05T23:40:00+00:00,MLB,Minnesota Twins,Kansas City Royals,Dean Kremer,Noah Cameron,Kansas City Royals,0.5757,-136,SETTLED,1,2,WIN
 823753,2026-08-05T22:32:19+00:00,2026-08-05T23:40:00+00:00,MLB,Pittsburgh Pirates,Milwaukee Brewers,Paul Skenes,Kyle Harrison,Milwaukee Brewers,0.5963,-148,SETTLED,2,4,WIN
+823349,2026-08-07T21:26:34+00:00,2026-08-07T22:40:00+00:00,MLB,New York Mets,Pittsburgh Pirates,Zac Thornton,Carmen Mlodzinski,New York Mets,0.5063,-103,PENDING,,,
+823428,2026-08-07T21:26:34+00:00,2026-08-07T22:40:00+00:00,MLB,Toronto Blue Jays,Philadelphia Phillies,José Soriano,Zack Wheeler,Philadelphia Phillies,0.5923,-145,PENDING,,,
+822699,2026-08-07T21:26:34+00:00,2026-08-07T22:45:00+00:00,MLB,Cincinnati Reds,Washington Nationals,Chase Petty,Cade Cavalli,Washington Nationals,0.5225,-109,PENDING,,,
