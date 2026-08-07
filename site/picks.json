@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-07T21:26:35+00:00",
+  "updated_utc": "2026-08-07T22:03:33+00:00",
   "record": "57-41",
   "settled": 98,
   "hit_rate": 58.2,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Atlanta Braves @ New York Yankees",
+      "side": "New York Yankees",
+      "confidence": 55.2,
+      "fair_line": "-123",
+      "published": "2026-08-07T22:03:33+00:00",
+      "starts": "2026-08-07T23:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Athletics @ Boston Red Sox",
+      "side": "Boston Red Sox",
+      "confidence": 67.5,
+      "fair_line": "-207",
+      "published": "2026-08-07T22:03:33+00:00",
+      "starts": "2026-08-07T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Angels @ Miami Marlins",
+      "side": "Miami Marlins",
+      "confidence": 61.1,
+      "fair_line": "-157",
+      "published": "2026-08-07T22:03:33+00:00",
+      "starts": "2026-08-07T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "New York Mets @ Pittsburgh Pirates",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "3-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Kansas City Royals @ Minnesota Twins",
-      "side": "Kansas City Royals",
-      "confidence": 51.2,
-      "fair_line": "-105",
-      "published": "2026-07-28T22:30:38+00:00",
-      "starts": "2026-07-28T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "2-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Yankees @ Chicago White Sox",
-      "side": "New York Yankees",
-      "confidence": 61.2,
-      "fair_line": "-158",
-      "published": "2026-07-28T22:30:38+00:00",
-      "starts": "2026-07-28T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago Cubs @ St. Louis Cardinals",
-      "side": "Chicago Cubs",
-      "confidence": 58.2,
-      "fair_line": "-139",
-      "published": "2026-07-28T22:30:38+00:00",
-      "starts": "2026-07-28T23:45:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "10-2"
     }
   ]
 }
