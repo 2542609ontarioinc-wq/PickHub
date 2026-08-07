@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-07T22:03:33+00:00",
+  "updated_utc": "2026-08-07T22:52:36+00:00",
   "record": "57-41",
   "settled": 98,
   "hit_rate": 58.2,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Chicago Cubs @ Kansas City Royals",
+      "side": "Chicago Cubs",
+      "confidence": 56.0,
+      "fair_line": "-127",
+      "published": "2026-08-07T22:52:36+00:00",
+      "starts": "2026-08-08T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Atlanta Braves @ New York Yankees",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "0-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Pittsburgh Pirates",
-      "side": "Pittsburgh Pirates",
-      "confidence": 50.7,
-      "fair_line": "-103",
-      "published": "2026-07-29T15:33:23+00:00",
-      "starts": "2026-07-29T16:35:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-0"
     }
   ]
 }
