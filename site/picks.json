@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-07T22:52:36+00:00",
+  "updated_utc": "2026-08-07T23:22:29+00:00",
   "record": "57-41",
   "settled": 98,
   "hit_rate": 58.2,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Colorado Rockies @ St. Louis Cardinals",
+      "side": "St. Louis Cardinals",
+      "confidence": 66.8,
+      "fair_line": "-202",
+      "published": "2026-08-07T23:22:29+00:00",
+      "starts": "2026-08-08T00:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Baltimore Orioles @ Texas Rangers",
+      "side": "Texas Rangers",
+      "confidence": 59.8,
+      "fair_line": "-149",
+      "published": "2026-08-07T23:22:29+00:00",
+      "starts": "2026-08-08T00:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Chicago Cubs @ Kansas City Royals",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "5-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago Cubs @ St. Louis Cardinals",
-      "side": "Chicago Cubs",
-      "confidence": 61.4,
-      "fair_line": "-159",
-      "published": "2026-07-29T22:35:59+00:00",
-      "starts": "2026-07-29T23:45:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "2-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Texas Rangers @ Tampa Bay Rays",
-      "side": "Texas Rangers",
-      "confidence": 50.1,
-      "fair_line": "-100",
-      "published": "2026-07-29T21:33:14+00:00",
-      "starts": "2026-07-29T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "0-3"
     }
   ]
 }
