@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-08T21:18:08+00:00",
+  "updated_utc": "2026-08-08T21:51:50+00:00",
   "record": "64-43",
   "settled": 107,
   "hit_rate": 59.8,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Washington Nationals",
+      "side": "Cincinnati Reds",
+      "confidence": 51.8,
+      "fair_line": "-107",
+      "published": "2026-08-08T21:51:49+00:00",
+      "starts": "2026-08-08T22:45:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago Cubs @ Kansas City Royals",
+      "side": "Chicago Cubs",
+      "confidence": 58.5,
+      "fair_line": "-141",
+      "published": "2026-08-08T21:51:49+00:00",
+      "starts": "2026-08-08T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Minnesota Twins @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 67.5,
+      "fair_line": "-208",
+      "published": "2026-08-08T21:51:49+00:00",
+      "starts": "2026-08-08T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Toronto Blue Jays @ Philadelphia Phillies",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "1-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Pittsburgh Pirates @ Cincinnati Reds",
-      "side": "Cincinnati Reds",
-      "confidence": 57.9,
-      "fair_line": "-137",
-      "published": "2026-07-30T21:56:14+00:00",
-      "starts": "2026-07-30T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Miami Marlins @ New York Mets",
-      "side": "New York Mets",
-      "confidence": 62.3,
-      "fair_line": "-165",
-      "published": "2026-07-30T21:56:14+00:00",
-      "starts": "2026-07-30T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Washington Nationals @ Atlanta Braves",
-      "side": "Atlanta Braves",
-      "confidence": 65.7,
-      "fair_line": "-191",
-      "published": "2026-07-30T21:56:14+00:00",
-      "starts": "2026-07-30T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "4-5"
     }
   ]
 }
