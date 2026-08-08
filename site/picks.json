@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-08T22:15:32+00:00",
-  "record": "65-43",
-  "settled": 108,
-  "hit_rate": 60.2,
+  "updated_utc": "2026-08-08T22:53:01+00:00",
+  "record": "66-43",
+  "settled": 109,
+  "hit_rate": 60.6,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Dodgers @ Arizona Diamondbacks",
+      "side": "Los Angeles Dodgers",
+      "confidence": 52.1,
+      "fair_line": "-109",
+      "published": "2026-08-08T22:53:00+00:00",
+      "starts": "2026-08-09T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Houston Astros @ San Diego Padres",
@@ -132,9 +144,9 @@
       "fair_line": "-129",
       "published": "2026-08-08T19:05:45+00:00",
       "starts": "2026-08-08T20:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "0-7"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "0-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Pittsburgh Pirates @ Cincinnati Reds",
-      "side": "Cincinnati Reds",
-      "confidence": 55.0,
-      "fair_line": "-122",
-      "published": "2026-08-02T16:34:42+00:00",
-      "starts": "2026-08-02T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-10"
     }
   ]
 }
