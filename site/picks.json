@@ -1,9 +1,69 @@
 {
-  "updated_utc": "2026-08-08T21:51:50+00:00",
-  "record": "64-43",
-  "settled": 107,
-  "hit_rate": 59.8,
+  "updated_utc": "2026-08-08T22:15:32+00:00",
+  "record": "65-43",
+  "settled": 108,
+  "hit_rate": 60.2,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Houston Astros @ San Diego Padres",
+      "side": "San Diego Padres",
+      "confidence": 57.6,
+      "fair_line": "-136",
+      "published": "2026-08-08T22:15:32+00:00",
+      "starts": "2026-08-08T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Detroit Tigers @ San Francisco Giants",
+      "side": "San Francisco Giants",
+      "confidence": 51.4,
+      "fair_line": "-106",
+      "published": "2026-08-08T22:15:32+00:00",
+      "starts": "2026-08-08T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Colorado Rockies @ St. Louis Cardinals",
+      "side": "St. Louis Cardinals",
+      "confidence": 65.7,
+      "fair_line": "-191",
+      "published": "2026-08-08T22:15:32+00:00",
+      "starts": "2026-08-08T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Baltimore Orioles @ Texas Rangers",
+      "side": "Texas Rangers",
+      "confidence": 54.0,
+      "fair_line": "-117",
+      "published": "2026-08-08T22:15:32+00:00",
+      "starts": "2026-08-08T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Cleveland Guardians @ Chicago White Sox",
+      "side": "Cleveland Guardians",
+      "confidence": 55.2,
+      "fair_line": "-123",
+      "published": "2026-08-08T22:15:32+00:00",
+      "starts": "2026-08-08T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Cincinnati Reds @ Washington Nationals",
@@ -84,9 +144,9 @@
       "fair_line": "-117",
       "published": "2026-08-08T17:54:57+00:00",
       "starts": "2026-08-08T19:05:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "4-5"
     },
     {
       "sport": "MLB",
@@ -423,66 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "2-10"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago White Sox @ Tampa Bay Rays",
-      "side": "Tampa Bay Rays",
-      "confidence": 59.8,
-      "fair_line": "-149",
-      "published": "2026-08-02T16:34:42+00:00",
-      "starts": "2026-08-02T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "9-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Miami Marlins @ New York Mets",
-      "side": "New York Mets",
-      "confidence": 50.6,
-      "fair_line": "-103",
-      "published": "2026-08-02T16:34:42+00:00",
-      "starts": "2026-08-02T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "2-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Francisco Giants @ San Diego Padres",
-      "side": "San Diego Padres",
-      "confidence": 54.6,
-      "fair_line": "-120",
-      "published": "2026-08-01T23:37:38+00:00",
-      "starts": "2026-08-02T00:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Pittsburgh Pirates @ Cincinnati Reds",
-      "side": "Cincinnati Reds",
-      "confidence": 56.3,
-      "fair_line": "-129",
-      "published": "2026-08-01T21:33:12+00:00",
-      "starts": "2026-08-01T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Kansas City Royals @ Colorado Rockies",
-      "side": "Kansas City Royals",
-      "confidence": 63.2,
-      "fair_line": "-172",
-      "published": "2026-07-31T23:40:34+00:00",
-      "starts": "2026-08-01T00:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "1-3"
     }
   ]
 }
