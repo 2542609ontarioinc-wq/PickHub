@@ -10095,6 +10095,8 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 825052,2026-08-06,2026,Arizona Diamondbacks,San Diego Padres,10,4,683352,663554,Mitch Bratt,Casey Mize
 822699,2026-08-07,2026,Washington Nationals,Cincinnati Reds,5,3,676917,695534,Cade Cavalli,Chase Petty
 823349,2026-08-07,2026,Pittsburgh Pirates,New York Mets,4,6,669387,804267,Carmen Mlodzinski,Zac Thornton
+823428,2026-08-07,2026,Philadelphia Phillies,Toronto Blue Jays,4,5,554430,667755,Zack Wheeler,José Soriano
+823515,2026-08-07,2026,New York Yankees,Atlanta Braves,3,2,608331,641816,Max Fried,Tyler Mahle
 823750,2026-08-07,2026,Milwaukee Brewers,Minnesota Twins,6,8,675660,805673,Shane Drohan,Zebby Matthews
 823836,2026-08-07,2026,Miami Marlins,Los Angeles Angels,3,4,663969,691946,Tyler Phillips,George Klassen
 824566,2026-08-07,2026,Chicago White Sox,Cleveland Guardians,2,8,702273,800048,Noah Schultz,Parker Messick
@@ -10102,4 +10104,8 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 825053,2026-08-07,2026,Arizona Diamondbacks,San Diego Padres,1,5,684442,621111,Kohl Drake,Walker Buehler
 822863,2026-08-08,2026,Texas Rangers,Baltimore Orioles,2,1,543135,669358,Nathan Eovaldi,Shane Baz
 823024,2026-08-08,2026,St. Louis Cardinals,Colorado Rockies,3,2,681517,663372,Kyle Leahy,Ryan Feltner
+823103,2026-08-08,2026,Seattle Mariners,Tampa Bay Rays,1,2,669302,656876,Logan Gilbert,Drew Rasmussen
+823191,2026-08-08,2026,San Francisco Giants,Detroit Tigers,5,2,664141,672456,JT Brubaker,Keider Montero
+823266,2026-08-08,2026,San Diego Padres,Houston Astros,3,6,592662,669854,Robbie Ray,Ronel Blanco
 824081,2026-08-08,2026,Kansas City Royals,Chicago Cubs,4,6,663738,592332,Daniel Lynch IV,Kevin Gausman
+825051,2026-08-08,2026,Arizona Diamondbacks,Los Angeles Dodgers,4,3,518876,808963,Merrill Kelly,Roki Sasaki
