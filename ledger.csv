@@ -106,3 +106,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824081,2026-08-07T22:52:36+00:00,2026-08-08T00:10:00+00:00,MLB,Chicago Cubs,Kansas City Royals,Kevin Gausman,Daniel Lynch IV,Chicago Cubs,0.5597,-127,SETTLED,6,4,WIN
 823024,2026-08-07T23:22:29+00:00,2026-08-08T00:15:00+00:00,MLB,Colorado Rockies,St. Louis Cardinals,Ryan Feltner,Kyle Leahy,St. Louis Cardinals,0.6685,-202,SETTLED,2,3,WIN
 822863,2026-08-07T23:22:29+00:00,2026-08-08T00:15:00+00:00,MLB,Baltimore Orioles,Texas Rangers,Shane Baz,Nathan Eovaldi,Texas Rangers,0.5976,-149,SETTLED,1,2,WIN
+823514,2026-08-08T17:54:57+00:00,2026-08-08T19:05:00+00:00,MLB,Atlanta Braves,New York Yankees,Chris Sale,Gerrit Cole,New York Yankees,0.5394,-117,PENDING,,,
