@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-09T14:49:25+00:00",
+  "updated_utc": "2026-08-09T15:19:04+00:00",
   "record": "70-50",
   "settled": 120,
   "hit_rate": 58.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Washington Nationals",
+      "side": "Cincinnati Reds",
+      "confidence": 55.0,
+      "fair_line": "-122",
+      "published": "2026-08-09T15:19:04+00:00",
+      "starts": "2026-08-09T16:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Los Angeles Dodgers @ Arizona Diamondbacks",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "5-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Cleveland Guardians",
-      "side": "Cleveland Guardians",
-      "confidence": 51.3,
-      "fair_line": "-105",
-      "published": "2026-08-02T16:34:42+00:00",
-      "starts": "2026-08-02T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "0-5"
     }
   ]
 }
