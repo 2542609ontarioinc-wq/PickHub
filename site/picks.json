@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-09T18:05:39+00:00",
-  "record": "70-50",
-  "settled": 120,
-  "hit_rate": 58.3,
+  "updated_utc": "2026-08-09T18:57:52+00:00",
+  "record": "70-51",
+  "settled": 121,
+  "hit_rate": 57.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Detroit Tigers @ San Francisco Giants",
+      "side": "Detroit Tigers",
+      "confidence": 51.4,
+      "fair_line": "-106",
+      "published": "2026-08-09T18:57:52+00:00",
+      "starts": "2026-08-09T20:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Dodgers @ Arizona Diamondbacks",
+      "side": "Arizona Diamondbacks",
+      "confidence": 51.1,
+      "fair_line": "-104",
+      "published": "2026-08-09T18:57:52+00:00",
+      "starts": "2026-08-09T20:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Tampa Bay Rays @ Seattle Mariners",
+      "side": "Tampa Bay Rays",
+      "confidence": 50.8,
+      "fair_line": "-103",
+      "published": "2026-08-09T18:57:52+00:00",
+      "starts": "2026-08-09T20:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Chicago Cubs @ Kansas City Royals",
@@ -108,9 +144,9 @@
       "fair_line": "-122",
       "published": "2026-08-09T15:19:04+00:00",
       "starts": "2026-08-09T16:15:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "1-7"
     },
     {
       "sport": "MLB",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "10-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Tampa Bay Rays @ Colorado Rockies",
-      "side": "Tampa Bay Rays",
-      "confidence": 62.7,
-      "fair_line": "-168",
-      "published": "2026-08-05T18:16:01+00:00",
-      "starts": "2026-08-05T19:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "4-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Toronto Blue Jays @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 55.7,
-      "fair_line": "-126",
-      "published": "2026-08-05T16:57:17+00:00",
-      "starts": "2026-08-05T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "5-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Toronto Blue Jays @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 50.3,
-      "fair_line": "-101",
-      "published": "2026-08-04T23:16:26+00:00",
-      "starts": "2026-08-05T00:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-7"
     }
   ]
 }
