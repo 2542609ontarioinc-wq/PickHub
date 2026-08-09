@@ -109,13 +109,13 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823514,2026-08-08T17:54:57+00:00,2026-08-08T19:05:00+00:00,MLB,Atlanta Braves,New York Yankees,Chris Sale,Gerrit Cole,New York Yankees,0.5394,-117,SETTLED,4,5,WIN
 824726,2026-08-08T19:05:45+00:00,2026-08-08T20:10:00+00:00,MLB,Athletics,Boston Red Sox,Gage Jump,Jake Bennett,Boston Red Sox,0.7099,-245,SETTLED,7,3,LOSS
 823834,2026-08-08T19:05:45+00:00,2026-08-08T20:10:00+00:00,MLB,Los Angeles Angels,Miami Marlins,Walbert Ureña,Sandy Alcantara,Miami Marlins,0.5628,-129,SETTLED,0,7,WIN
-823426,2026-08-08T20:45:28+00:00,2026-08-08T22:05:00+00:00,MLB,Toronto Blue Jays,Philadelphia Phillies,Max Scherzer,Aaron Nola,Philadelphia Phillies,0.5477,-121,PENDING,,,
-822701,2026-08-08T21:51:49+00:00,2026-08-08T22:45:00+00:00,MLB,Cincinnati Reds,Washington Nationals,Chase Burns,Andrew Alvarez,Cincinnati Reds,0.5179,-107,PENDING,,,
-824079,2026-08-08T21:51:49+00:00,2026-08-08T23:10:00+00:00,MLB,Chicago Cubs,Kansas City Royals,Clay Holmes,Seth Lugo,Chicago Cubs,0.5847,-141,PENDING,,,
-823752,2026-08-08T21:51:49+00:00,2026-08-08T23:10:00+00:00,MLB,Minnesota Twins,Milwaukee Brewers,Taj Bradley,Robert Gasser,Milwaukee Brewers,0.6755,-208,PENDING,,,
-823267,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Houston Astros,San Diego Padres,Peter Lambert,Michael King,San Diego Padres,0.5760,-136,PENDING,,,
-823188,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Detroit Tigers,San Francisco Giants,Jackson Jobe,Landen Roupp,San Francisco Giants,0.5140,-106,PENDING,,,
-823021,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Colorado Rockies,St. Louis Cardinals,Kyle Freeland,Matthew Liberatore,St. Louis Cardinals,0.6567,-191,PENDING,,,
-822864,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Baltimore Orioles,Texas Rangers,Kyle Bradish,Jacob deGrom,Texas Rangers,0.5401,-117,PENDING,,,
-824565,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Cleveland Guardians,Chicago White Sox,Gavin Williams,Anthony Kay,Cleveland Guardians,0.5520,-123,PENDING,,,
+823426,2026-08-08T20:45:28+00:00,2026-08-08T22:05:00+00:00,MLB,Toronto Blue Jays,Philadelphia Phillies,Max Scherzer,Aaron Nola,Philadelphia Phillies,0.5477,-121,SETTLED,7,5,LOSS
+822701,2026-08-08T21:51:49+00:00,2026-08-08T22:45:00+00:00,MLB,Cincinnati Reds,Washington Nationals,Chase Burns,Andrew Alvarez,Cincinnati Reds,0.5179,-107,SETTLED,2,8,LOSS
+824079,2026-08-08T21:51:49+00:00,2026-08-08T23:10:00+00:00,MLB,Chicago Cubs,Kansas City Royals,Clay Holmes,Seth Lugo,Chicago Cubs,0.5847,-141,SETTLED,3,6,LOSS
+823752,2026-08-08T21:51:49+00:00,2026-08-08T23:10:00+00:00,MLB,Minnesota Twins,Milwaukee Brewers,Taj Bradley,Robert Gasser,Milwaukee Brewers,0.6755,-208,SETTLED,3,4,WIN
+823267,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Houston Astros,San Diego Padres,Peter Lambert,Michael King,San Diego Padres,0.5760,-136,SETTLED,2,3,WIN
+823188,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Detroit Tigers,San Francisco Giants,Jackson Jobe,Landen Roupp,San Francisco Giants,0.5140,-106,SETTLED,8,0,LOSS
+823021,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Colorado Rockies,St. Louis Cardinals,Kyle Freeland,Matthew Liberatore,St. Louis Cardinals,0.6567,-191,SETTLED,8,6,LOSS
+822864,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Baltimore Orioles,Texas Rangers,Kyle Bradish,Jacob deGrom,Texas Rangers,0.5401,-117,SETTLED,1,5,WIN
+824565,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Cleveland Guardians,Chicago White Sox,Gavin Williams,Anthony Kay,Cleveland Guardians,0.5520,-123,SETTLED,3,6,LOSS
 825049,2026-08-08T22:53:00+00:00,2026-08-09T00:10:00+00:00,MLB,Los Angeles Dodgers,Arizona Diamondbacks,Yoshinobu Yamamoto,Brandon Pfaadt,Los Angeles Dodgers,0.5210,-109,PENDING,,,
