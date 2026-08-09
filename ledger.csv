@@ -120,3 +120,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824565,2026-08-08T22:15:32+00:00,2026-08-08T23:15:00+00:00,MLB,Cleveland Guardians,Chicago White Sox,Gavin Williams,Anthony Kay,Cleveland Guardians,0.5520,-123,SETTLED,3,6,LOSS
 825049,2026-08-08T22:53:00+00:00,2026-08-09T00:10:00+00:00,MLB,Los Angeles Dodgers,Arizona Diamondbacks,Yoshinobu Yamamoto,Brandon Pfaadt,Los Angeles Dodgers,0.5210,-109,SETTLED,2,1,WIN
 822700,2026-08-09T15:19:04+00:00,2026-08-09T16:15:00+00:00,MLB,Cincinnati Reds,Washington Nationals,Brady Singer,Brad Lord,Cincinnati Reds,0.5504,-122,PENDING,,,
+824724,2026-08-09T16:19:24+00:00,2026-08-09T17:35:00+00:00,MLB,Athletics,Boston Red Sox,J.T. Ginn,Erik Miller,Boston Red Sox,0.7490,-298,PENDING,,,
+823345,2026-08-09T16:19:24+00:00,2026-08-09T17:35:00+00:00,MLB,New York Mets,Pittsburgh Pirates,Sean Manaea,Jared Jones,Pittsburgh Pirates,0.5124,-105,PENDING,,,
+823425,2026-08-09T16:19:24+00:00,2026-08-09T17:35:00+00:00,MLB,Toronto Blue Jays,Philadelphia Phillies,Shane Bieber,Jesús Luzardo,Philadelphia Phillies,0.5490,-122,PENDING,,,
+823513,2026-08-09T16:19:24+00:00,2026-08-09T17:35:00+00:00,MLB,Atlanta Braves,New York Yankees,Grant Holmes,Cam Schlittler,New York Yankees,0.5879,-143,PENDING,,,
