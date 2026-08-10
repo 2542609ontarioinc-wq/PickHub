@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-10T21:07:59+00:00",
+  "updated_utc": "2026-08-10T21:55:03+00:00",
   "record": "78-55",
   "settled": 133,
   "hit_rate": 58.6,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Boston Red Sox @ Toronto Blue Jays",
+      "side": "Boston Red Sox",
+      "confidence": 52.4,
+      "fair_line": "-110",
+      "published": "2026-08-10T21:55:02+00:00",
+      "starts": "2026-08-10T23:07:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "New York Mets @ Atlanta Braves",
+      "side": "Atlanta Braves",
+      "confidence": 53.2,
+      "fair_line": "-114",
+      "published": "2026-08-10T21:55:02+00:00",
+      "starts": "2026-08-10T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Houston Astros @ San Diego Padres",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "2-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Mets @ Cleveland Guardians",
-      "side": "Cleveland Guardians",
-      "confidence": 52.9,
-      "fair_line": "-112",
-      "published": "2026-08-05T21:23:04+00:00",
-      "starts": "2026-08-05T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "6-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Athletics @ Cincinnati Reds",
-      "side": "Cincinnati Reds",
-      "confidence": 61.2,
-      "fair_line": "-157",
-      "published": "2026-08-05T21:23:04+00:00",
-      "starts": "2026-08-05T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-3"
     }
   ]
 }

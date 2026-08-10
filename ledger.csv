@@ -132,3 +132,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 825050,2026-08-09T18:57:52+00:00,2026-08-09T20:10:00+00:00,MLB,Los Angeles Dodgers,Arizona Diamondbacks,Justin Wrobleski,Eduardo Rodriguez,Arizona Diamondbacks,0.5107,-104,SETTLED,2,4,WIN
 823104,2026-08-09T18:57:52+00:00,2026-08-09T20:10:00+00:00,MLB,Tampa Bay Rays,Seattle Mariners,Ian Seymour,Emerson Hancock,Tampa Bay Rays,0.5084,-103,SETTLED,4,1,WIN
 823268,2026-08-09T23:20:10+00:00,2026-08-10T00:20:00+00:00,MLB,Houston Astros,San Diego Padres,Cristian Javier,Randy Vásquez,San Diego Padres,0.5796,-138,SETTLED,2,7,WIN
+822780,2026-08-10T21:55:02+00:00,2026-08-10T23:07:00+00:00,MLB,Boston Red Sox,Toronto Blue Jays,Sonny Gray,Jameson Taillon,Boston Red Sox,0.5241,-110,PENDING,,,
+824887,2026-08-10T21:55:02+00:00,2026-08-10T23:15:00+00:00,MLB,New York Mets,Atlanta Braves,Christian Scott,Bryce Elder,Atlanta Braves,0.5324,-114,PENDING,,,
