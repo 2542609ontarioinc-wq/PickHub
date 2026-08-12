@@ -135,6 +135,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 822780,2026-08-10T21:55:02+00:00,2026-08-10T23:07:00+00:00,MLB,Boston Red Sox,Toronto Blue Jays,Sonny Gray,Jameson Taillon,Boston Red Sox,0.5241,-110,SETTLED,1,2,LOSS
 824887,2026-08-10T21:55:02+00:00,2026-08-10T23:15:00+00:00,MLB,New York Mets,Atlanta Braves,Christian Scott,Bryce Elder,Atlanta Braves,0.5324,-114,SETTLED,8,5,LOSS
 823675,2026-08-10T22:24:12+00:00,2026-08-10T23:40:00+00:00,MLB,Baltimore Orioles,Minnesota Twins,Trevor Rogers,Dean Kremer,Baltimore Orioles,0.5429,-119,SETTLED,5,9,LOSS
-823512,2026-08-11T22:01:19+00:00,2026-08-11T23:05:00+00:00,MLB,Seattle Mariners,New York Yankees,Bryan Woo,Ryan Weathers,New York Yankees,0.5988,-149,PENDING,,,
-822778,2026-08-11T22:01:19+00:00,2026-08-11T23:07:00+00:00,MLB,Boston Red Sox,Toronto Blue Jays,Patrick Sandoval,Dylan Cease,Boston Red Sox,0.5362,-116,PENDING,,,
-824886,2026-08-11T22:01:19+00:00,2026-08-11T23:15:00+00:00,MLB,New York Mets,Atlanta Braves,Nolan McLean,Martín Pérez,Atlanta Braves,0.5175,-107,PENDING,,,
+823512,2026-08-11T22:01:19+00:00,2026-08-11T23:05:00+00:00,MLB,Seattle Mariners,New York Yankees,Bryan Woo,Ryan Weathers,New York Yankees,0.5988,-149,SETTLED,1,4,WIN
+822778,2026-08-11T22:01:19+00:00,2026-08-11T23:07:00+00:00,MLB,Boston Red Sox,Toronto Blue Jays,Patrick Sandoval,Dylan Cease,Boston Red Sox,0.5362,-116,SETTLED,3,5,LOSS
+824886,2026-08-11T22:01:19+00:00,2026-08-11T23:15:00+00:00,MLB,New York Mets,Atlanta Braves,Nolan McLean,Martín Pérez,Atlanta Braves,0.5175,-107,SETTLED,0,4,WIN
