@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-12T17:41:21+00:00",
+  "updated_utc": "2026-08-12T18:33:41+00:00",
   "record": "80-59",
   "settled": 139,
   "hit_rate": 57.6,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Colorado Rockies @ Arizona Diamondbacks",
+      "side": "Arizona Diamondbacks",
+      "confidence": 73.2,
+      "fair_line": "-272",
+      "published": "2026-08-12T18:33:40+00:00",
+      "starts": "2026-08-12T19:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Houston Astros @ San Francisco Giants",
+      "side": "Houston Astros",
+      "confidence": 50.6,
+      "fair_line": "-102",
+      "published": "2026-08-12T18:33:40+00:00",
+      "starts": "2026-08-12T19:45:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Baltimore Orioles @ Minnesota Twins",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "1-13"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Los Angeles Angels @ Miami Marlins",
-      "side": "Miami Marlins",
-      "confidence": 61.1,
-      "fair_line": "-157",
-      "published": "2026-08-07T22:03:33+00:00",
-      "starts": "2026-08-07T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Mets @ Pittsburgh Pirates",
-      "side": "New York Mets",
-      "confidence": 50.6,
-      "fair_line": "-103",
-      "published": "2026-08-07T21:26:34+00:00",
-      "starts": "2026-08-07T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "6-4"
     }
   ]
 }
