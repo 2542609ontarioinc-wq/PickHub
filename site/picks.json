@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-12T21:20:09+00:00",
+  "updated_utc": "2026-08-12T22:07:33+00:00",
   "record": "80-60",
   "settled": 140,
   "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Seattle Mariners @ New York Yankees",
+      "side": "New York Yankees",
+      "confidence": 64.2,
+      "fair_line": "-179",
+      "published": "2026-08-12T22:07:33+00:00",
+      "starts": "2026-08-12T23:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Boston Red Sox @ Toronto Blue Jays",
+      "side": "Boston Red Sox",
+      "confidence": 54.2,
+      "fair_line": "-118",
+      "published": "2026-08-12T22:07:33+00:00",
+      "starts": "2026-08-12T23:07:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "New York Mets @ Atlanta Braves",
+      "side": "Atlanta Braves",
+      "confidence": 58.6,
+      "fair_line": "-142",
+      "published": "2026-08-12T22:07:33+00:00",
+      "starts": "2026-08-12T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Cleveland Guardians @ Detroit Tigers",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "4-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Colorado Rockies @ St. Louis Cardinals",
-      "side": "St. Louis Cardinals",
-      "confidence": 66.8,
-      "fair_line": "-202",
-      "published": "2026-08-07T23:22:29+00:00",
-      "starts": "2026-08-08T00:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Baltimore Orioles @ Texas Rangers",
-      "side": "Texas Rangers",
-      "confidence": 59.8,
-      "fair_line": "-149",
-      "published": "2026-08-07T23:22:29+00:00",
-      "starts": "2026-08-08T00:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago Cubs @ Kansas City Royals",
-      "side": "Chicago Cubs",
-      "confidence": 56.0,
-      "fair_line": "-127",
-      "published": "2026-08-07T22:52:36+00:00",
-      "starts": "2026-08-08T00:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "6-4"
     }
   ]
 }
