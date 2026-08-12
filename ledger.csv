@@ -138,6 +138,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823512,2026-08-11T22:01:19+00:00,2026-08-11T23:05:00+00:00,MLB,Seattle Mariners,New York Yankees,Bryan Woo,Ryan Weathers,New York Yankees,0.5988,-149,SETTLED,1,4,WIN
 822778,2026-08-11T22:01:19+00:00,2026-08-11T23:07:00+00:00,MLB,Boston Red Sox,Toronto Blue Jays,Patrick Sandoval,Dylan Cease,Boston Red Sox,0.5362,-116,SETTLED,3,5,LOSS
 824886,2026-08-11T22:01:19+00:00,2026-08-11T23:15:00+00:00,MLB,New York Mets,Atlanta Braves,Nolan McLean,Martín Pérez,Atlanta Braves,0.5175,-107,SETTLED,0,4,WIN
-823672,2026-08-12T16:43:24+00:00,2026-08-12T17:40:00+00:00,MLB,Baltimore Orioles,Minnesota Twins,Shane Baz,Zebby Matthews,Baltimore Orioles,0.5119,-105,PENDING,,,
+823672,2026-08-12T16:43:24+00:00,2026-08-12T17:40:00+00:00,MLB,Baltimore Orioles,Minnesota Twins,Shane Baz,Zebby Matthews,Baltimore Orioles,0.5119,-105,SETTLED,5,7,LOSS
 825047,2026-08-12T18:33:40+00:00,2026-08-12T19:40:00+00:00,MLB,Colorado Rockies,Arizona Diamondbacks,Ryan Feltner,Merrill Kelly,Arizona Diamondbacks,0.7315,-272,PENDING,,,
 823187,2026-08-12T18:33:40+00:00,2026-08-12T19:45:00+00:00,MLB,Houston Astros,San Francisco Giants,Bryan King,Adrian Houser,Houston Astros,0.5060,-102,PENDING,,,
