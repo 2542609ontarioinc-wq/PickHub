@@ -141,3 +141,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823672,2026-08-12T16:43:24+00:00,2026-08-12T17:40:00+00:00,MLB,Baltimore Orioles,Minnesota Twins,Shane Baz,Zebby Matthews,Baltimore Orioles,0.5119,-105,SETTLED,5,7,LOSS
 825047,2026-08-12T18:33:40+00:00,2026-08-12T19:40:00+00:00,MLB,Colorado Rockies,Arizona Diamondbacks,Ryan Feltner,Merrill Kelly,Arizona Diamondbacks,0.7315,-272,PENDING,,,
 823187,2026-08-12T18:33:40+00:00,2026-08-12T19:45:00+00:00,MLB,Houston Astros,San Francisco Giants,Bryan King,Adrian Houser,Houston Astros,0.5060,-102,PENDING,,,
+824241,2026-08-12T21:20:09+00:00,2026-08-12T22:40:00+00:00,MLB,Cleveland Guardians,Detroit Tigers,Foster Griffin,Framber Valdez,Detroit Tigers,0.5899,-144,PENDING,,,
+823833,2026-08-12T21:20:09+00:00,2026-08-12T22:40:00+00:00,MLB,Pittsburgh Pirates,Miami Marlins,Carmen Mlodzinski,Janson Junk,Miami Marlins,0.5399,-117,PENDING,,,
