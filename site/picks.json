@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-13T15:36:51+00:00",
+  "updated_utc": "2026-08-13T16:31:36+00:00",
   "record": "84-63",
   "settled": 147,
   "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Seattle Mariners @ New York Yankees",
+      "side": "New York Yankees",
+      "confidence": 63.8,
+      "fair_line": "-176",
+      "published": "2026-08-13T16:31:36+00:00",
+      "starts": "2026-08-13T17:35:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Seattle Mariners @ New York Yankees",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "0-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Atlanta Braves @ New York Yankees",
-      "side": "New York Yankees",
-      "confidence": 53.9,
-      "fair_line": "-117",
-      "published": "2026-08-08T17:54:57+00:00",
-      "starts": "2026-08-08T19:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "4-5"
     }
   ]
 }
