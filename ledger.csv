@@ -141,8 +141,8 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823672,2026-08-12T16:43:24+00:00,2026-08-12T17:40:00+00:00,MLB,Baltimore Orioles,Minnesota Twins,Shane Baz,Zebby Matthews,Baltimore Orioles,0.5119,-105,SETTLED,5,7,LOSS
 825047,2026-08-12T18:33:40+00:00,2026-08-12T19:40:00+00:00,MLB,Colorado Rockies,Arizona Diamondbacks,Ryan Feltner,Merrill Kelly,Arizona Diamondbacks,0.7315,-272,SETTLED,6,4,LOSS
 823187,2026-08-12T18:33:40+00:00,2026-08-12T19:45:00+00:00,MLB,Houston Astros,San Francisco Giants,Bryan King,Adrian Houser,Houston Astros,0.5060,-102,SETTLED,2,1,WIN
-824241,2026-08-12T21:20:09+00:00,2026-08-12T22:40:00+00:00,MLB,Cleveland Guardians,Detroit Tigers,Foster Griffin,Framber Valdez,Detroit Tigers,0.5899,-144,PENDING,,,
-823833,2026-08-12T21:20:09+00:00,2026-08-12T22:40:00+00:00,MLB,Pittsburgh Pirates,Miami Marlins,Carmen Mlodzinski,Janson Junk,Miami Marlins,0.5399,-117,PENDING,,,
-823511,2026-08-12T22:07:33+00:00,2026-08-12T23:05:00+00:00,MLB,Seattle Mariners,New York Yankees,Bryce Miller,Will Warren,New York Yankees,0.6418,-179,PENDING,,,
-822779,2026-08-12T22:07:33+00:00,2026-08-12T23:07:00+00:00,MLB,Boston Red Sox,Toronto Blue Jays,Ranger Suarez,José Soriano,Boston Red Sox,0.5416,-118,PENDING,,,
-824883,2026-08-12T22:07:33+00:00,2026-08-12T23:15:00+00:00,MLB,New York Mets,Atlanta Braves,Zac Thornton,Tyler Mahle,Atlanta Braves,0.5860,-142,PENDING,,,
+824241,2026-08-12T21:20:09+00:00,2026-08-12T22:40:00+00:00,MLB,Cleveland Guardians,Detroit Tigers,Foster Griffin,Framber Valdez,Detroit Tigers,0.5899,-144,SETTLED,6,4,LOSS
+823833,2026-08-12T21:20:09+00:00,2026-08-12T22:40:00+00:00,MLB,Pittsburgh Pirates,Miami Marlins,Carmen Mlodzinski,Janson Junk,Miami Marlins,0.5399,-117,SETTLED,2,8,WIN
+823511,2026-08-12T22:07:33+00:00,2026-08-12T23:05:00+00:00,MLB,Seattle Mariners,New York Yankees,Bryce Miller,Will Warren,New York Yankees,0.6418,-179,SETTLED,5,10,WIN
+822779,2026-08-12T22:07:33+00:00,2026-08-12T23:07:00+00:00,MLB,Boston Red Sox,Toronto Blue Jays,Ranger Suarez,José Soriano,Boston Red Sox,0.5416,-118,SETTLED,4,6,LOSS
+824883,2026-08-12T22:07:33+00:00,2026-08-12T23:15:00+00:00,MLB,New York Mets,Atlanta Braves,Zac Thornton,Tyler Mahle,Atlanta Braves,0.5860,-142,SETTLED,3,6,WIN
