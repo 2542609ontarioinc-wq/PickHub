@@ -146,4 +146,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823511,2026-08-12T22:07:33+00:00,2026-08-12T23:05:00+00:00,MLB,Seattle Mariners,New York Yankees,Bryce Miller,Will Warren,New York Yankees,0.6418,-179,SETTLED,5,10,WIN
 822779,2026-08-12T22:07:33+00:00,2026-08-12T23:07:00+00:00,MLB,Boston Red Sox,Toronto Blue Jays,Ranger Suarez,José Soriano,Boston Red Sox,0.5416,-118,SETTLED,4,6,LOSS
 824883,2026-08-12T22:07:33+00:00,2026-08-12T23:15:00+00:00,MLB,New York Mets,Atlanta Braves,Zac Thornton,Tyler Mahle,Atlanta Braves,0.5860,-142,SETTLED,3,6,WIN
-823508,2026-08-13T16:31:36+00:00,2026-08-13T17:35:00+00:00,MLB,Seattle Mariners,New York Yankees,Logan Gilbert,Max Fried,New York Yankees,0.6378,-176,PENDING,,,
+823508,2026-08-13T16:31:36+00:00,2026-08-13T17:35:00+00:00,MLB,Seattle Mariners,New York Yankees,Logan Gilbert,Max Fried,New York Yankees,0.6378,-176,SETTLED,1,0,LOSS
