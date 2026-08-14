@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-14T20:19:27+00:00",
+  "updated_utc": "2026-08-14T20:51:33+00:00",
   "record": "84-64",
   "settled": 148,
   "hit_rate": 56.8,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Miami Marlins @ Cincinnati Reds",
+      "side": "Cincinnati Reds",
+      "confidence": 56.9,
+      "fair_line": "-132",
+      "published": "2026-08-14T20:51:33+00:00",
+      "starts": "2026-08-14T22:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "St. Louis Cardinals @ Chicago Cubs",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "7-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Athletics @ Boston Red Sox",
-      "side": "Boston Red Sox",
-      "confidence": 71.0,
-      "fair_line": "-245",
-      "published": "2026-08-08T19:05:45+00:00",
-      "starts": "2026-08-08T20:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "7-3"
     }
   ]
 }
