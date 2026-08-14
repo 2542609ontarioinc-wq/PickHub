@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-14T21:13:48+00:00",
+  "updated_utc": "2026-08-14T21:40:15+00:00",
   "record": "85-64",
   "settled": 149,
   "hit_rate": 57.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Boston Red Sox @ Pittsburgh Pirates",
+      "side": "Boston Red Sox",
+      "confidence": 59.5,
+      "fair_line": "-147",
+      "published": "2026-08-14T21:40:15+00:00",
+      "starts": "2026-08-14T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ Detroit Tigers",
+      "side": "Detroit Tigers",
+      "confidence": 60.2,
+      "fair_line": "-151",
+      "published": "2026-08-14T21:40:15+00:00",
+      "starts": "2026-08-14T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Miami Marlins @ Cincinnati Reds",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "3-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Minnesota Twins @ Milwaukee Brewers",
-      "side": "Milwaukee Brewers",
-      "confidence": 67.5,
-      "fair_line": "-208",
-      "published": "2026-08-08T21:51:49+00:00",
-      "starts": "2026-08-08T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Toronto Blue Jays @ Philadelphia Phillies",
-      "side": "Philadelphia Phillies",
-      "confidence": 54.8,
-      "fair_line": "-121",
-      "published": "2026-08-08T20:45:28+00:00",
-      "starts": "2026-08-08T22:05:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "7-5"
     }
   ]
 }
