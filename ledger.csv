@@ -156,4 +156,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 822942,2026-08-14T21:56:05+00:00,2026-08-14T23:10:00+00:00,MLB,Baltimore Orioles,Tampa Bay Rays,Chris Bassitt,Steven Matz,Tampa Bay Rays,0.5938,-146,SETTLED,6,5,LOSS
 824882,2026-08-14T21:56:05+00:00,2026-08-14T23:15:00+00:00,MLB,Arizona Diamondbacks,Atlanta Braves,Brandon Pfaadt,Chris Sale,Atlanta Braves,0.5925,-145,SETTLED,2,0,LOSS
 822777,2026-08-14T21:56:05+00:00,2026-08-14T23:15:00+00:00,MLB,New York Yankees,Toronto Blue Jays,Gerrit Cole,Shane Bieber,Toronto Blue Jays,0.5021,-101,SETTLED,1,3,WIN
-824159,2026-08-14T22:56:55+00:00,2026-08-15T00:10:00+00:00,MLB,Seattle Mariners,Houston Astros,George Kirby,Peter Lambert,Houston Astros,0.5744,-135,PENDING,,,
+824159,2026-08-14T22:56:55+00:00,2026-08-15T00:10:00+00:00,MLB,Seattle Mariners,Houston Astros,George Kirby,Peter Lambert,Houston Astros,0.5744,-135,SETTLED,7,10,WIN
