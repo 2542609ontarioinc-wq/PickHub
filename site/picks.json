@@ -1,8 +1,8 @@
 {
-  "updated_utc": "2026-08-14T23:56:52+00:00",
-  "record": "85-64",
-  "settled": 149,
-  "hit_rate": 57.0,
+  "updated_utc": "2026-08-15T00:48:32+00:00",
+  "record": "86-64",
+  "settled": 150,
+  "hit_rate": 57.3,
   "picks": [
     {
       "sport": "MLB",
@@ -108,9 +108,9 @@
       "fair_line": "-132",
       "published": "2026-08-14T20:51:33+00:00",
       "starts": "2026-08-14T22:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "0-1"
     },
     {
       "sport": "MLB",

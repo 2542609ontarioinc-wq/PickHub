@@ -148,7 +148,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824883,2026-08-12T22:07:33+00:00,2026-08-12T23:15:00+00:00,MLB,New York Mets,Atlanta Braves,Zac Thornton,Tyler Mahle,Atlanta Braves,0.5860,-142,SETTLED,3,6,WIN
 823508,2026-08-13T16:31:36+00:00,2026-08-13T17:35:00+00:00,MLB,Seattle Mariners,New York Yankees,Logan Gilbert,Max Fried,New York Yankees,0.6378,-176,SETTLED,1,0,LOSS
 824643,2026-08-14T17:10:09+00:00,2026-08-14T18:20:00+00:00,MLB,St. Louis Cardinals,Chicago Cubs,Matthew Liberatore,Clay Holmes,Chicago Cubs,0.6572,-192,SETTLED,0,3,WIN
-824479,2026-08-14T20:51:33+00:00,2026-08-14T22:10:00+00:00,MLB,Miami Marlins,Cincinnati Reds,Sandy Alcantara,Chase Burns,Cincinnati Reds,0.5686,-132,PENDING,,,
+824479,2026-08-14T20:51:33+00:00,2026-08-14T22:10:00+00:00,MLB,Miami Marlins,Cincinnati Reds,Sandy Alcantara,Chase Burns,Cincinnati Reds,0.5686,-132,SETTLED,0,1,WIN
 823346,2026-08-14T21:40:15+00:00,2026-08-14T22:40:00+00:00,MLB,Boston Red Sox,Pittsburgh Pirates,Jake Bennett,Bubba Chandler,Boston Red Sox,0.5951,-147,PENDING,,,
 824237,2026-08-14T21:40:15+00:00,2026-08-14T22:40:00+00:00,MLB,Chicago White Sox,Detroit Tigers,Sean Newcomb,Jackson Jobe,Detroit Tigers,0.6015,-151,PENDING,,,
 823591,2026-08-14T21:56:05+00:00,2026-08-14T23:10:00+00:00,MLB,Washington Nationals,New York Mets,Andrew Alvarez,Robert Stock,New York Mets,0.5069,-103,PENDING,,,
