@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-15T15:33:16+00:00",
+  "updated_utc": "2026-08-15T15:54:10+00:00",
   "record": "90-68",
   "settled": 158,
   "hit_rate": 57.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ Detroit Tigers",
+      "side": "Detroit Tigers",
+      "confidence": 63.9,
+      "fair_line": "-177",
+      "published": "2026-08-15T15:54:10+00:00",
+      "starts": "2026-08-15T17:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Seattle Mariners @ Houston Astros",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "2-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Houston Astros @ San Diego Padres",
-      "side": "San Diego Padres",
-      "confidence": 57.6,
-      "fair_line": "-136",
-      "published": "2026-08-08T22:15:32+00:00",
-      "starts": "2026-08-08T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-3"
     }
   ]
 }
