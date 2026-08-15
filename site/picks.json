@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-15T18:10:56+00:00",
+  "updated_utc": "2026-08-15T18:45:21+00:00",
   "record": "90-68",
   "settled": 158,
   "hit_rate": 57.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Colorado Rockies @ San Francisco Giants",
+      "side": "San Francisco Giants",
+      "confidence": 68.4,
+      "fair_line": "-217",
+      "published": "2026-08-15T18:45:21+00:00",
+      "starts": "2026-08-15T20:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "New York Yankees @ Toronto Blue Jays",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "6-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Atlanta Braves @ New York Yankees",
-      "side": "New York Yankees",
-      "confidence": 58.8,
-      "fair_line": "-143",
-      "published": "2026-08-09T16:19:24+00:00",
-      "starts": "2026-08-09T17:35:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "2-1"
     }
   ]
 }
