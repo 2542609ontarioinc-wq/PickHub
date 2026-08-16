@@ -171,7 +171,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824884,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Arizona Diamondbacks,Atlanta Braves,Eduardo Rodriguez,Grant Holmes,Atlanta Braves,0.5577,-126,SETTLED,10,3,LOSS
 823914,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Milwaukee Brewers,Los Angeles Dodgers,Jacob Misiorowski,Justin Wrobleski,Los Angeles Dodgers,0.5172,-107,SETTLED,4,1,LOSS
 822940,2026-08-16T14:59:18+00:00,2026-08-16T16:15:00+00:00,MLB,Baltimore Orioles,Tampa Bay Rays,Trevor Rogers,Freddy Peralta,Tampa Bay Rays,0.5546,-125,SETTLED,10,2,LOSS
-823344,2026-08-16T16:42:00+00:00,2026-08-16T17:35:00+00:00,MLB,Boston Red Sox,Pittsburgh Pirates,Patrick Sandoval,Lake Bachar,Boston Red Sox,0.5903,-144,PENDING,,,
+823344,2026-08-16T16:42:00+00:00,2026-08-16T17:35:00+00:00,MLB,Boston Red Sox,Pittsburgh Pirates,Patrick Sandoval,Lake Bachar,Boston Red Sox,0.5903,-144,SETTLED,3,8,LOSS
 824880,2026-08-16T16:42:00+00:00,2026-08-16T17:35:00+00:00,MLB,Arizona Diamondbacks,Atlanta Braves,Michael Soroka,Bryce Elder,Atlanta Braves,0.5136,-106,SETTLED,3,5,WIN
 822774,2026-08-16T16:42:00+00:00,2026-08-16T17:37:00+00:00,MLB,New York Yankees,Toronto Blue Jays,Ryan Weathers,Dylan Cease,New York Yankees,0.5042,-102,SETTLED,4,3,WIN
 823590,2026-08-16T16:42:00+00:00,2026-08-16T17:40:00+00:00,MLB,Washington Nationals,New York Mets,Jake Irvin,Christian Scott,New York Mets,0.6572,-192,SETTLED,3,4,WIN
@@ -181,7 +181,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823670,2026-08-16T16:59:05+00:00,2026-08-16T18:10:00+00:00,MLB,Philadelphia Phillies,Minnesota Twins,Andrew Painter,Dean Kremer,Philadelphia Phillies,0.5741,-135,SETTLED,7,5,WIN
 824642,2026-08-16T18:11:15+00:00,2026-08-16T19:15:00+00:00,MLB,St. Louis Cardinals,Chicago Cubs,Hunter Dobbins,Edward Cabrera,Chicago Cubs,0.6500,-186,SETTLED,11,4,LOSS
 823182,2026-08-16T18:45:03+00:00,2026-08-16T20:05:00+00:00,MLB,Colorado Rockies,San Francisco Giants,Gabriel Hughes,Blade Tidwell,San Francisco Giants,0.5913,-145,PENDING,,,
-824965,2026-08-16T18:45:03+00:00,2026-08-16T20:05:00+00:00,MLB,Texas Rangers,Athletics,Cody Bradford,Jacob Lopez,Texas Rangers,0.5340,-115,PENDING,,,
+824965,2026-08-16T18:45:03+00:00,2026-08-16T20:05:00+00:00,MLB,Texas Rangers,Athletics,Cody Bradford,Jacob Lopez,Texas Rangers,0.5340,-115,SETTLED,2,5,LOSS
 823991,2026-08-16T19:02:58+00:00,2026-08-16T20:07:00+00:00,MLB,Kansas City Royals,Los Angeles Angels,Noah Cameron,Ryan Johnson,Kansas City Royals,0.5895,-144,SETTLED,3,0,WIN
 823912,2026-08-16T19:02:58+00:00,2026-08-16T20:10:00+00:00,MLB,Milwaukee Brewers,Los Angeles Dodgers,Logan Henderson,Tarik Skubal,Los Angeles Dodgers,0.5008,-100,PENDING,,,
 824156,2026-08-16T22:08:13+00:00,2026-08-16T23:20:00+00:00,MLB,Seattle Mariners,Houston Astros,Bryan Woo,Hunter Brown,Houston Astros,0.5781,-137,PENDING,,,

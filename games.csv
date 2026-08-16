@@ -10217,6 +10217,7 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824968,2026-08-15,2026,Athletics,Texas Rangers,8,3,695611,677958,Gage Jump,Kumar Rocker
 822774,2026-08-16,2026,Toronto Blue Jays,New York Yankees,3,4,656302,677960,Dylan Cease,Ryan Weathers
 822940,2026-08-16,2026,Tampa Bay Rays,Baltimore Orioles,2,10,642547,669432,Freddy Peralta,Trevor Rogers
+823344,2026-08-16,2026,Pittsburgh Pirates,Boston Red Sox,8,3,669199,663776,Lake Bachar,Patrick Sandoval
 823590,2026-08-16,2026,New York Mets,Washington Nationals,4,3,681035,663623,Christian Scott,Jake Irvin
 823670,2026-08-16,2026,Minnesota Twins,Philadelphia Phillies,5,7,665152,691725,Dean Kremer,Andrew Painter
 823990,2026-08-16,2026,Los Angeles Angels,Kansas City Royals,1,0,672282,677976,Reid Detmers,Randy Dobnak
@@ -10225,4 +10226,5 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824477,2026-08-16,2026,Cincinnati Reds,Miami Marlins,1,7,666157,691587,Nick Lodolo,Eury Pérez
 824642,2026-08-16,2026,Chicago Cubs,St. Louis Cardinals,4,11,665795,690928,Edward Cabrera,Hunter Dobbins
 824880,2026-08-16,2026,Atlanta Braves,Arizona Diamondbacks,5,3,693821,647336,Bryce Elder,Michael Soroka
+824965,2026-08-16,2026,Athletics,Texas Rangers,5,2,682052,674003,Jacob Lopez,Cody Bradford
 824966,2026-08-16,2026,Athletics,Texas Rangers,3,5,669372,669022,J.T. Ginn,MacKenzie Gore
