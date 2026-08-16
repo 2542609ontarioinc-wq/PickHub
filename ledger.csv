@@ -162,11 +162,11 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 822775,2026-08-15T17:54:56+00:00,2026-08-15T19:07:00+00:00,MLB,New York Yankees,Toronto Blue Jays,Cam Schlittler,Braydon Fisher,Toronto Blue Jays,0.5020,-101,SETTLED,1,4,WIN
 823184,2026-08-15T18:45:21+00:00,2026-08-15T20:05:00+00:00,MLB,Colorado Rockies,San Francisco Giants,Michael Lorenzen,Logan Webb,San Francisco Giants,0.6843,-217,SETTLED,1,7,WIN
 823588,2026-08-15T19:12:04+00:00,2026-08-15T20:10:00+00:00,MLB,Washington Nationals,New York Mets,Brad Lord,Sean Manaea,New York Mets,0.6095,-156,SETTLED,4,5,WIN
-822941,2026-08-15T20:56:12+00:00,2026-08-15T22:10:00+00:00,MLB,Baltimore Orioles,Tampa Bay Rays,Kyle Bradish,Ian Seymour,Tampa Bay Rays,0.5554,-125,PENDING,,,
-824480,2026-08-15T21:33:31+00:00,2026-08-15T22:40:00+00:00,MLB,Miami Marlins,Cincinnati Reds,Ryan Gusto,Brady Singer,Cincinnati Reds,0.5862,-142,PENDING,,,
-824400,2026-08-15T21:54:00+00:00,2026-08-15T23:10:00+00:00,MLB,San Diego Padres,Cleveland Guardians,Wandy Peralta,Joey Cantillo,San Diego Padres,0.5544,-124,PENDING,,,
-824157,2026-08-15T21:54:00+00:00,2026-08-15T23:10:00+00:00,MLB,Seattle Mariners,Houston Astros,Emerson Hancock,Hayden Wesneski,Houston Astros,0.5874,-142,PENDING,,,
-823671,2026-08-15T21:54:00+00:00,2026-08-15T23:10:00+00:00,MLB,Philadelphia Phillies,Minnesota Twins,Jesús Luzardo,Connor Prielipp,Philadelphia Phillies,0.5681,-132,PENDING,,,
-823347,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Boston Red Sox,Pittsburgh Pirates,Sonny Gray,Jared Jones,Boston Red Sox,0.5858,-141,PENDING,,,
-824884,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Arizona Diamondbacks,Atlanta Braves,Eduardo Rodriguez,Grant Holmes,Atlanta Braves,0.5577,-126,PENDING,,,
-823914,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Milwaukee Brewers,Los Angeles Dodgers,Jacob Misiorowski,Justin Wrobleski,Los Angeles Dodgers,0.5172,-107,PENDING,,,
+822941,2026-08-15T20:56:12+00:00,2026-08-15T22:10:00+00:00,MLB,Baltimore Orioles,Tampa Bay Rays,Kyle Bradish,Ian Seymour,Tampa Bay Rays,0.5554,-125,SETTLED,4,3,LOSS
+824480,2026-08-15T21:33:31+00:00,2026-08-15T22:40:00+00:00,MLB,Miami Marlins,Cincinnati Reds,Ryan Gusto,Brady Singer,Cincinnati Reds,0.5862,-142,SETTLED,8,4,LOSS
+824400,2026-08-15T21:54:00+00:00,2026-08-15T23:10:00+00:00,MLB,San Diego Padres,Cleveland Guardians,Wandy Peralta,Joey Cantillo,San Diego Padres,0.5544,-124,SETTLED,1,6,LOSS
+824157,2026-08-15T21:54:00+00:00,2026-08-15T23:10:00+00:00,MLB,Seattle Mariners,Houston Astros,Emerson Hancock,Hayden Wesneski,Houston Astros,0.5874,-142,SETTLED,10,5,LOSS
+823671,2026-08-15T21:54:00+00:00,2026-08-15T23:10:00+00:00,MLB,Philadelphia Phillies,Minnesota Twins,Jesús Luzardo,Connor Prielipp,Philadelphia Phillies,0.5681,-132,SETTLED,9,1,WIN
+823347,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Boston Red Sox,Pittsburgh Pirates,Sonny Gray,Jared Jones,Boston Red Sox,0.5858,-141,SETTLED,4,0,WIN
+824884,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Arizona Diamondbacks,Atlanta Braves,Eduardo Rodriguez,Grant Holmes,Atlanta Braves,0.5577,-126,SETTLED,10,3,LOSS
+823914,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Milwaukee Brewers,Los Angeles Dodgers,Jacob Misiorowski,Justin Wrobleski,Los Angeles Dodgers,0.5172,-107,SETTLED,4,1,LOSS
