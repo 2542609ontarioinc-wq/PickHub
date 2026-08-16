@@ -180,7 +180,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824477,2026-08-16T16:42:00+00:00,2026-08-16T17:40:00+00:00,MLB,Miami Marlins,Cincinnati Reds,Eury Pérez,Nick Lodolo,Cincinnati Reds,0.5638,-129,SETTLED,7,1,LOSS
 823670,2026-08-16T16:59:05+00:00,2026-08-16T18:10:00+00:00,MLB,Philadelphia Phillies,Minnesota Twins,Andrew Painter,Dean Kremer,Philadelphia Phillies,0.5741,-135,SETTLED,7,5,WIN
 824642,2026-08-16T18:11:15+00:00,2026-08-16T19:15:00+00:00,MLB,St. Louis Cardinals,Chicago Cubs,Hunter Dobbins,Edward Cabrera,Chicago Cubs,0.6500,-186,SETTLED,11,4,LOSS
-823182,2026-08-16T18:45:03+00:00,2026-08-16T20:05:00+00:00,MLB,Colorado Rockies,San Francisco Giants,Gabriel Hughes,Blade Tidwell,San Francisco Giants,0.5913,-145,PENDING,,,
+823182,2026-08-16T18:45:03+00:00,2026-08-16T20:05:00+00:00,MLB,Colorado Rockies,San Francisco Giants,Gabriel Hughes,Blade Tidwell,San Francisco Giants,0.5913,-145,SETTLED,13,7,LOSS
 824965,2026-08-16T18:45:03+00:00,2026-08-16T20:05:00+00:00,MLB,Texas Rangers,Athletics,Cody Bradford,Jacob Lopez,Texas Rangers,0.5340,-115,SETTLED,2,5,LOSS
 823991,2026-08-16T19:02:58+00:00,2026-08-16T20:07:00+00:00,MLB,Kansas City Royals,Los Angeles Angels,Noah Cameron,Ryan Johnson,Kansas City Royals,0.5895,-144,SETTLED,3,0,WIN
 823912,2026-08-16T19:02:58+00:00,2026-08-16T20:10:00+00:00,MLB,Milwaukee Brewers,Los Angeles Dodgers,Logan Henderson,Tarik Skubal,Los Angeles Dodgers,0.5008,-100,SETTLED,6,2,LOSS
