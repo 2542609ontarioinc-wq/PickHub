@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-16T17:53:47+00:00",
+  "updated_utc": "2026-08-16T18:11:16+00:00",
   "record": "95-76",
   "settled": 171,
   "hit_rate": 55.6,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "St. Louis Cardinals @ Chicago Cubs",
+      "side": "Chicago Cubs",
+      "confidence": 65.0,
+      "fair_line": "-186",
+      "published": "2026-08-16T18:11:15+00:00",
+      "starts": "2026-08-16T19:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Philadelphia Phillies @ Minnesota Twins",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "6-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Houston Astros @ San Francisco Giants",
-      "side": "Houston Astros",
-      "confidence": 50.6,
-      "fair_line": "-102",
-      "published": "2026-08-12T18:33:40+00:00",
-      "starts": "2026-08-12T19:45:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-1"
     }
   ]
 }
