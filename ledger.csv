@@ -175,7 +175,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824880,2026-08-16T16:42:00+00:00,2026-08-16T17:35:00+00:00,MLB,Arizona Diamondbacks,Atlanta Braves,Michael Soroka,Bryce Elder,Atlanta Braves,0.5136,-106,SETTLED,3,5,WIN
 822774,2026-08-16T16:42:00+00:00,2026-08-16T17:37:00+00:00,MLB,New York Yankees,Toronto Blue Jays,Ryan Weathers,Dylan Cease,New York Yankees,0.5042,-102,SETTLED,4,3,WIN
 823590,2026-08-16T16:42:00+00:00,2026-08-16T17:40:00+00:00,MLB,Washington Nationals,New York Mets,Jake Irvin,Christian Scott,New York Mets,0.6572,-192,SETTLED,3,4,WIN
-824397,2026-08-16T16:42:00+00:00,2026-08-16T17:40:00+00:00,MLB,San Diego Padres,Cleveland Guardians,Casey Mize,Tanner Bibee,San Diego Padres,0.5480,-121,PENDING,,,
+824397,2026-08-16T16:42:00+00:00,2026-08-16T17:40:00+00:00,MLB,San Diego Padres,Cleveland Guardians,Casey Mize,Tanner Bibee,San Diego Padres,0.5480,-121,SETTLED,5,0,WIN
 824236,2026-08-16T16:42:00+00:00,2026-08-16T17:40:00+00:00,MLB,Chicago White Sox,Detroit Tigers,Sean Burke,Drew Anderson,Detroit Tigers,0.6114,-157,SETTLED,7,5,LOSS
 824477,2026-08-16T16:42:00+00:00,2026-08-16T17:40:00+00:00,MLB,Miami Marlins,Cincinnati Reds,Eury Pérez,Nick Lodolo,Cincinnati Reds,0.5638,-129,SETTLED,7,1,LOSS
 823670,2026-08-16T16:59:05+00:00,2026-08-16T18:10:00+00:00,MLB,Philadelphia Phillies,Minnesota Twins,Andrew Painter,Dean Kremer,Philadelphia Phillies,0.5741,-135,SETTLED,7,5,WIN
