@@ -170,7 +170,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823347,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Boston Red Sox,Pittsburgh Pirates,Sonny Gray,Jared Jones,Boston Red Sox,0.5858,-141,SETTLED,4,0,WIN
 824884,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Arizona Diamondbacks,Atlanta Braves,Eduardo Rodriguez,Grant Holmes,Atlanta Braves,0.5577,-126,SETTLED,10,3,LOSS
 823914,2026-08-15T22:08:12+00:00,2026-08-15T23:15:00+00:00,MLB,Milwaukee Brewers,Los Angeles Dodgers,Jacob Misiorowski,Justin Wrobleski,Los Angeles Dodgers,0.5172,-107,SETTLED,4,1,LOSS
-822940,2026-08-16T14:59:18+00:00,2026-08-16T16:15:00+00:00,MLB,Baltimore Orioles,Tampa Bay Rays,Trevor Rogers,Freddy Peralta,Tampa Bay Rays,0.5546,-125,PENDING,,,
+822940,2026-08-16T14:59:18+00:00,2026-08-16T16:15:00+00:00,MLB,Baltimore Orioles,Tampa Bay Rays,Trevor Rogers,Freddy Peralta,Tampa Bay Rays,0.5546,-125,SETTLED,10,2,LOSS
 823344,2026-08-16T16:42:00+00:00,2026-08-16T17:35:00+00:00,MLB,Boston Red Sox,Pittsburgh Pirates,Patrick Sandoval,Lake Bachar,Boston Red Sox,0.5903,-144,PENDING,,,
 824880,2026-08-16T16:42:00+00:00,2026-08-16T17:35:00+00:00,MLB,Arizona Diamondbacks,Atlanta Braves,Michael Soroka,Bryce Elder,Atlanta Braves,0.5136,-106,PENDING,,,
 822774,2026-08-16T16:42:00+00:00,2026-08-16T17:37:00+00:00,MLB,New York Yankees,Toronto Blue Jays,Ryan Weathers,Dylan Cease,New York Yankees,0.5042,-102,PENDING,,,
