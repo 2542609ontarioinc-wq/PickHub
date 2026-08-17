@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-17T20:15:43+00:00",
+  "updated_utc": "2026-08-17T20:49:11+00:00",
   "record": "101-85",
   "settled": 186,
   "hit_rate": 54.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Baltimore Orioles @ Tampa Bay Rays",
+      "side": "Tampa Bay Rays",
+      "confidence": 59.1,
+      "fair_line": "-144",
+      "published": "2026-08-17T20:49:11+00:00",
+      "starts": "2026-08-17T22:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Seattle Mariners @ Houston Astros",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "1-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Seattle Mariners @ New York Yankees",
-      "side": "New York Yankees",
-      "confidence": 64.2,
-      "fair_line": "-179",
-      "published": "2026-08-12T22:07:33+00:00",
-      "starts": "2026-08-12T23:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-10"
     }
   ]
 }
