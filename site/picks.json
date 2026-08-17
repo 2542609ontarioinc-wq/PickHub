@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-17T22:17:39+00:00",
+  "updated_utc": "2026-08-17T22:46:01+00:00",
   "record": "101-85",
   "settled": 186,
   "hit_rate": 54.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Athletics @ Kansas City Royals",
+      "side": "Kansas City Royals",
+      "confidence": 62.8,
+      "fair_line": "-169",
+      "published": "2026-08-17T22:46:01+00:00",
+      "starts": "2026-08-17T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Atlanta Braves @ Minnesota Twins",
+      "side": "Atlanta Braves",
+      "confidence": 58.4,
+      "fair_line": "-140",
+      "published": "2026-08-17T22:46:01+00:00",
+      "starts": "2026-08-17T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ Chicago Cubs",
+      "side": "Chicago Cubs",
+      "confidence": 63.8,
+      "fair_line": "-177",
+      "published": "2026-08-17T22:46:01+00:00",
+      "starts": "2026-08-18T00:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Detroit Tigers @ Pittsburgh Pirates",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "7-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Baltimore Orioles @ Tampa Bay Rays",
-      "side": "Tampa Bay Rays",
-      "confidence": 59.4,
-      "fair_line": "-146",
-      "published": "2026-08-14T21:56:05+00:00",
-      "starts": "2026-08-14T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "6-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Atlanta Braves",
-      "side": "Atlanta Braves",
-      "confidence": 59.2,
-      "fair_line": "-145",
-      "published": "2026-08-14T21:56:05+00:00",
-      "starts": "2026-08-14T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "2-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Yankees @ Toronto Blue Jays",
-      "side": "Toronto Blue Jays",
-      "confidence": 50.2,
-      "fair_line": "-101",
-      "published": "2026-08-14T21:56:05+00:00",
-      "starts": "2026-08-14T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-3"
     }
   ]
 }
