@@ -186,3 +186,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823912,2026-08-16T19:02:58+00:00,2026-08-16T20:10:00+00:00,MLB,Milwaukee Brewers,Los Angeles Dodgers,Logan Henderson,Tarik Skubal,Los Angeles Dodgers,0.5008,-100,SETTLED,6,2,LOSS
 824156,2026-08-16T22:08:13+00:00,2026-08-16T23:20:00+00:00,MLB,Seattle Mariners,Houston Astros,Bryan Woo,Hunter Brown,Houston Astros,0.5781,-137,SETTLED,3,2,LOSS
 822939,2026-08-17T20:49:11+00:00,2026-08-17T22:05:00+00:00,MLB,Baltimore Orioles,Tampa Bay Rays,Brandon Young,Shane McClanahan,Tampa Bay Rays,0.5907,-144,PENDING,,,
+824478,2026-08-17T21:40:39+00:00,2026-08-17T22:40:00+00:00,MLB,St. Louis Cardinals,Cincinnati Reds,Andre Pallante,Rhett Lowder,Cincinnati Reds,0.5597,-127,PENDING,,,
+823427,2026-08-17T21:40:39+00:00,2026-08-17T22:40:00+00:00,MLB,Miami Marlins,Philadelphia Phillies,Janson Junk,Cristopher Sánchez,Philadelphia Phillies,0.6369,-175,PENDING,,,

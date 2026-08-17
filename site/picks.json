@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-17T21:14:23+00:00",
+  "updated_utc": "2026-08-17T21:40:39+00:00",
   "record": "101-85",
   "settled": 186,
   "hit_rate": 54.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "St. Louis Cardinals @ Cincinnati Reds",
+      "side": "Cincinnati Reds",
+      "confidence": 56.0,
+      "fair_line": "-127",
+      "published": "2026-08-17T21:40:39+00:00",
+      "starts": "2026-08-17T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Miami Marlins @ Philadelphia Phillies",
+      "side": "Philadelphia Phillies",
+      "confidence": 63.7,
+      "fair_line": "-175",
+      "published": "2026-08-17T21:40:39+00:00",
+      "starts": "2026-08-17T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Baltimore Orioles @ Tampa Bay Rays",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "0-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "St. Louis Cardinals @ Chicago Cubs",
-      "side": "Chicago Cubs",
-      "confidence": 65.7,
-      "fair_line": "-192",
-      "published": "2026-08-14T17:10:09+00:00",
-      "starts": "2026-08-14T18:20:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "0-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Seattle Mariners @ New York Yankees",
-      "side": "New York Yankees",
-      "confidence": 63.8,
-      "fair_line": "-176",
-      "published": "2026-08-13T16:31:36+00:00",
-      "starts": "2026-08-13T17:35:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "1-0"
     }
   ]
 }
