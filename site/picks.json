@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-18T22:14:30+00:00",
+  "updated_utc": "2026-08-18T22:41:29+00:00",
   "record": "110-86",
   "settled": 196,
   "hit_rate": 56.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Athletics @ Kansas City Royals",
+      "side": "Kansas City Royals",
+      "confidence": 57.2,
+      "fair_line": "-134",
+      "published": "2026-08-18T22:41:29+00:00",
+      "starts": "2026-08-18T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Atlanta Braves @ Minnesota Twins",
+      "side": "Atlanta Braves",
+      "confidence": 60.7,
+      "fair_line": "-154",
+      "published": "2026-08-18T22:41:29+00:00",
+      "starts": "2026-08-18T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Seattle Mariners @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 64.2,
+      "fair_line": "-180",
+      "published": "2026-08-18T22:41:29+00:00",
+      "starts": "2026-08-18T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Arizona Diamondbacks @ Boston Red Sox",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "1-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Seattle Mariners @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 58.7,
-      "fair_line": "-142",
-      "published": "2026-08-15T21:54:00+00:00",
-      "starts": "2026-08-15T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "10-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Philadelphia Phillies @ Minnesota Twins",
-      "side": "Philadelphia Phillies",
-      "confidence": 56.8,
-      "fair_line": "-132",
-      "published": "2026-08-15T21:54:00+00:00",
-      "starts": "2026-08-15T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "9-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Miami Marlins @ Cincinnati Reds",
-      "side": "Cincinnati Reds",
-      "confidence": 58.6,
-      "fair_line": "-142",
-      "published": "2026-08-15T21:33:31+00:00",
-      "starts": "2026-08-15T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "8-4"
     }
   ]
 }
