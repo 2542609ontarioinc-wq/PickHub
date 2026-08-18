@@ -1,9 +1,69 @@
 {
-  "updated_utc": "2026-08-18T21:16:45+00:00",
+  "updated_utc": "2026-08-18T21:43:22+00:00",
   "record": "110-86",
   "settled": 196,
   "hit_rate": 56.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Detroit Tigers @ Pittsburgh Pirates",
+      "side": "Detroit Tigers",
+      "confidence": 50.2,
+      "fair_line": "-101",
+      "published": "2026-08-18T21:43:21+00:00",
+      "starts": "2026-08-18T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "San Francisco Giants @ Cleveland Guardians",
+      "side": "Cleveland Guardians",
+      "confidence": 55.8,
+      "fair_line": "-126",
+      "published": "2026-08-18T21:43:21+00:00",
+      "starts": "2026-08-18T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "St. Louis Cardinals @ Cincinnati Reds",
+      "side": "Cincinnati Reds",
+      "confidence": 54.8,
+      "fair_line": "-121",
+      "published": "2026-08-18T21:43:21+00:00",
+      "starts": "2026-08-18T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Toronto Blue Jays @ Tampa Bay Rays",
+      "side": "Tampa Bay Rays",
+      "confidence": 51.4,
+      "fair_line": "-106",
+      "published": "2026-08-18T21:43:21+00:00",
+      "starts": "2026-08-18T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Miami Marlins @ Philadelphia Phillies",
+      "side": "Philadelphia Phillies",
+      "confidence": 61.1,
+      "fair_line": "-157",
+      "published": "2026-08-18T21:43:21+00:00",
+      "starts": "2026-08-18T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "New York Yankees @ Baltimore Orioles",
@@ -423,66 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "4-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Colorado Rockies @ San Francisco Giants",
-      "side": "San Francisco Giants",
-      "confidence": 68.4,
-      "fair_line": "-217",
-      "published": "2026-08-15T18:45:21+00:00",
-      "starts": "2026-08-15T20:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Yankees @ Toronto Blue Jays",
-      "side": "Toronto Blue Jays",
-      "confidence": 50.2,
-      "fair_line": "-101",
-      "published": "2026-08-15T17:54:56+00:00",
-      "starts": "2026-08-15T19:07:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "St. Louis Cardinals @ Chicago Cubs",
-      "side": "Chicago Cubs",
-      "confidence": 67.0,
-      "fair_line": "-203",
-      "published": "2026-08-15T17:14:39+00:00",
-      "starts": "2026-08-15T18:20:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "8-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago White Sox @ Detroit Tigers",
-      "side": "Detroit Tigers",
-      "confidence": 63.9,
-      "fair_line": "-177",
-      "published": "2026-08-15T15:54:10+00:00",
-      "starts": "2026-08-15T17:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Seattle Mariners @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 57.4,
-      "fair_line": "-135",
-      "published": "2026-08-14T22:56:55+00:00",
-      "starts": "2026-08-15T00:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "7-10"
     }
   ]
 }
