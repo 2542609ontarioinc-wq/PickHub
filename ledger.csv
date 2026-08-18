@@ -188,10 +188,10 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 822939,2026-08-17T20:49:11+00:00,2026-08-17T22:05:00+00:00,MLB,Baltimore Orioles,Tampa Bay Rays,Brandon Young,Shane McClanahan,Tampa Bay Rays,0.5907,-144,SETTLED,6,7,WIN
 824478,2026-08-17T21:40:39+00:00,2026-08-17T22:40:00+00:00,MLB,St. Louis Cardinals,Cincinnati Reds,Andre Pallante,Rhett Lowder,Cincinnati Reds,0.5597,-127,SETTLED,5,6,WIN
 823427,2026-08-17T21:40:39+00:00,2026-08-17T22:40:00+00:00,MLB,Miami Marlins,Philadelphia Phillies,Janson Junk,Cristopher Sánchez,Philadelphia Phillies,0.6369,-175,SETTLED,5,6,WIN
-823343,2026-08-17T21:57:14+00:00,2026-08-17T23:05:00+00:00,MLB,Detroit Tigers,Pittsburgh Pirates,Framber Valdez,Carmen Mlodzinski,Detroit Tigers,0.5212,-109,PENDING,,,
+823343,2026-08-17T21:57:14+00:00,2026-08-17T23:05:00+00:00,MLB,Detroit Tigers,Pittsburgh Pirates,Framber Valdez,Carmen Mlodzinski,Detroit Tigers,0.5212,-109,SETTLED,8,5,WIN
 824725,2026-08-17T21:57:14+00:00,2026-08-17T23:10:00+00:00,MLB,Arizona Diamondbacks,Boston Red Sox,Mitch Bratt,Alec Gamboa,Boston Red Sox,0.5838,-140,SETTLED,1,11,WIN
 823589,2026-08-17T21:57:14+00:00,2026-08-17T23:10:00+00:00,MLB,San Diego Padres,New York Mets,Walker Buehler,Nolan McLean,New York Mets,0.5343,-115,SETTLED,1,2,WIN
-824077,2026-08-17T22:46:01+00:00,2026-08-17T23:40:00+00:00,MLB,Athletics,Kansas City Royals,Mason Barnett,Michael Wacha,Kansas City Royals,0.6277,-169,PENDING,,,
+824077,2026-08-17T22:46:01+00:00,2026-08-17T23:40:00+00:00,MLB,Athletics,Kansas City Royals,Mason Barnett,Michael Wacha,Kansas City Royals,0.6277,-169,SETTLED,5,9,WIN
 823668,2026-08-17T22:46:01+00:00,2026-08-17T23:40:00+00:00,MLB,Atlanta Braves,Minnesota Twins,Martín Pérez,Bailey Ober,Atlanta Braves,0.5840,-140,PENDING,,,
 824641,2026-08-17T22:46:01+00:00,2026-08-18T00:05:00+00:00,MLB,Chicago White Sox,Chicago Cubs,Luis Castillo,Shota Imanaga,Chicago Cubs,0.6384,-177,PENDING,,,
 824320,2026-08-17T23:33:46+00:00,2026-08-18T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Blake Snell,Tomoyuki Sugano,Los Angeles Dodgers,0.6807,-213,PENDING,,,
