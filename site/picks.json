@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-18T21:43:22+00:00",
+  "updated_utc": "2026-08-18T21:57:00+00:00",
   "record": "110-86",
   "settled": 196,
   "hit_rate": 56.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Arizona Diamondbacks @ Boston Red Sox",
+      "side": "Boston Red Sox",
+      "confidence": 60.0,
+      "fair_line": "-150",
+      "published": "2026-08-18T21:56:59+00:00",
+      "starts": "2026-08-18T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "San Diego Padres @ New York Mets",
+      "side": "San Diego Padres",
+      "confidence": 52.1,
+      "fair_line": "-109",
+      "published": "2026-08-18T21:56:59+00:00",
+      "starts": "2026-08-18T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Detroit Tigers @ Pittsburgh Pirates",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "8-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Baltimore Orioles @ Tampa Bay Rays",
-      "side": "Tampa Bay Rays",
-      "confidence": 55.5,
-      "fair_line": "-125",
-      "published": "2026-08-15T20:56:12+00:00",
-      "starts": "2026-08-15T22:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Washington Nationals @ New York Mets",
-      "side": "New York Mets",
-      "confidence": 61.0,
-      "fair_line": "-156",
-      "published": "2026-08-15T19:12:04+00:00",
-      "starts": "2026-08-15T20:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "4-5"
     }
   ]
 }
