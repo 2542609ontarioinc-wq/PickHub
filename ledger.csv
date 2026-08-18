@@ -195,3 +195,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823668,2026-08-17T22:46:01+00:00,2026-08-17T23:40:00+00:00,MLB,Atlanta Braves,Minnesota Twins,Martín Pérez,Bailey Ober,Atlanta Braves,0.5840,-140,SETTLED,2,4,LOSS
 824641,2026-08-17T22:46:01+00:00,2026-08-18T00:05:00+00:00,MLB,Chicago White Sox,Chicago Cubs,Luis Castillo,Shota Imanaga,Chicago Cubs,0.6384,-177,SETTLED,5,7,WIN
 824320,2026-08-17T23:33:46+00:00,2026-08-18T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Blake Snell,Tomoyuki Sugano,Los Angeles Dodgers,0.6807,-213,SETTLED,11,5,WIN
+824803,2026-08-18T21:16:44+00:00,2026-08-18T22:35:00+00:00,MLB,New York Yankees,Baltimore Orioles,Carlos Rodón,Shane Baz,New York Yankees,0.5714,-133,PENDING,,,
