@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-18T22:41:29+00:00",
+  "updated_utc": "2026-08-18T22:58:17+00:00",
   "record": "110-86",
   "settled": 196,
   "hit_rate": 56.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Washington Nationals @ Texas Rangers",
+      "side": "Texas Rangers",
+      "confidence": 56.4,
+      "fair_line": "-129",
+      "published": "2026-08-18T22:58:17+00:00",
+      "starts": "2026-08-19T00:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ Chicago Cubs",
+      "side": "Chicago Cubs",
+      "confidence": 66.4,
+      "fair_line": "-198",
+      "published": "2026-08-18T22:58:17+00:00",
+      "starts": "2026-08-19T00:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Angels @ Houston Astros",
+      "side": "Houston Astros",
+      "confidence": 63.4,
+      "fair_line": "-174",
+      "published": "2026-08-18T22:58:17+00:00",
+      "starts": "2026-08-19T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Athletics @ Kansas City Royals",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "4-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Atlanta Braves",
-      "side": "Atlanta Braves",
-      "confidence": 55.8,
-      "fair_line": "-126",
-      "published": "2026-08-15T22:08:12+00:00",
-      "starts": "2026-08-15T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "10-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Milwaukee Brewers @ Los Angeles Dodgers",
-      "side": "Los Angeles Dodgers",
-      "confidence": 51.7,
-      "fair_line": "-107",
-      "published": "2026-08-15T22:08:12+00:00",
-      "starts": "2026-08-15T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Diego Padres @ Cleveland Guardians",
-      "side": "San Diego Padres",
-      "confidence": 55.4,
-      "fair_line": "-124",
-      "published": "2026-08-15T21:54:00+00:00",
-      "starts": "2026-08-15T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "1-6"
     }
   ]
 }
