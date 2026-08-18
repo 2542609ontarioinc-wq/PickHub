@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-18T23:17:37+00:00",
+  "updated_utc": "2026-08-18T23:43:04+00:00",
   "record": "110-86",
   "settled": 196,
   "hit_rate": 56.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Dodgers @ Colorado Rockies",
+      "side": "Los Angeles Dodgers",
+      "confidence": 67.7,
+      "fair_line": "-209",
+      "published": "2026-08-18T23:43:03+00:00",
+      "starts": "2026-08-19T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Washington Nationals @ Texas Rangers",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "10-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Boston Red Sox @ Pittsburgh Pirates",
-      "side": "Boston Red Sox",
-      "confidence": 58.6,
-      "fair_line": "-141",
-      "published": "2026-08-15T22:08:12+00:00",
-      "starts": "2026-08-15T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "4-0"
     }
   ]
 }
