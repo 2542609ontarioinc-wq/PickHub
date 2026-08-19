@@ -195,16 +195,16 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823668,2026-08-17T22:46:01+00:00,2026-08-17T23:40:00+00:00,MLB,Atlanta Braves,Minnesota Twins,Martín Pérez,Bailey Ober,Atlanta Braves,0.5840,-140,SETTLED,2,4,LOSS
 824641,2026-08-17T22:46:01+00:00,2026-08-18T00:05:00+00:00,MLB,Chicago White Sox,Chicago Cubs,Luis Castillo,Shota Imanaga,Chicago Cubs,0.6384,-177,SETTLED,5,7,WIN
 824320,2026-08-17T23:33:46+00:00,2026-08-18T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Blake Snell,Tomoyuki Sugano,Los Angeles Dodgers,0.6807,-213,SETTLED,11,5,WIN
-824803,2026-08-18T21:16:44+00:00,2026-08-18T22:35:00+00:00,MLB,New York Yankees,Baltimore Orioles,Carlos Rodón,Shane Baz,New York Yankees,0.5714,-133,PENDING,,,
+824803,2026-08-18T21:16:44+00:00,2026-08-18T22:35:00+00:00,MLB,New York Yankees,Baltimore Orioles,Carlos Rodón,Shane Baz,New York Yankees,0.5714,-133,SETTLED,3,1,WIN
 823341,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,Detroit Tigers,Pittsburgh Pirates,Keider Montero,Braxton Ashcraft,Detroit Tigers,0.5022,-101,SETTLED,1,4,LOSS
-824398,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,San Francisco Giants,Cleveland Guardians,Carson Whisenhunt,Foster Griffin,Cleveland Guardians,0.5580,-126,PENDING,,,
-824475,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,St. Louis Cardinals,Cincinnati Reds,Kyle Leahy,Andrew Abbott,Cincinnati Reds,0.5475,-121,PENDING,,,
-822938,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,Toronto Blue Jays,Tampa Bay Rays,José Soriano,Nick Martinez,Tampa Bay Rays,0.5137,-106,PENDING,,,
-823423,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,Miami Marlins,Philadelphia Phillies,Cade Gibson,Zack Wheeler,Philadelphia Phillies,0.6112,-157,PENDING,,,
-824723,2026-08-18T21:56:59+00:00,2026-08-18T23:10:00+00:00,MLB,Arizona Diamondbacks,Boston Red Sox,Merrill Kelly,Ranger Suarez,Boston Red Sox,0.6000,-150,PENDING,,,
+824398,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,San Francisco Giants,Cleveland Guardians,Carson Whisenhunt,Foster Griffin,Cleveland Guardians,0.5580,-126,SETTLED,1,8,WIN
+824475,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,St. Louis Cardinals,Cincinnati Reds,Kyle Leahy,Andrew Abbott,Cincinnati Reds,0.5475,-121,SETTLED,3,0,LOSS
+822938,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,Toronto Blue Jays,Tampa Bay Rays,José Soriano,Nick Martinez,Tampa Bay Rays,0.5137,-106,SETTLED,10,5,LOSS
+823423,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,Miami Marlins,Philadelphia Phillies,Cade Gibson,Zack Wheeler,Philadelphia Phillies,0.6112,-157,SETTLED,4,6,WIN
+824723,2026-08-18T21:56:59+00:00,2026-08-18T23:10:00+00:00,MLB,Arizona Diamondbacks,Boston Red Sox,Merrill Kelly,Ranger Suarez,Boston Red Sox,0.6000,-150,SETTLED,4,9,WIN
 823586,2026-08-18T21:56:59+00:00,2026-08-18T23:10:00+00:00,MLB,San Diego Padres,New York Mets,Robbie Ray,Zac Thornton,San Diego Padres,0.5211,-109,PENDING,,,
 824075,2026-08-18T22:41:29+00:00,2026-08-18T23:40:00+00:00,MLB,Athletics,Kansas City Royals,Brady Basso,Daniel Lynch IV,Kansas City Royals,0.5721,-134,PENDING,,,
-823667,2026-08-18T22:41:29+00:00,2026-08-18T23:40:00+00:00,MLB,Atlanta Braves,Minnesota Twins,Tyler Mahle,Zebby Matthews,Atlanta Braves,0.6070,-154,PENDING,,,
+823667,2026-08-18T22:41:29+00:00,2026-08-18T23:40:00+00:00,MLB,Atlanta Braves,Minnesota Twins,Tyler Mahle,Zebby Matthews,Atlanta Braves,0.6070,-154,SETTLED,1,4,LOSS
 823749,2026-08-18T22:41:29+00:00,2026-08-18T23:40:00+00:00,MLB,Seattle Mariners,Milwaukee Brewers,Bryce Miller,Kyle Harrison,Milwaukee Brewers,0.6425,-180,PENDING,,,
 822859,2026-08-18T22:58:17+00:00,2026-08-19T00:05:00+00:00,MLB,Washington Nationals,Texas Rangers,Jackson Kent,Cal Quantrill,Texas Rangers,0.5641,-129,PENDING,,,
 824639,2026-08-18T22:58:17+00:00,2026-08-19T00:05:00+00:00,MLB,Chicago White Sox,Chicago Cubs,Bryan Hudson,Kevin Gausman,Chicago Cubs,0.6644,-198,PENDING,,,
