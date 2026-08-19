@@ -209,4 +209,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 822859,2026-08-18T22:58:17+00:00,2026-08-19T00:05:00+00:00,MLB,Washington Nationals,Texas Rangers,Jackson Kent,Cal Quantrill,Texas Rangers,0.5641,-129,SETTLED,0,5,WIN
 824639,2026-08-18T22:58:17+00:00,2026-08-19T00:05:00+00:00,MLB,Chicago White Sox,Chicago Cubs,Bryan Hudson,Kevin Gausman,Chicago Cubs,0.6644,-198,PENDING,,,
 824154,2026-08-18T22:58:17+00:00,2026-08-19T00:10:00+00:00,MLB,Los Angeles Angels,Houston Astros,George Klassen,Cristian Javier,Houston Astros,0.6345,-174,SETTLED,3,1,LOSS
-824319,2026-08-18T23:43:03+00:00,2026-08-19T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Eric Lauer,Ryan Feltner,Los Angeles Dodgers,0.6765,-209,PENDING,,,
+824319,2026-08-18T23:43:03+00:00,2026-08-19T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Eric Lauer,Ryan Feltner,Los Angeles Dodgers,0.6765,-209,SETTLED,7,6,WIN
