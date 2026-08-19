@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-19T22:18:16+00:00",
+  "updated_utc": "2026-08-19T22:46:50+00:00",
   "record": "121-93",
   "settled": 214,
   "hit_rate": 56.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Athletics @ Kansas City Royals",
+      "side": "Kansas City Royals",
+      "confidence": 58.7,
+      "fair_line": "-142",
+      "published": "2026-08-19T22:46:49+00:00",
+      "starts": "2026-08-19T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Seattle Mariners @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 60.3,
+      "fair_line": "-152",
+      "published": "2026-08-19T22:46:49+00:00",
+      "starts": "2026-08-19T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Washington Nationals @ Texas Rangers",
+      "side": "Texas Rangers",
+      "confidence": 57.9,
+      "fair_line": "-137",
+      "published": "2026-08-19T22:46:49+00:00",
+      "starts": "2026-08-20T00:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "New York Yankees @ Baltimore Orioles",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "6-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Colorado Rockies @ San Francisco Giants",
-      "side": "San Francisco Giants",
-      "confidence": 59.1,
-      "fair_line": "-145",
-      "published": "2026-08-16T18:45:03+00:00",
-      "starts": "2026-08-16T20:05:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "13-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Texas Rangers @ Athletics",
-      "side": "Texas Rangers",
-      "confidence": 53.4,
-      "fair_line": "-115",
-      "published": "2026-08-16T18:45:03+00:00",
-      "starts": "2026-08-16T20:05:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "2-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "St. Louis Cardinals @ Chicago Cubs",
-      "side": "Chicago Cubs",
-      "confidence": 65.0,
-      "fair_line": "-186",
-      "published": "2026-08-16T18:11:15+00:00",
-      "starts": "2026-08-16T19:15:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "11-4"
     }
   ]
 }
