@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-19T16:52:29+00:00",
+  "updated_utc": "2026-08-19T17:15:37+00:00",
   "record": "120-91",
   "settled": 211,
   "hit_rate": 56.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ Chicago Cubs",
+      "side": "Chicago Cubs",
+      "confidence": 63.5,
+      "fair_line": "-174",
+      "published": "2026-08-19T17:15:37+00:00",
+      "starts": "2026-08-19T18:20:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "San Diego Padres @ New York Mets",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "5-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago White Sox @ Detroit Tigers",
-      "side": "Detroit Tigers",
-      "confidence": 61.1,
-      "fair_line": "-157",
-      "published": "2026-08-16T16:42:00+00:00",
-      "starts": "2026-08-16T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "7-5"
     }
   ]
 }
