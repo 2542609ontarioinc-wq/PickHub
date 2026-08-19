@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-19T23:12:01+00:00",
-  "record": "121-93",
-  "settled": 214,
-  "hit_rate": 56.5,
+  "updated_utc": "2026-08-19T23:34:27+00:00",
+  "record": "121-94",
+  "settled": 215,
+  "hit_rate": 56.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Dodgers @ Colorado Rockies",
+      "side": "Los Angeles Dodgers",
+      "confidence": 66.3,
+      "fair_line": "-197",
+      "published": "2026-08-19T23:34:27+00:00",
+      "starts": "2026-08-20T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Los Angeles Angels @ Houston Astros",
@@ -120,9 +132,9 @@
       "fair_line": "-143",
       "published": "2026-08-19T18:59:01+00:00",
       "starts": "2026-08-19T20:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "7-6"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "3-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Kansas City Royals @ Los Angeles Angels",
-      "side": "Kansas City Royals",
-      "confidence": 59.0,
-      "fair_line": "-144",
-      "published": "2026-08-16T19:02:58+00:00",
-      "starts": "2026-08-16T20:07:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-0"
     }
   ]
 }
