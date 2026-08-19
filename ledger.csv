@@ -212,5 +212,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824319,2026-08-18T23:43:03+00:00,2026-08-19T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Eric Lauer,Ryan Feltner,Los Angeles Dodgers,0.6765,-209,SETTLED,7,6,WIN
 823342,2026-08-19T15:18:50+00:00,2026-08-19T16:35:00+00:00,MLB,Detroit Tigers,Pittsburgh Pirates,Jackson Jobe,Paul Skenes,Pittsburgh Pirates,0.5160,-107,SETTLED,3,4,WIN
 823587,2026-08-19T15:53:13+00:00,2026-08-19T17:10:00+00:00,MLB,San Diego Padres,New York Mets,Michael King,Robert Stock,San Diego Padres,0.6165,-161,SETTLED,2,4,LOSS
-824640,2026-08-19T17:15:37+00:00,2026-08-19T18:20:00+00:00,MLB,Chicago White Sox,Chicago Cubs,Sean Newcomb,Clay Holmes,Chicago Cubs,0.6351,-174,PENDING,,,
+824640,2026-08-19T17:15:37+00:00,2026-08-19T18:20:00+00:00,MLB,Chicago White Sox,Chicago Cubs,Sean Newcomb,Clay Holmes,Chicago Cubs,0.6351,-174,SETTLED,3,0,LOSS
 824722,2026-08-19T18:59:01+00:00,2026-08-19T20:10:00+00:00,MLB,Arizona Diamondbacks,Boston Red Sox,Brandon Pfaadt,Payton Tolle,Boston Red Sox,0.5889,-143,PENDING,,,
+823424,2026-08-19T21:02:38+00:00,2026-08-19T22:05:00+00:00,MLB,Miami Marlins,Philadelphia Phillies,Sandy Alcantara,Aaron Nola,Philadelphia Phillies,0.6063,-154,PENDING,,,

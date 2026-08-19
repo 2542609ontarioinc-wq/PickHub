@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-19T20:44:12+00:00",
-  "record": "121-92",
-  "settled": 213,
-  "hit_rate": 56.8,
+  "updated_utc": "2026-08-19T21:02:38+00:00",
+  "record": "121-93",
+  "settled": 214,
+  "hit_rate": 56.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Miami Marlins @ Philadelphia Phillies",
+      "side": "Philadelphia Phillies",
+      "confidence": 60.6,
+      "fair_line": "-154",
+      "published": "2026-08-19T21:02:38+00:00",
+      "starts": "2026-08-19T22:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Arizona Diamondbacks @ Boston Red Sox",
@@ -24,9 +36,9 @@
       "fair_line": "-174",
       "published": "2026-08-19T17:15:37+00:00",
       "starts": "2026-08-19T18:20:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "3-0"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "4-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Washington Nationals @ New York Mets",
-      "side": "New York Mets",
-      "confidence": 65.7,
-      "fair_line": "-192",
-      "published": "2026-08-16T16:42:00+00:00",
-      "starts": "2026-08-16T17:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-4"
     }
   ]
 }
