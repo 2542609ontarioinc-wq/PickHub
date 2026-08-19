@@ -196,7 +196,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824641,2026-08-17T22:46:01+00:00,2026-08-18T00:05:00+00:00,MLB,Chicago White Sox,Chicago Cubs,Luis Castillo,Shota Imanaga,Chicago Cubs,0.6384,-177,SETTLED,5,7,WIN
 824320,2026-08-17T23:33:46+00:00,2026-08-18T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Blake Snell,Tomoyuki Sugano,Los Angeles Dodgers,0.6807,-213,SETTLED,11,5,WIN
 824803,2026-08-18T21:16:44+00:00,2026-08-18T22:35:00+00:00,MLB,New York Yankees,Baltimore Orioles,Carlos Rodón,Shane Baz,New York Yankees,0.5714,-133,PENDING,,,
-823341,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,Detroit Tigers,Pittsburgh Pirates,Keider Montero,Braxton Ashcraft,Detroit Tigers,0.5022,-101,PENDING,,,
+823341,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,Detroit Tigers,Pittsburgh Pirates,Keider Montero,Braxton Ashcraft,Detroit Tigers,0.5022,-101,SETTLED,1,4,LOSS
 824398,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,San Francisco Giants,Cleveland Guardians,Carson Whisenhunt,Foster Griffin,Cleveland Guardians,0.5580,-126,PENDING,,,
 824475,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,St. Louis Cardinals,Cincinnati Reds,Kyle Leahy,Andrew Abbott,Cincinnati Reds,0.5475,-121,PENDING,,,
 822938,2026-08-18T21:43:21+00:00,2026-08-18T22:40:00+00:00,MLB,Toronto Blue Jays,Tampa Bay Rays,José Soriano,Nick Martinez,Tampa Bay Rays,0.5137,-106,PENDING,,,
