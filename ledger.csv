@@ -214,11 +214,11 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823587,2026-08-19T15:53:13+00:00,2026-08-19T17:10:00+00:00,MLB,San Diego Padres,New York Mets,Michael King,Robert Stock,San Diego Padres,0.6165,-161,SETTLED,2,4,LOSS
 824640,2026-08-19T17:15:37+00:00,2026-08-19T18:20:00+00:00,MLB,Chicago White Sox,Chicago Cubs,Sean Newcomb,Clay Holmes,Chicago Cubs,0.6351,-174,SETTLED,3,0,LOSS
 824722,2026-08-19T18:59:01+00:00,2026-08-19T20:10:00+00:00,MLB,Arizona Diamondbacks,Boston Red Sox,Brandon Pfaadt,Payton Tolle,Boston Red Sox,0.5889,-143,SETTLED,7,6,LOSS
-823424,2026-08-19T21:02:38+00:00,2026-08-19T22:05:00+00:00,MLB,Miami Marlins,Philadelphia Phillies,Sandy Alcantara,Aaron Nola,Philadelphia Phillies,0.6063,-154,PENDING,,,
-824801,2026-08-19T21:36:43+00:00,2026-08-19T22:35:00+00:00,MLB,New York Yankees,Baltimore Orioles,Will Warren,Chris Bassitt,New York Yankees,0.5383,-117,PENDING,,,
-824394,2026-08-19T21:36:43+00:00,2026-08-19T22:40:00+00:00,MLB,San Francisco Giants,Cleveland Guardians,Matt Wilkinson,Parker Messick,Cleveland Guardians,0.5795,-138,PENDING,,,
-824476,2026-08-19T21:36:43+00:00,2026-08-19T22:40:00+00:00,MLB,St. Louis Cardinals,Cincinnati Reds,Matthew Liberatore,Chase Burns,Cincinnati Reds,0.5294,-112,PENDING,,,
-822937,2026-08-19T21:36:43+00:00,2026-08-19T22:40:00+00:00,MLB,Toronto Blue Jays,Tampa Bay Rays,Max Scherzer,Drew Rasmussen,Tampa Bay Rays,0.5483,-121,PENDING,,,
+823424,2026-08-19T21:02:38+00:00,2026-08-19T22:05:00+00:00,MLB,Miami Marlins,Philadelphia Phillies,Sandy Alcantara,Aaron Nola,Philadelphia Phillies,0.6063,-154,SETTLED,1,4,WIN
+824801,2026-08-19T21:36:43+00:00,2026-08-19T22:35:00+00:00,MLB,New York Yankees,Baltimore Orioles,Will Warren,Chris Bassitt,New York Yankees,0.5383,-117,SETTLED,5,3,WIN
+824394,2026-08-19T21:36:43+00:00,2026-08-19T22:40:00+00:00,MLB,San Francisco Giants,Cleveland Guardians,Matt Wilkinson,Parker Messick,Cleveland Guardians,0.5795,-138,SETTLED,1,0,LOSS
+824476,2026-08-19T21:36:43+00:00,2026-08-19T22:40:00+00:00,MLB,St. Louis Cardinals,Cincinnati Reds,Matthew Liberatore,Chase Burns,Cincinnati Reds,0.5294,-112,SETTLED,4,5,WIN
+822937,2026-08-19T21:36:43+00:00,2026-08-19T22:40:00+00:00,MLB,Toronto Blue Jays,Tampa Bay Rays,Max Scherzer,Drew Rasmussen,Tampa Bay Rays,0.5483,-121,SETTLED,6,7,WIN
 824076,2026-08-19T22:46:49+00:00,2026-08-19T23:40:00+00:00,MLB,Athletics,Kansas City Royals,Jeffrey Springs,Seth Lugo,Kansas City Royals,0.5873,-142,PENDING,,,
 823748,2026-08-19T22:46:49+00:00,2026-08-19T23:40:00+00:00,MLB,Seattle Mariners,Milwaukee Brewers,Logan Gilbert,Dustin May,Milwaukee Brewers,0.6028,-152,PENDING,,,
 822860,2026-08-19T22:46:49+00:00,2026-08-20T00:05:00+00:00,MLB,Washington Nationals,Texas Rangers,Cade Cavalli,Kumar Rocker,Texas Rangers,0.5787,-137,PENDING,,,
