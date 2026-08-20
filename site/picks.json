@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-20T16:19:55+00:00",
+  "updated_utc": "2026-08-20T16:57:26+00:00",
   "record": "128-97",
   "settled": 225,
   "hit_rate": 56.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Athletics @ Kansas City Royals",
+      "side": "Kansas City Royals",
+      "confidence": 63.4,
+      "fair_line": "-173",
+      "published": "2026-08-20T16:57:26+00:00",
+      "starts": "2026-08-20T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Atlanta Braves @ Chicago White Sox",
+      "side": "Atlanta Braves",
+      "confidence": 53.5,
+      "fair_line": "-115",
+      "published": "2026-08-20T16:57:26+00:00",
+      "starts": "2026-08-20T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Seattle Mariners @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 63.7,
+      "fair_line": "-176",
+      "published": "2026-08-20T16:57:26+00:00",
+      "starts": "2026-08-20T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "San Francisco Giants @ Cleveland Guardians",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "8-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Boston Red Sox",
-      "side": "Boston Red Sox",
-      "confidence": 58.4,
-      "fair_line": "-140",
-      "published": "2026-08-17T21:57:14+00:00",
-      "starts": "2026-08-17T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-11"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Diego Padres @ New York Mets",
-      "side": "New York Mets",
-      "confidence": 53.4,
-      "fair_line": "-115",
-      "published": "2026-08-17T21:57:14+00:00",
-      "starts": "2026-08-17T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "St. Louis Cardinals @ Cincinnati Reds",
-      "side": "Cincinnati Reds",
-      "confidence": 56.0,
-      "fair_line": "-127",
-      "published": "2026-08-17T21:40:39+00:00",
-      "starts": "2026-08-17T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-6"
     }
   ]
 }
