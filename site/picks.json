@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-20T14:51:37+00:00",
+  "updated_utc": "2026-08-20T15:21:50+00:00",
   "record": "128-97",
   "settled": 225,
   "hit_rate": 56.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "St. Louis Cardinals @ Cincinnati Reds",
+      "side": "Cincinnati Reds",
+      "confidence": 54.6,
+      "fair_line": "-120",
+      "published": "2026-08-20T15:21:50+00:00",
+      "starts": "2026-08-20T16:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Los Angeles Dodgers @ Colorado Rockies",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "6-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Seattle Mariners @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 57.8,
-      "fair_line": "-137",
-      "published": "2026-08-16T22:08:13+00:00",
-      "starts": "2026-08-16T23:20:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-2"
     }
   ]
 }
