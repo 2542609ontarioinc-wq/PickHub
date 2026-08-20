@@ -223,4 +223,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823748,2026-08-19T22:46:49+00:00,2026-08-19T23:40:00+00:00,MLB,Seattle Mariners,Milwaukee Brewers,Logan Gilbert,Dustin May,Milwaukee Brewers,0.6028,-152,SETTLED,7,5,LOSS
 822860,2026-08-19T22:46:49+00:00,2026-08-20T00:05:00+00:00,MLB,Washington Nationals,Texas Rangers,Cade Cavalli,Kumar Rocker,Texas Rangers,0.5787,-137,SETTLED,6,0,LOSS
 824155,2026-08-19T23:12:00+00:00,2026-08-20T00:10:00+00:00,MLB,Los Angeles Angels,Houston Astros,Walbert Ureña,Ethan Pecko,Houston Astros,0.6341,-173,SETTLED,2,3,WIN
-824318,2026-08-19T23:34:27+00:00,2026-08-20T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Roki Sasaki,Kyle Freeland,Los Angeles Dodgers,0.6628,-197,PENDING,,,
+824318,2026-08-19T23:34:27+00:00,2026-08-20T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Roki Sasaki,Kyle Freeland,Los Angeles Dodgers,0.6628,-197,SETTLED,6,4,WIN
