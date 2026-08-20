@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-20T21:02:36+00:00",
-  "record": "130-99",
-  "settled": 229,
-  "hit_rate": 56.8,
+  "updated_utc": "2026-08-20T21:39:18+00:00",
+  "record": "132-99",
+  "settled": 231,
+  "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "New York Yankees @ Baltimore Orioles",
+      "side": "New York Yankees",
+      "confidence": 52.4,
+      "fair_line": "-110",
+      "published": "2026-08-20T21:39:17+00:00",
+      "starts": "2026-08-20T22:35:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Athletics @ Kansas City Royals",
@@ -12,9 +24,9 @@
       "fair_line": "-173",
       "published": "2026-08-20T16:57:26+00:00",
       "starts": "2026-08-20T18:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "2-6"
     },
     {
       "sport": "MLB",
@@ -36,9 +48,9 @@
       "fair_line": "-176",
       "published": "2026-08-20T16:57:26+00:00",
       "starts": "2026-08-20T18:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "4-7"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "5-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Detroit Tigers @ Pittsburgh Pirates",
-      "side": "Detroit Tigers",
-      "confidence": 52.1,
-      "fair_line": "-109",
-      "published": "2026-08-17T21:57:14+00:00",
-      "starts": "2026-08-17T23:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "8-5"
     }
   ]
 }
