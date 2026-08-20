@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-20T15:21:50+00:00",
+  "updated_utc": "2026-08-20T15:54:20+00:00",
   "record": "128-97",
   "settled": 225,
   "hit_rate": 56.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "San Francisco Giants @ Cleveland Guardians",
+      "side": "Cleveland Guardians",
+      "confidence": 56.3,
+      "fair_line": "-129",
+      "published": "2026-08-20T15:54:19+00:00",
+      "starts": "2026-08-20T17:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Toronto Blue Jays @ Tampa Bay Rays",
+      "side": "Tampa Bay Rays",
+      "confidence": 50.9,
+      "fair_line": "-104",
+      "published": "2026-08-20T15:54:19+00:00",
+      "starts": "2026-08-20T17:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "St. Louis Cardinals @ Cincinnati Reds",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "5-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Miami Marlins @ Philadelphia Phillies",
-      "side": "Philadelphia Phillies",
-      "confidence": 63.7,
-      "fair_line": "-175",
-      "published": "2026-08-17T21:40:39+00:00",
-      "starts": "2026-08-17T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Baltimore Orioles @ Tampa Bay Rays",
-      "side": "Tampa Bay Rays",
-      "confidence": 59.1,
-      "fair_line": "-144",
-      "published": "2026-08-17T20:49:11+00:00",
-      "starts": "2026-08-17T22:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "6-7"
     }
   ]
 }

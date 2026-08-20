@@ -225,3 +225,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824155,2026-08-19T23:12:00+00:00,2026-08-20T00:10:00+00:00,MLB,Los Angeles Angels,Houston Astros,Walbert Ureña,Ethan Pecko,Houston Astros,0.6341,-173,SETTLED,2,3,WIN
 824318,2026-08-19T23:34:27+00:00,2026-08-20T00:40:00+00:00,MLB,Los Angeles Dodgers,Colorado Rockies,Roki Sasaki,Kyle Freeland,Los Angeles Dodgers,0.6628,-197,SETTLED,6,4,WIN
 824474,2026-08-20T15:21:50+00:00,2026-08-20T16:40:00+00:00,MLB,St. Louis Cardinals,Cincinnati Reds,Michael McGreevy,Brady Singer,Cincinnati Reds,0.5459,-120,PENDING,,,
+824395,2026-08-20T15:54:19+00:00,2026-08-20T17:10:00+00:00,MLB,San Francisco Giants,Cleveland Guardians,Landen Roupp,Gavin Williams,Cleveland Guardians,0.5626,-129,PENDING,,,
+822934,2026-08-20T15:54:19+00:00,2026-08-20T17:10:00+00:00,MLB,Toronto Blue Jays,Tampa Bay Rays,Shane Bieber,Ian Seymour,Tampa Bay Rays,0.5090,-104,PENDING,,,
