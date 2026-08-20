@@ -228,5 +228,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824395,2026-08-20T15:54:19+00:00,2026-08-20T17:10:00+00:00,MLB,San Francisco Giants,Cleveland Guardians,Landen Roupp,Gavin Williams,Cleveland Guardians,0.5626,-129,SETTLED,2,5,WIN
 822934,2026-08-20T15:54:19+00:00,2026-08-20T17:10:00+00:00,MLB,Toronto Blue Jays,Tampa Bay Rays,Shane Bieber,Ian Seymour,Tampa Bay Rays,0.5090,-104,SETTLED,5,1,LOSS
 824074,2026-08-20T16:57:26+00:00,2026-08-20T18:10:00+00:00,MLB,Athletics,Kansas City Royals,Gage Jump,Randy Dobnak,Kansas City Royals,0.6340,-173,PENDING,,,
-824589,2026-08-20T16:57:26+00:00,2026-08-20T18:10:00+00:00,MLB,Atlanta Braves,Chicago White Sox,Grant Holmes,Anthony Kay,Atlanta Braves,0.5350,-115,PENDING,,,
+824589,2026-08-20T16:57:26+00:00,2026-08-20T18:10:00+00:00,MLB,Atlanta Braves,Chicago White Sox,Grant Holmes,Anthony Kay,Atlanta Braves,0.5350,-115,SETTLED,2,0,WIN
 823747,2026-08-20T16:57:26+00:00,2026-08-20T18:10:00+00:00,MLB,Seattle Mariners,Milwaukee Brewers,George Kirby,Robert Gasser,Milwaukee Brewers,0.6374,-176,PENDING,,,
