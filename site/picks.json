@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-21T22:46:31+00:00",
+  "updated_utc": "2026-08-21T23:12:22+00:00",
   "record": "135-100",
   "settled": 235,
   "hit_rate": 57.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Detroit Tigers @ Kansas City Royals",
+      "side": "Detroit Tigers",
+      "confidence": 51.9,
+      "fair_line": "-108",
+      "published": "2026-08-21T23:12:22+00:00",
+      "starts": "2026-08-22T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Athletics @ Houston Astros",
+      "side": "Houston Astros",
+      "confidence": 63.8,
+      "fair_line": "-176",
+      "published": "2026-08-21T23:12:22+00:00",
+      "starts": "2026-08-22T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Angels @ Texas Rangers",
+      "side": "Texas Rangers",
+      "confidence": 59.2,
+      "fair_line": "-145",
+      "published": "2026-08-21T23:12:22+00:00",
+      "starts": "2026-08-22T00:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "New York Mets @ Chicago White Sox",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "0-22"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Boston Red Sox",
-      "side": "Boston Red Sox",
-      "confidence": 60.0,
-      "fair_line": "-150",
-      "published": "2026-08-18T21:56:59+00:00",
-      "starts": "2026-08-18T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "4-9"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Diego Padres @ New York Mets",
-      "side": "San Diego Padres",
-      "confidence": 52.1,
-      "fair_line": "-109",
-      "published": "2026-08-18T21:56:59+00:00",
-      "starts": "2026-08-18T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Detroit Tigers @ Pittsburgh Pirates",
-      "side": "Detroit Tigers",
-      "confidence": 50.2,
-      "fair_line": "-101",
-      "published": "2026-08-18T21:43:21+00:00",
-      "starts": "2026-08-18T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "1-4"
     }
   ]
 }
