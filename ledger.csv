@@ -230,6 +230,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824074,2026-08-20T16:57:26+00:00,2026-08-20T18:10:00+00:00,MLB,Athletics,Kansas City Royals,Gage Jump,Randy Dobnak,Kansas City Royals,0.6340,-173,SETTLED,2,6,WIN
 824589,2026-08-20T16:57:26+00:00,2026-08-20T18:10:00+00:00,MLB,Atlanta Braves,Chicago White Sox,Grant Holmes,Anthony Kay,Atlanta Braves,0.5350,-115,SETTLED,2,0,WIN
 823747,2026-08-20T16:57:26+00:00,2026-08-20T18:10:00+00:00,MLB,Seattle Mariners,Milwaukee Brewers,George Kirby,Robert Gasser,Milwaukee Brewers,0.6374,-176,SETTLED,4,7,WIN
-824802,2026-08-20T21:39:17+00:00,2026-08-20T22:35:00+00:00,MLB,New York Yankees,Baltimore Orioles,Gerrit Cole,Kyle Bradish,New York Yankees,0.5238,-110,PENDING,,,
+824802,2026-08-20T21:39:17+00:00,2026-08-20T22:35:00+00:00,MLB,New York Yankees,Baltimore Orioles,Gerrit Cole,Kyle Bradish,New York Yankees,0.5238,-110,SETTLED,6,1,WIN
 822861,2026-08-20T22:50:30+00:00,2026-08-21T00:05:00+00:00,MLB,Washington Nationals,Texas Rangers,Andrew Alvarez,Jacob deGrom,Texas Rangers,0.5803,-138,PENDING,,,
 824153,2026-08-20T22:50:30+00:00,2026-08-21T00:10:00+00:00,MLB,Los Angeles Angels,Houston Astros,Grayson Rodriguez,Peter Lambert,Houston Astros,0.6367,-175,PENDING,,,
