@@ -235,3 +235,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824153,2026-08-20T22:50:30+00:00,2026-08-21T00:10:00+00:00,MLB,Los Angeles Angels,Houston Astros,Grayson Rodriguez,Peter Lambert,Houston Astros,0.6367,-175,SETTLED,18,3,LOSS
 823746,2026-08-21T19:03:30+00:00,2026-08-21T20:10:00+00:00,MLB,Atlanta Braves,Milwaukee Brewers,Chris Sale,Jacob Misiorowski,Milwaukee Brewers,0.5545,-124,PENDING,,,
 823420,2026-08-21T21:44:36+00:00,2026-08-21T22:40:00+00:00,MLB,St. Louis Cardinals,Philadelphia Phillies,Hunter Dobbins,Jesús Luzardo,Philadelphia Phillies,0.6237,-166,PENDING,,,
+823510,2026-08-21T21:59:26+00:00,2026-08-21T23:05:00+00:00,MLB,Toronto Blue Jays,New York Yankees,Mason Fluharty,Cam Schlittler,New York Yankees,0.5945,-147,PENDING,,,
+824721,2026-08-21T21:59:26+00:00,2026-08-21T23:10:00+00:00,MLB,San Francisco Giants,Boston Red Sox,Logan Webb,Sonny Gray,Boston Red Sox,0.6337,-173,PENDING,,,
+823830,2026-08-21T21:59:26+00:00,2026-08-21T23:10:00+00:00,MLB,Washington Nationals,Miami Marlins,Brad Lord,Ryan Gusto,Miami Marlins,0.5653,-130,PENDING,,,
+824800,2026-08-21T21:59:26+00:00,2026-08-21T23:15:00+00:00,MLB,Tampa Bay Rays,Baltimore Orioles,Freddy Peralta,Trevor Rogers,Baltimore Orioles,0.5223,-109,PENDING,,,
