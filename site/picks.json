@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-21T23:12:22+00:00",
+  "updated_utc": "2026-08-21T23:36:02+00:00",
   "record": "135-100",
   "settled": 235,
   "hit_rate": 57.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cleveland Guardians @ Colorado Rockies",
+      "side": "Cleveland Guardians",
+      "confidence": 66.4,
+      "fair_line": "-198",
+      "published": "2026-08-21T23:36:02+00:00",
+      "starts": "2026-08-22T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Detroit Tigers @ Kansas City Royals",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "1-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Seattle Mariners @ Milwaukee Brewers",
-      "side": "Milwaukee Brewers",
-      "confidence": 64.2,
-      "fair_line": "-180",
-      "published": "2026-08-18T22:41:29+00:00",
-      "starts": "2026-08-18T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "0-22"
     }
   ]
 }
