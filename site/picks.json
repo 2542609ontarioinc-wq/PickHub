@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-22T16:09:22+00:00",
+  "updated_utc": "2026-08-22T16:37:20+00:00",
   "record": "143-102",
   "settled": 245,
   "hit_rate": 58.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Toronto Blue Jays @ New York Yankees",
+      "side": "New York Yankees",
+      "confidence": 58.4,
+      "fair_line": "-140",
+      "published": "2026-08-22T16:37:20+00:00",
+      "starts": "2026-08-22T17:35:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Cleveland Guardians @ Colorado Rockies",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "3-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Atlanta Braves @ Minnesota Twins",
-      "side": "Atlanta Braves",
-      "confidence": 60.7,
-      "fair_line": "-154",
-      "published": "2026-08-18T22:41:29+00:00",
-      "starts": "2026-08-18T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "1-4"
     }
   ]
 }

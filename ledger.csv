@@ -244,3 +244,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824152,2026-08-21T23:12:22+00:00,2026-08-22T00:10:00+00:00,MLB,Athletics,Houston Astros,J.T. Ginn,Hayden Wesneski,Houston Astros,0.6382,-176,SETTLED,0,4,WIN
 822857,2026-08-21T23:12:22+00:00,2026-08-22T00:15:00+00:00,MLB,Los Angeles Angels,Texas Rangers,Reid Detmers,MacKenzie Gore,Texas Rangers,0.5925,-145,SETTLED,1,2,WIN
 824317,2026-08-21T23:36:02+00:00,2026-08-22T00:40:00+00:00,MLB,Cleveland Guardians,Colorado Rockies,Joey Cantillo,Tanner Gordon,Cleveland Guardians,0.6644,-198,SETTLED,9,1,WIN
+823509,2026-08-22T16:37:20+00:00,2026-08-22T17:35:00+00:00,MLB,Toronto Blue Jays,New York Yankees,Dylan Cease,Ryan Weathers,New York Yankees,0.5839,-140,PENDING,,,
