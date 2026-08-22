@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-22T23:10:21+00:00",
+  "updated_utc": "2026-08-22T23:33:20+00:00",
   "record": "145-103",
   "settled": 248,
   "hit_rate": 58.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Minnesota Twins @ San Diego Padres",
+      "side": "San Diego Padres",
+      "confidence": 65.8,
+      "fair_line": "-193",
+      "published": "2026-08-22T23:33:20+00:00",
+      "starts": "2026-08-23T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Cincinnati Reds @ Arizona Diamondbacks",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "6-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Yankees @ Baltimore Orioles",
-      "side": "New York Yankees",
-      "confidence": 53.8,
-      "fair_line": "-117",
-      "published": "2026-08-19T21:36:43+00:00",
-      "starts": "2026-08-19T22:35:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-3"
     }
   ]
 }
