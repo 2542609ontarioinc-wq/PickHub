@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-22T18:47:55+00:00",
+  "updated_utc": "2026-08-22T19:14:03+00:00",
   "record": "143-102",
   "settled": 245,
   "hit_rate": 58.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Washington Nationals @ Miami Marlins",
+      "side": "Miami Marlins",
+      "confidence": 61.5,
+      "fair_line": "-160",
+      "published": "2026-08-22T19:14:02+00:00",
+      "starts": "2026-08-22T20:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Atlanta Braves @ Milwaukee Brewers",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "3-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Los Angeles Angels @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 63.4,
-      "fair_line": "-174",
-      "published": "2026-08-18T22:58:17+00:00",
-      "starts": "2026-08-19T00:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-1"
     }
   ]
 }
