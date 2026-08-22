@@ -244,6 +244,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824152,2026-08-21T23:12:22+00:00,2026-08-22T00:10:00+00:00,MLB,Athletics,Houston Astros,J.T. Ginn,Hayden Wesneski,Houston Astros,0.6382,-176,SETTLED,0,4,WIN
 822857,2026-08-21T23:12:22+00:00,2026-08-22T00:15:00+00:00,MLB,Los Angeles Angels,Texas Rangers,Reid Detmers,MacKenzie Gore,Texas Rangers,0.5925,-145,SETTLED,1,2,WIN
 824317,2026-08-21T23:36:02+00:00,2026-08-22T00:40:00+00:00,MLB,Cleveland Guardians,Colorado Rockies,Joey Cantillo,Tanner Gordon,Cleveland Guardians,0.6644,-198,SETTLED,9,1,WIN
-823509,2026-08-22T16:37:20+00:00,2026-08-22T17:35:00+00:00,MLB,Toronto Blue Jays,New York Yankees,Dylan Cease,Ryan Weathers,New York Yankees,0.5839,-140,PENDING,,,
-823743,2026-08-22T16:57:08+00:00,2026-08-22T18:10:00+00:00,MLB,Atlanta Braves,Milwaukee Brewers,Martín Pérez,Logan Henderson,Milwaukee Brewers,0.6171,-161,PENDING,,,
+823509,2026-08-22T16:37:20+00:00,2026-08-22T17:35:00+00:00,MLB,Toronto Blue Jays,New York Yankees,Dylan Cease,Ryan Weathers,New York Yankees,0.5839,-140,SETTLED,4,3,LOSS
+823743,2026-08-22T16:57:08+00:00,2026-08-22T18:10:00+00:00,MLB,Atlanta Braves,Milwaukee Brewers,Martín Pérez,Logan Henderson,Milwaukee Brewers,0.6171,-161,SETTLED,1,4,WIN
 823831,2026-08-22T19:14:02+00:00,2026-08-22T20:10:00+00:00,MLB,Washington Nationals,Miami Marlins,Jake Irvin,Eury Pérez,Miami Marlins,0.6150,-160,PENDING,,,
+823422,2026-08-22T20:56:54+00:00,2026-08-22T22:05:00+00:00,MLB,St. Louis Cardinals,Philadelphia Phillies,Quinn Mathews,Andrew Painter,Philadelphia Phillies,0.6230,-165,PENDING,,,
