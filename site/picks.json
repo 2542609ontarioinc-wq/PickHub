@@ -1,9 +1,57 @@
 {
-  "updated_utc": "2026-08-22T21:54:56+00:00",
+  "updated_utc": "2026-08-22T22:09:00+00:00",
   "record": "144-103",
   "settled": 247,
   "hit_rate": 58.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Detroit Tigers @ Kansas City Royals",
+      "side": "Detroit Tigers",
+      "confidence": 50.0,
+      "fair_line": "-100",
+      "published": "2026-08-22T22:09:00+00:00",
+      "starts": "2026-08-22T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Pittsburgh Pirates @ Los Angeles Dodgers",
+      "side": "Los Angeles Dodgers",
+      "confidence": 64.0,
+      "fair_line": "-178",
+      "published": "2026-08-22T22:09:00+00:00",
+      "starts": "2026-08-22T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago Cubs @ Seattle Mariners",
+      "side": "Chicago Cubs",
+      "confidence": 54.3,
+      "fair_line": "-119",
+      "published": "2026-08-22T22:09:00+00:00",
+      "starts": "2026-08-22T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "San Francisco Giants @ Boston Red Sox",
+      "side": "Boston Red Sox",
+      "confidence": 72.5,
+      "fair_line": "-264",
+      "published": "2026-08-22T22:09:00+00:00",
+      "starts": "2026-08-22T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Tampa Bay Rays @ Baltimore Orioles",
@@ -435,54 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "4-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Toronto Blue Jays @ Tampa Bay Rays",
-      "side": "Tampa Bay Rays",
-      "confidence": 54.8,
-      "fair_line": "-121",
-      "published": "2026-08-19T21:36:43+00:00",
-      "starts": "2026-08-19T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "6-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Miami Marlins @ Philadelphia Phillies",
-      "side": "Philadelphia Phillies",
-      "confidence": 60.6,
-      "fair_line": "-154",
-      "published": "2026-08-19T21:02:38+00:00",
-      "starts": "2026-08-19T22:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Boston Red Sox",
-      "side": "Boston Red Sox",
-      "confidence": 58.9,
-      "fair_line": "-143",
-      "published": "2026-08-19T18:59:01+00:00",
-      "starts": "2026-08-19T20:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "7-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago White Sox @ Chicago Cubs",
-      "side": "Chicago Cubs",
-      "confidence": 63.5,
-      "fair_line": "-174",
-      "published": "2026-08-19T17:15:37+00:00",
-      "starts": "2026-08-19T18:20:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-0"
     }
   ]
 }
