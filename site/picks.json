@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-22T22:35:29+00:00",
-  "record": "144-103",
-  "settled": 247,
-  "hit_rate": 58.3,
+  "updated_utc": "2026-08-22T22:55:41+00:00",
+  "record": "145-103",
+  "settled": 248,
+  "hit_rate": 58.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Arizona Diamondbacks",
+      "side": "Arizona Diamondbacks",
+      "confidence": 59.2,
+      "fair_line": "-145",
+      "published": "2026-08-22T22:55:41+00:00",
+      "starts": "2026-08-23T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Cleveland Guardians @ Colorado Rockies",
+      "side": "Cleveland Guardians",
+      "confidence": 62.3,
+      "fair_line": "-165",
+      "published": "2026-08-22T22:55:41+00:00",
+      "starts": "2026-08-23T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Detroit Tigers @ Kansas City Royals",
@@ -120,9 +144,9 @@
       "fair_line": "-160",
       "published": "2026-08-22T19:14:02+00:00",
       "starts": "2026-08-22T20:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "2-4"
     },
     {
       "sport": "MLB",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "5-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Francisco Giants @ Cleveland Guardians",
-      "side": "Cleveland Guardians",
-      "confidence": 58.0,
-      "fair_line": "-138",
-      "published": "2026-08-19T21:36:43+00:00",
-      "starts": "2026-08-19T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "1-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "St. Louis Cardinals @ Cincinnati Reds",
-      "side": "Cincinnati Reds",
-      "confidence": 52.9,
-      "fair_line": "-112",
-      "published": "2026-08-19T21:36:43+00:00",
-      "starts": "2026-08-19T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "4-5"
     }
   ]
 }
