@@ -263,7 +263,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823421,2026-08-23T16:41:24+00:00,2026-08-23T17:35:00+00:00,MLB,St. Louis Cardinals,Philadelphia Phillies,Kyle Leahy,Cristopher Sánchez,Philadelphia Phillies,0.6411,-179,SETTLED,4,6,WIN
 823507,2026-08-23T16:41:24+00:00,2026-08-23T17:35:00+00:00,MLB,Toronto Blue Jays,New York Yankees,José Soriano,Carlos Rodón,New York Yankees,0.5898,-144,SETTLED,3,8,WIN
 823827,2026-08-23T16:41:24+00:00,2026-08-23T17:40:00+00:00,MLB,Washington Nationals,Miami Marlins,Jackson Kent,Janson Junk,Miami Marlins,0.5960,-148,SETTLED,2,6,WIN
-824071,2026-08-23T16:59:08+00:00,2026-08-23T18:10:00+00:00,MLB,Detroit Tigers,Kansas City Royals,Jacob Waguespack,Daniel Lynch IV,Kansas City Royals,0.5196,-108,PENDING,,,
+824071,2026-08-23T16:59:08+00:00,2026-08-23T18:10:00+00:00,MLB,Detroit Tigers,Kansas City Royals,Jacob Waguespack,Daniel Lynch IV,Kansas City Royals,0.5196,-108,SETTLED,7,11,WIN
 824150,2026-08-23T16:59:08+00:00,2026-08-23T18:10:00+00:00,MLB,Athletics,Houston Astros,Brady Basso,Cristian Javier,Houston Astros,0.5924,-145,PENDING,,,
 824558,2026-08-23T16:59:08+00:00,2026-08-23T18:10:00+00:00,MLB,New York Mets,Chicago White Sox,Nolan McLean,Sean Newcomb,New York Mets,0.5536,-124,SETTLED,1,2,LOSS
 822856,2026-08-23T17:18:44+00:00,2026-08-23T18:35:00+00:00,MLB,Los Angeles Angels,Texas Rangers,Yusei Kikuchi,Cal Quantrill,Texas Rangers,0.5548,-125,PENDING,,,
