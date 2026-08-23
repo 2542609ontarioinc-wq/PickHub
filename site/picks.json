@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-23T21:34:46+00:00",
-  "record": "156-112",
-  "settled": 268,
-  "hit_rate": 58.2,
+  "updated_utc": "2026-08-23T21:55:09+00:00",
+  "record": "157-112",
+  "settled": 269,
+  "hit_rate": 58.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Atlanta Braves @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 56.0,
+      "fair_line": "-127",
+      "published": "2026-08-23T21:55:09+00:00",
+      "starts": "2026-08-23T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Pittsburgh Pirates @ Los Angeles Dodgers",
@@ -60,9 +72,9 @@
       "fair_line": "-191",
       "published": "2026-08-23T18:11:16+00:00",
       "starts": "2026-08-23T19:15:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "4-5"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "6-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Atlanta Braves @ Milwaukee Brewers",
-      "side": "Milwaukee Brewers",
-      "confidence": 55.5,
-      "fair_line": "-124",
-      "published": "2026-08-21T19:03:30+00:00",
-      "starts": "2026-08-21T20:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-2"
     }
   ]
 }
