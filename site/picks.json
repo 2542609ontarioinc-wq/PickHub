@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-08-23T16:41:24+00:00",
+  "updated_utc": "2026-08-23T16:59:08+00:00",
   "record": "151-109",
   "settled": 260,
   "hit_rate": 58.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Detroit Tigers @ Kansas City Royals",
+      "side": "Kansas City Royals",
+      "confidence": 52.0,
+      "fair_line": "-108",
+      "published": "2026-08-23T16:59:08+00:00",
+      "starts": "2026-08-23T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Athletics @ Houston Astros",
+      "side": "Houston Astros",
+      "confidence": 59.2,
+      "fair_line": "-145",
+      "published": "2026-08-23T16:59:08+00:00",
+      "starts": "2026-08-23T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "New York Mets @ Chicago White Sox",
+      "side": "New York Mets",
+      "confidence": 55.4,
+      "fair_line": "-124",
+      "published": "2026-08-23T16:59:08+00:00",
+      "starts": "2026-08-23T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Tampa Bay Rays @ Baltimore Orioles",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "2-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Toronto Blue Jays @ Tampa Bay Rays",
-      "side": "Tampa Bay Rays",
-      "confidence": 50.9,
-      "fair_line": "-104",
-      "published": "2026-08-20T15:54:19+00:00",
-      "starts": "2026-08-20T17:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "5-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "St. Louis Cardinals @ Cincinnati Reds",
-      "side": "Cincinnati Reds",
-      "confidence": 54.6,
-      "fair_line": "-120",
-      "published": "2026-08-20T15:21:50+00:00",
-      "starts": "2026-08-20T16:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "10-9"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Los Angeles Dodgers @ Colorado Rockies",
-      "side": "Los Angeles Dodgers",
-      "confidence": 66.3,
-      "fair_line": "-197",
-      "published": "2026-08-19T23:34:27+00:00",
-      "starts": "2026-08-20T00:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "6-4"
     }
   ]
 }
