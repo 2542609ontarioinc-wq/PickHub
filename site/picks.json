@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-23T16:59:08+00:00",
+  "updated_utc": "2026-08-23T17:18:44+00:00",
   "record": "151-109",
   "settled": 260,
   "hit_rate": 58.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Angels @ Texas Rangers",
+      "side": "Texas Rangers",
+      "confidence": 55.5,
+      "fair_line": "-125",
+      "published": "2026-08-23T17:18:44+00:00",
+      "starts": "2026-08-23T18:35:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Detroit Tigers @ Kansas City Royals",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "4-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Francisco Giants @ Cleveland Guardians",
-      "side": "Cleveland Guardians",
-      "confidence": 56.3,
-      "fair_line": "-129",
-      "published": "2026-08-20T15:54:19+00:00",
-      "starts": "2026-08-20T17:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-5"
     }
   ]
 }
