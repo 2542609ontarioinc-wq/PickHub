@@ -259,3 +259,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 825044,2026-08-22T22:55:41+00:00,2026-08-23T00:10:00+00:00,MLB,Cincinnati Reds,Arizona Diamondbacks,Rhett Lowder,Michael Soroka,Arizona Diamondbacks,0.5919,-145,SETTLED,11,5,LOSS
 824316,2026-08-22T22:55:41+00:00,2026-08-23T00:10:00+00:00,MLB,Cleveland Guardians,Colorado Rockies,Tanner Bibee,Gabriel Hughes,Cleveland Guardians,0.6225,-165,SETTLED,4,3,WIN
 823261,2026-08-22T23:33:20+00:00,2026-08-23T00:40:00+00:00,MLB,Minnesota Twins,San Diego Padres,Dean Kremer,Casey Mize,San Diego Padres,0.6583,-193,SETTLED,5,7,WIN
+824799,2026-08-23T16:41:24+00:00,2026-08-23T17:35:00+00:00,MLB,Tampa Bay Rays,Baltimore Orioles,Nick Martinez,Shane Baz,Baltimore Orioles,0.5099,-104,PENDING,,,
+823421,2026-08-23T16:41:24+00:00,2026-08-23T17:35:00+00:00,MLB,St. Louis Cardinals,Philadelphia Phillies,Kyle Leahy,Cristopher Sánchez,Philadelphia Phillies,0.6411,-179,PENDING,,,
+823507,2026-08-23T16:41:24+00:00,2026-08-23T17:35:00+00:00,MLB,Toronto Blue Jays,New York Yankees,José Soriano,Carlos Rodón,New York Yankees,0.5898,-144,PENDING,,,
+823827,2026-08-23T16:41:24+00:00,2026-08-23T17:40:00+00:00,MLB,Washington Nationals,Miami Marlins,Jackson Kent,Janson Junk,Miami Marlins,0.5960,-148,PENDING,,,
