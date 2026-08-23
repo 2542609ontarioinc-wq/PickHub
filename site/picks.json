@@ -1,9 +1,57 @@
 {
-  "updated_utc": "2026-08-23T18:46:12+00:00",
+  "updated_utc": "2026-08-23T19:13:24+00:00",
   "record": "151-109",
   "settled": 260,
   "hit_rate": 58.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Pittsburgh Pirates @ Los Angeles Dodgers",
+      "side": "Los Angeles Dodgers",
+      "confidence": 63.6,
+      "fair_line": "-175",
+      "published": "2026-08-23T19:13:24+00:00",
+      "starts": "2026-08-23T20:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago Cubs @ Seattle Mariners",
+      "side": "Chicago Cubs",
+      "confidence": 57.2,
+      "fair_line": "-134",
+      "published": "2026-08-23T19:13:24+00:00",
+      "starts": "2026-08-23T20:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Minnesota Twins @ San Diego Padres",
+      "side": "San Diego Padres",
+      "confidence": 66.0,
+      "fair_line": "-194",
+      "published": "2026-08-23T19:13:24+00:00",
+      "starts": "2026-08-23T20:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Arizona Diamondbacks",
+      "side": "Arizona Diamondbacks",
+      "confidence": 56.2,
+      "fair_line": "-128",
+      "published": "2026-08-23T19:13:24+00:00",
+      "starts": "2026-08-23T20:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "San Francisco Giants @ Boston Red Sox",
@@ -435,54 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "1-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Washington Nationals @ Texas Rangers",
-      "side": "Texas Rangers",
-      "confidence": 58.0,
-      "fair_line": "-138",
-      "published": "2026-08-20T22:50:30+00:00",
-      "starts": "2026-08-21T00:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "0-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Los Angeles Angels @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 63.7,
-      "fair_line": "-175",
-      "published": "2026-08-20T22:50:30+00:00",
-      "starts": "2026-08-21T00:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "18-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Yankees @ Baltimore Orioles",
-      "side": "New York Yankees",
-      "confidence": 52.4,
-      "fair_line": "-110",
-      "published": "2026-08-20T21:39:17+00:00",
-      "starts": "2026-08-20T22:35:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "6-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Athletics @ Kansas City Royals",
-      "side": "Kansas City Royals",
-      "confidence": 63.4,
-      "fair_line": "-173",
-      "published": "2026-08-20T16:57:26+00:00",
-      "starts": "2026-08-20T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-6"
     }
   ]
 }
