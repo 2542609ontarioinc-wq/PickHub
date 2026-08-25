@@ -277,4 +277,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824235,2026-08-24T21:49:39+00:00,2026-08-24T22:40:00+00:00,MLB,Tampa Bay Rays,Detroit Tigers,Drew Rasmussen,Framber Valdez,Detroit Tigers,0.5223,-109,SETTLED,4,1,LOSS
 823828,2026-08-24T21:49:39+00:00,2026-08-24T22:40:00+00:00,MLB,Boston Red Sox,Miami Marlins,Ranger Suarez,Sandy Alcantara,Boston Red Sox,0.6176,-161,SETTLED,4,2,WIN
 822695,2026-08-24T21:49:39+00:00,2026-08-24T22:45:00+00:00,MLB,Colorado Rockies,Washington Nationals,Ryan Feltner,Cade Cavalli,Washington Nationals,0.6187,-162,SETTLED,3,13,WIN
-824557,2026-08-24T22:42:57+00:00,2026-08-24T23:40:00+00:00,MLB,Texas Rangers,Chicago White Sox,Kumar Rocker,José Urquidy,Texas Rangers,0.5272,-112,PENDING,,,
+824557,2026-08-24T22:42:57+00:00,2026-08-24T23:40:00+00:00,MLB,Texas Rangers,Chicago White Sox,Kumar Rocker,José Urquidy,Texas Rangers,0.5272,-112,SETTLED,11,2,WIN
