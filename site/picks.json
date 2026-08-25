@@ -1,9 +1,69 @@
 {
-  "updated_utc": "2026-08-25T21:15:49+00:00",
+  "updated_utc": "2026-08-25T21:49:15+00:00",
   "record": "165-114",
   "settled": 279,
   "hit_rate": 59.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Tampa Bay Rays @ Detroit Tigers",
+      "side": "Detroit Tigers",
+      "confidence": 55.4,
+      "fair_line": "-124",
+      "published": "2026-08-25T21:49:14+00:00",
+      "starts": "2026-08-25T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Boston Red Sox @ Miami Marlins",
+      "side": "Boston Red Sox",
+      "confidence": 53.1,
+      "fair_line": "-113",
+      "published": "2026-08-25T21:49:14+00:00",
+      "starts": "2026-08-25T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Colorado Rockies @ Washington Nationals",
+      "side": "Washington Nationals",
+      "confidence": 65.0,
+      "fair_line": "-186",
+      "published": "2026-08-25T21:49:14+00:00",
+      "starts": "2026-08-25T22:45:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Houston Astros @ New York Yankees",
+      "side": "New York Yankees",
+      "confidence": 60.9,
+      "fair_line": "-156",
+      "published": "2026-08-25T21:49:14+00:00",
+      "starts": "2026-08-25T23:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Kansas City Royals @ Toronto Blue Jays",
+      "side": "Toronto Blue Jays",
+      "confidence": 57.0,
+      "fair_line": "-133",
+      "published": "2026-08-25T21:49:14+00:00",
+      "starts": "2026-08-25T23:07:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Texas Rangers @ Chicago White Sox",
@@ -423,66 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "9-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Detroit Tigers @ Kansas City Royals",
-      "side": "Detroit Tigers",
-      "confidence": 51.9,
-      "fair_line": "-108",
-      "published": "2026-08-21T23:12:22+00:00",
-      "starts": "2026-08-22T00:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "2-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Athletics @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 63.8,
-      "fair_line": "-176",
-      "published": "2026-08-21T23:12:22+00:00",
-      "starts": "2026-08-22T00:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "0-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Los Angeles Angels @ Texas Rangers",
-      "side": "Texas Rangers",
-      "confidence": 59.2,
-      "fair_line": "-145",
-      "published": "2026-08-21T23:12:22+00:00",
-      "starts": "2026-08-22T00:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Mets @ Chicago White Sox",
-      "side": "New York Mets",
-      "confidence": 51.4,
-      "fair_line": "-106",
-      "published": "2026-08-21T22:23:34+00:00",
-      "starts": "2026-08-21T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Toronto Blue Jays @ New York Yankees",
-      "side": "New York Yankees",
-      "confidence": 59.5,
-      "fair_line": "-147",
-      "published": "2026-08-21T21:59:26+00:00",
-      "starts": "2026-08-21T23:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-3"
     }
   ]
 }

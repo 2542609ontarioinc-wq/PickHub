@@ -278,3 +278,8 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823828,2026-08-24T21:49:39+00:00,2026-08-24T22:40:00+00:00,MLB,Boston Red Sox,Miami Marlins,Ranger Suarez,Sandy Alcantara,Boston Red Sox,0.6176,-161,SETTLED,4,2,WIN
 822695,2026-08-24T21:49:39+00:00,2026-08-24T22:45:00+00:00,MLB,Colorado Rockies,Washington Nationals,Ryan Feltner,Cade Cavalli,Washington Nationals,0.6187,-162,SETTLED,3,13,WIN
 824557,2026-08-24T22:42:57+00:00,2026-08-24T23:40:00+00:00,MLB,Texas Rangers,Chicago White Sox,Kumar Rocker,José Urquidy,Texas Rangers,0.5272,-112,SETTLED,11,2,WIN
+824233,2026-08-25T21:49:14+00:00,2026-08-25T22:40:00+00:00,MLB,Tampa Bay Rays,Detroit Tigers,Casey Legumina,Jackson Jobe,Detroit Tigers,0.5536,-124,PENDING,,,
+823826,2026-08-25T21:49:14+00:00,2026-08-25T22:40:00+00:00,MLB,Boston Red Sox,Miami Marlins,Payton Tolle,Tyler Phillips,Boston Red Sox,0.5308,-113,PENDING,,,
+822693,2026-08-25T21:49:14+00:00,2026-08-25T22:45:00+00:00,MLB,Colorado Rockies,Washington Nationals,Mason Adams,Andrew Alvarez,Washington Nationals,0.6503,-186,PENDING,,,
+823505,2026-08-25T21:49:14+00:00,2026-08-25T23:05:00+00:00,MLB,Houston Astros,New York Yankees,Ethan Pecko,Will Warren,New York Yankees,0.6087,-156,PENDING,,,
+822773,2026-08-25T21:49:14+00:00,2026-08-25T23:07:00+00:00,MLB,Kansas City Royals,Toronto Blue Jays,Seth Lugo,Max Scherzer,Toronto Blue Jays,0.5700,-133,PENDING,,,
