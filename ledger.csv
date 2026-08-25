@@ -274,7 +274,7 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823258,2026-08-23T19:13:24+00:00,2026-08-23T20:10:00+00:00,MLB,Minnesota Twins,San Diego Padres,Bailey Ober,Walker Buehler,San Diego Padres,0.6597,-194,SETTLED,1,8,WIN
 825043,2026-08-23T19:13:24+00:00,2026-08-23T20:15:00+00:00,MLB,Cincinnati Reds,Arizona Diamondbacks,Andrew Abbott,Mitch Bratt,Arizona Diamondbacks,0.5623,-128,SETTLED,3,5,WIN
 823745,2026-08-23T21:55:09+00:00,2026-08-23T23:10:00+00:00,MLB,Atlanta Braves,Milwaukee Brewers,Tyler Mahle,Shane Drohan,Milwaukee Brewers,0.5596,-127,SETTLED,4,2,LOSS
-824235,2026-08-24T21:49:39+00:00,2026-08-24T22:40:00+00:00,MLB,Tampa Bay Rays,Detroit Tigers,Drew Rasmussen,Framber Valdez,Detroit Tigers,0.5223,-109,PENDING,,,
-823828,2026-08-24T21:49:39+00:00,2026-08-24T22:40:00+00:00,MLB,Boston Red Sox,Miami Marlins,Ranger Suarez,Sandy Alcantara,Boston Red Sox,0.6176,-161,PENDING,,,
-822695,2026-08-24T21:49:39+00:00,2026-08-24T22:45:00+00:00,MLB,Colorado Rockies,Washington Nationals,Ryan Feltner,Cade Cavalli,Washington Nationals,0.6187,-162,PENDING,,,
+824235,2026-08-24T21:49:39+00:00,2026-08-24T22:40:00+00:00,MLB,Tampa Bay Rays,Detroit Tigers,Drew Rasmussen,Framber Valdez,Detroit Tigers,0.5223,-109,SETTLED,4,1,LOSS
+823828,2026-08-24T21:49:39+00:00,2026-08-24T22:40:00+00:00,MLB,Boston Red Sox,Miami Marlins,Ranger Suarez,Sandy Alcantara,Boston Red Sox,0.6176,-161,SETTLED,4,2,WIN
+822695,2026-08-24T21:49:39+00:00,2026-08-24T22:45:00+00:00,MLB,Colorado Rockies,Washington Nationals,Ryan Feltner,Cade Cavalli,Washington Nationals,0.6187,-162,SETTLED,3,13,WIN
 824557,2026-08-24T22:42:57+00:00,2026-08-24T23:40:00+00:00,MLB,Texas Rangers,Chicago White Sox,Kumar Rocker,José Urquidy,Texas Rangers,0.5272,-112,PENDING,,,
