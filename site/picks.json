@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-25T22:13:28+00:00",
+  "updated_utc": "2026-08-25T22:44:03+00:00",
   "record": "165-114",
   "settled": 279,
   "hit_rate": 59.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Texas Rangers @ Chicago White Sox",
+      "side": "Texas Rangers",
+      "confidence": 52.7,
+      "fair_line": "-111",
+      "published": "2026-08-25T22:44:03+00:00",
+      "starts": "2026-08-25T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Baltimore Orioles @ St. Louis Cardinals",
+      "side": "St. Louis Cardinals",
+      "confidence": 51.3,
+      "fair_line": "-105",
+      "published": "2026-08-25T22:44:03+00:00",
+      "starts": "2026-08-25T23:45:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Milwaukee Brewers @ New York Mets",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "3-12"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Washington Nationals @ Miami Marlins",
-      "side": "Miami Marlins",
-      "confidence": 61.5,
-      "fair_line": "-160",
-      "published": "2026-08-22T19:14:02+00:00",
-      "starts": "2026-08-22T20:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Atlanta Braves @ Milwaukee Brewers",
-      "side": "Milwaukee Brewers",
-      "confidence": 61.7,
-      "fair_line": "-161",
-      "published": "2026-08-22T16:57:08+00:00",
-      "starts": "2026-08-22T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-4"
     }
   ]
 }
