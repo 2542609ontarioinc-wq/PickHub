@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-25T21:49:15+00:00",
+  "updated_utc": "2026-08-25T22:13:28+00:00",
   "record": "165-114",
   "settled": 279,
   "hit_rate": 59.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Milwaukee Brewers @ New York Mets",
+      "side": "Milwaukee Brewers",
+      "confidence": 51.9,
+      "fair_line": "-108",
+      "published": "2026-08-25T22:13:28+00:00",
+      "starts": "2026-08-25T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Dodgers @ Atlanta Braves",
+      "side": "Los Angeles Dodgers",
+      "confidence": 52.7,
+      "fair_line": "-111",
+      "published": "2026-08-25T22:13:28+00:00",
+      "starts": "2026-08-25T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Tampa Bay Rays @ Detroit Tigers",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "1-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Toronto Blue Jays @ New York Yankees",
-      "side": "New York Yankees",
-      "confidence": 58.4,
-      "fair_line": "-140",
-      "published": "2026-08-22T16:37:20+00:00",
-      "starts": "2026-08-22T17:35:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Cleveland Guardians @ Colorado Rockies",
-      "side": "Cleveland Guardians",
-      "confidence": 66.4,
-      "fair_line": "-198",
-      "published": "2026-08-21T23:36:02+00:00",
-      "starts": "2026-08-22T00:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "9-1"
     }
   ]
 }
