@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-26T14:23:19+00:00",
+  "updated_utc": "2026-08-26T15:58:28+00:00",
   "record": "167-121",
   "settled": 288,
   "hit_rate": 58.0,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Tampa Bay Rays @ Detroit Tigers",
+      "side": "Detroit Tigers",
+      "confidence": 53.5,
+      "fair_line": "-115",
+      "published": "2026-08-26T15:58:28+00:00",
+      "starts": "2026-08-26T17:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Texas Rangers @ Chicago White Sox",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "10-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "St. Louis Cardinals @ Philadelphia Phillies",
-      "side": "Philadelphia Phillies",
-      "confidence": 62.3,
-      "fair_line": "-165",
-      "published": "2026-08-22T20:56:54+00:00",
-      "starts": "2026-08-22T22:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-12"
     }
   ]
 }
