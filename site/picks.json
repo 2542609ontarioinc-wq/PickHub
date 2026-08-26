@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-26T20:17:46+00:00",
-  "record": "167-122",
-  "settled": 289,
-  "hit_rate": 57.8,
+  "updated_utc": "2026-08-26T23:48:05+00:00",
+  "record": "167-123",
+  "settled": 290,
+  "hit_rate": 57.6,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Minnesota Twins @ Athletics",
+      "side": "Minnesota Twins",
+      "confidence": 51.8,
+      "fair_line": "-108",
+      "published": "2026-08-26T23:48:05+00:00",
+      "starts": "2026-08-27T01:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Chicago Cubs @ Arizona Diamondbacks",
@@ -12,9 +24,9 @@
       "fair_line": "-118",
       "published": "2026-08-26T18:23:35+00:00",
       "starts": "2026-08-26T19:40:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "0-2"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "3-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Athletics @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 66.1,
-      "fair_line": "-195",
-      "published": "2026-08-22T21:54:56+00:00",
-      "starts": "2026-08-22T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-3"
     }
   ]
 }
