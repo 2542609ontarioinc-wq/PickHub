@@ -288,3 +288,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824556,2026-08-25T22:44:03+00:00,2026-08-25T23:40:00+00:00,MLB,Texas Rangers,Chicago White Sox,Jacob deGrom,Anthony Kay,Texas Rangers,0.5271,-111,SETTLED,7,11,LOSS
 823016,2026-08-25T22:44:03+00:00,2026-08-25T23:45:00+00:00,MLB,Baltimore Orioles,St. Louis Cardinals,Chris Bassitt,Matthew Liberatore,St. Louis Cardinals,0.5127,-105,SETTLED,13,1,LOSS
 824234,2026-08-26T15:58:28+00:00,2026-08-26T17:10:00+00:00,MLB,Tampa Bay Rays,Detroit Tigers,Freddy Peralta,Troy Melton,Detroit Tigers,0.5355,-115,PENDING,,,
+825039,2026-08-26T18:23:35+00:00,2026-08-26T19:40:00+00:00,MLB,Chicago Cubs,Arizona Diamondbacks,Matthew Boyd,Eduardo Rodriguez,Chicago Cubs,0.5407,-118,PENDING,,,
