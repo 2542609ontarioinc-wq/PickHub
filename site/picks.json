@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-28T12:43:35+00:00",
+  "updated_utc": "2026-08-28T22:40:02+00:00",
   "record": "167-124",
   "settled": 291,
   "hit_rate": 57.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Texas Rangers @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 67.6,
+      "fair_line": "-209",
+      "published": "2026-08-28T22:40:02+00:00",
+      "starts": "2026-08-28T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Minnesota Twins @ Athletics",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "2-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Los Angeles Angels @ Texas Rangers",
-      "side": "Texas Rangers",
-      "confidence": 65.0,
-      "fair_line": "-186",
-      "published": "2026-08-22T21:54:56+00:00",
-      "starts": "2026-08-22T23:05:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-0"
     }
   ]
 }
