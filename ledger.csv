@@ -290,4 +290,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824234,2026-08-26T15:58:28+00:00,2026-08-26T17:10:00+00:00,MLB,Tampa Bay Rays,Detroit Tigers,Freddy Peralta,Troy Melton,Detroit Tigers,0.5355,-115,SETTLED,3,0,LOSS
 825039,2026-08-26T18:23:35+00:00,2026-08-26T19:40:00+00:00,MLB,Chicago Cubs,Arizona Diamondbacks,Matthew Boyd,Eduardo Rodriguez,Chicago Cubs,0.5407,-118,SETTLED,0,2,LOSS
 824963,2026-08-26T23:48:05+00:00,2026-08-27T01:05:00+00:00,MLB,Minnesota Twins,Athletics,Connor Prielipp,J.T. Ginn,Minnesota Twins,0.5183,-108,SETTLED,4,7,LOSS
-823744,2026-08-28T22:40:02+00:00,2026-08-28T23:40:00+00:00,MLB,Texas Rangers,Milwaukee Brewers,Cody Bradford,Logan Henderson,Milwaukee Brewers,0.6764,-209,PENDING,,,
+823744,2026-08-28T22:40:02+00:00,2026-08-28T23:40:00+00:00,MLB,Texas Rangers,Milwaukee Brewers,Cody Bradford,Logan Henderson,Milwaukee Brewers,0.6764,-209,SETTLED,1,6,WIN
