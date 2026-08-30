@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-08-30T12:21:27+00:00",
+  "updated_utc": "2026-08-30T16:50:19+00:00",
   "record": "168-124",
   "settled": 292,
   "hit_rate": 57.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ Minnesota Twins",
+      "side": "Minnesota Twins",
+      "confidence": 53.1,
+      "fair_line": "-113",
+      "published": "2026-08-30T16:50:19+00:00",
+      "starts": "2026-08-30T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Texas Rangers @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 66.0,
+      "fair_line": "-194",
+      "published": "2026-08-30T16:50:19+00:00",
+      "starts": "2026-08-30T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Texas Rangers @ Milwaukee Brewers",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "4-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Francisco Giants @ Boston Red Sox",
-      "side": "Boston Red Sox",
-      "confidence": 72.5,
-      "fair_line": "-264",
-      "published": "2026-08-22T22:09:00+00:00",
-      "starts": "2026-08-22T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Tampa Bay Rays @ Baltimore Orioles",
-      "side": "Tampa Bay Rays",
-      "confidence": 52.2,
-      "fair_line": "-109",
-      "published": "2026-08-22T21:54:56+00:00",
-      "starts": "2026-08-22T23:05:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "2-3"
     }
   ]
 }
