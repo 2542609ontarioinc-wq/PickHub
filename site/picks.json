@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-30T19:32:22+00:00",
-  "record": "168-124",
-  "settled": 292,
+  "updated_utc": "2026-08-30T22:03:00+00:00",
+  "record": "169-125",
+  "settled": 294,
   "hit_rate": 57.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Chicago Cubs",
+      "side": "Chicago Cubs",
+      "confidence": 64.7,
+      "fair_line": "-183",
+      "published": "2026-08-30T22:02:59+00:00",
+      "starts": "2026-08-30T23:20:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Chicago White Sox @ Minnesota Twins",
@@ -12,9 +24,9 @@
       "fair_line": "-113",
       "published": "2026-08-30T16:50:19+00:00",
       "starts": "2026-08-30T18:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "1-5"
     },
     {
       "sport": "MLB",
@@ -24,9 +36,9 @@
       "fair_line": "-194",
       "published": "2026-08-30T16:50:19+00:00",
       "starts": "2026-08-30T18:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "7-4"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "3-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago Cubs @ Seattle Mariners",
-      "side": "Chicago Cubs",
-      "confidence": 54.3,
-      "fair_line": "-119",
-      "published": "2026-08-22T22:09:00+00:00",
-      "starts": "2026-08-22T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-5"
     }
   ]
 }
