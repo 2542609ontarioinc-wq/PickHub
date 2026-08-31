@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-08-31T19:38:19+00:00",
+  "updated_utc": "2026-08-31T23:21:14+00:00",
   "record": "169-126",
   "settled": 295,
   "hit_rate": 57.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Baltimore Orioles @ Colorado Rockies",
+      "side": "Baltimore Orioles",
+      "confidence": 64.7,
+      "fair_line": "-183",
+      "published": "2026-08-31T23:21:14+00:00",
+      "starts": "2026-09-01T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Cincinnati Reds @ Chicago Cubs",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "1-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Pittsburgh Pirates @ Los Angeles Dodgers",
-      "side": "Los Angeles Dodgers",
-      "confidence": 64.0,
-      "fair_line": "-178",
-      "published": "2026-08-22T22:09:00+00:00",
-      "starts": "2026-08-22T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-4"
     }
   ]
 }
