@@ -294,4 +294,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823662,2026-08-30T16:50:19+00:00,2026-08-30T18:10:00+00:00,MLB,Chicago White Sox,Minnesota Twins,Jordan Hicks,Zebby Matthews,Minnesota Twins,0.5308,-113,SETTLED,1,5,WIN
 823740,2026-08-30T16:50:19+00:00,2026-08-30T18:10:00+00:00,MLB,Texas Rangers,Milwaukee Brewers,Kumar Rocker,Dustin May,Milwaukee Brewers,0.6604,-194,SETTLED,7,4,LOSS
 824636,2026-08-30T22:02:59+00:00,2026-08-30T23:20:00+00:00,MLB,Cincinnati Reds,Chicago Cubs,Chase Burns,Shota Imanaga,Chicago Cubs,0.6467,-183,SETTLED,7,5,LOSS
-824314,2026-08-31T23:21:14+00:00,2026-09-01T00:40:00+00:00,MLB,Baltimore Orioles,Colorado Rockies,Cade Povich,Tanner Gordon,Baltimore Orioles,0.6467,-183,PENDING,,,
+824314,2026-08-31T23:21:14+00:00,2026-09-01T00:40:00+00:00,MLB,Baltimore Orioles,Colorado Rockies,Cade Povich,Tanner Gordon,Baltimore Orioles,0.6467,-183,SETTLED,2,1,WIN
