@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-09-02T18:48:56+00:00",
+  "updated_utc": "2026-09-02T21:24:32+00:00",
   "record": "170-126",
   "settled": 296,
   "hit_rate": 57.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "San Francisco Giants @ Pittsburgh Pirates",
+      "side": "Pittsburgh Pirates",
+      "confidence": 52.3,
+      "fair_line": "-110",
+      "published": "2026-09-02T21:24:31+00:00",
+      "starts": "2026-09-02T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "New York Mets @ Tampa Bay Rays",
+      "side": "Tampa Bay Rays",
+      "confidence": 55.1,
+      "fair_line": "-123",
+      "published": "2026-09-02T21:24:31+00:00",
+      "starts": "2026-09-02T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Toronto Blue Jays @ Cleveland Guardians",
+      "side": "Cleveland Guardians",
+      "confidence": 53.2,
+      "fair_line": "-114",
+      "published": "2026-09-02T21:24:31+00:00",
+      "starts": "2026-09-02T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Philadelphia Phillies @ Arizona Diamondbacks",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "2-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Minnesota Twins @ San Diego Padres",
-      "side": "San Diego Padres",
-      "confidence": 65.8,
-      "fair_line": "-193",
-      "published": "2026-08-22T23:33:20+00:00",
-      "starts": "2026-08-23T00:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Cincinnati Reds @ Arizona Diamondbacks",
-      "side": "Arizona Diamondbacks",
-      "confidence": 59.2,
-      "fair_line": "-145",
-      "published": "2026-08-22T22:55:41+00:00",
-      "starts": "2026-08-23T00:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "11-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Cleveland Guardians @ Colorado Rockies",
-      "side": "Cleveland Guardians",
-      "confidence": 62.3,
-      "fair_line": "-165",
-      "published": "2026-08-22T22:55:41+00:00",
-      "starts": "2026-08-23T00:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "4-3"
     }
   ]
 }
