@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-02T15:16:39+00:00",
+  "updated_utc": "2026-09-02T18:48:56+00:00",
   "record": "170-126",
   "settled": 296,
   "hit_rate": 57.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Philadelphia Phillies @ Arizona Diamondbacks",
+      "side": "Philadelphia Phillies",
+      "confidence": 50.9,
+      "fair_line": "-104",
+      "published": "2026-09-02T18:48:55+00:00",
+      "starts": "2026-09-02T19:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Baltimore Orioles @ Colorado Rockies",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "4-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Detroit Tigers @ Kansas City Royals",
-      "side": "Detroit Tigers",
-      "confidence": 50.0,
-      "fair_line": "-100",
-      "published": "2026-08-22T22:09:00+00:00",
-      "starts": "2026-08-22T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "1-3"
     }
   ]
 }
