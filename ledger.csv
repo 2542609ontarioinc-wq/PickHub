@@ -296,6 +296,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824636,2026-08-30T22:02:59+00:00,2026-08-30T23:20:00+00:00,MLB,Cincinnati Reds,Chicago Cubs,Chase Burns,Shota Imanaga,Chicago Cubs,0.6467,-183,SETTLED,7,5,LOSS
 824314,2026-08-31T23:21:14+00:00,2026-09-01T00:40:00+00:00,MLB,Baltimore Orioles,Colorado Rockies,Cade Povich,Tanner Gordon,Baltimore Orioles,0.6467,-183,SETTLED,2,1,WIN
 825037,2026-09-02T18:48:55+00:00,2026-09-02T19:40:00+00:00,MLB,Philadelphia Phillies,Arizona Diamondbacks,Andrew Painter,Taylor Clarke,Philadelphia Phillies,0.5091,-104,SETTLED,0,1,LOSS
-823339,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,San Francisco Giants,Pittsburgh Pirates,Landen Roupp,Bubba Chandler,Pittsburgh Pirates,0.5230,-110,PENDING,,,
-822931,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,New York Mets,Tampa Bay Rays,Justin Hagenman,Griffin Jax,Tampa Bay Rays,0.5512,-123,PENDING,,,
-824390,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,Toronto Blue Jays,Cleveland Guardians,Dylan Cease,Joey Cantillo,Cleveland Guardians,0.5320,-114,PENDING,,,
+823339,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,San Francisco Giants,Pittsburgh Pirates,Landen Roupp,Bubba Chandler,Pittsburgh Pirates,0.5230,-110,SETTLED,5,4,LOSS
+822931,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,New York Mets,Tampa Bay Rays,Justin Hagenman,Griffin Jax,Tampa Bay Rays,0.5512,-123,SETTLED,10,4,LOSS
+824390,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,Toronto Blue Jays,Cleveland Guardians,Dylan Cease,Joey Cantillo,Cleveland Guardians,0.5320,-114,SETTLED,11,0,LOSS
