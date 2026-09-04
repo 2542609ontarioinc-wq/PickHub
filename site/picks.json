@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-09-04T19:33:53+00:00",
+  "updated_utc": "2026-09-04T21:47:15+00:00",
   "record": "170-131",
   "settled": 301,
   "hit_rate": 56.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Atlanta Braves @ Philadelphia Phillies",
+      "side": "Philadelphia Phillies",
+      "confidence": 58.7,
+      "fair_line": "-142",
+      "published": "2026-09-04T21:47:15+00:00",
+      "starts": "2026-09-04T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Angels @ Pittsburgh Pirates",
+      "side": "Pittsburgh Pirates",
+      "confidence": 64.9,
+      "fair_line": "-185",
+      "published": "2026-09-04T21:47:15+00:00",
+      "starts": "2026-09-04T22:45:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Boston Red Sox @ Baltimore Orioles",
+      "side": "Boston Red Sox",
+      "confidence": 58.3,
+      "fair_line": "-140",
+      "published": "2026-09-04T21:47:15+00:00",
+      "starts": "2026-09-04T23:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Detroit Tigers @ Cleveland Guardians",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "7-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Mets @ Chicago White Sox",
-      "side": "New York Mets",
-      "confidence": 55.4,
-      "fair_line": "-124",
-      "published": "2026-08-23T16:59:08+00:00",
-      "starts": "2026-08-23T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "1-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Tampa Bay Rays @ Baltimore Orioles",
-      "side": "Baltimore Orioles",
-      "confidence": 51.0,
-      "fair_line": "-104",
-      "published": "2026-08-23T16:41:24+00:00",
-      "starts": "2026-08-23T17:35:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "St. Louis Cardinals @ Philadelphia Phillies",
-      "side": "Philadelphia Phillies",
-      "confidence": 64.1,
-      "fair_line": "-179",
-      "published": "2026-08-23T16:41:24+00:00",
-      "starts": "2026-08-23T17:35:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "4-6"
     }
   ]
 }

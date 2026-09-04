@@ -301,3 +301,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824390,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,Toronto Blue Jays,Cleveland Guardians,Dylan Cease,Joey Cantillo,Cleveland Guardians,0.5320,-114,SETTLED,11,0,LOSS
 822853,2026-09-03T22:56:41+00:00,2026-09-04T00:05:00+00:00,MLB,Tampa Bay Rays,Texas Rangers,Shane McClanahan,Cal Quantrill,Tampa Bay Rays,0.5376,-116,SETTLED,0,6,LOSS
 824424,2026-09-04T17:13:00+00:00,2026-09-04T18:10:00+00:00,MLB,Detroit Tigers,Cleveland Guardians,Keider Montero,Logan Allen,Cleveland Guardians,0.5467,-121,PENDING,,,
+823418,2026-09-04T21:47:15+00:00,2026-09-04T22:40:00+00:00,MLB,Atlanta Braves,Philadelphia Phillies,Chris Sale,Cristopher Sánchez,Philadelphia Phillies,0.5866,-142,PENDING,,,
+823338,2026-09-04T21:47:15+00:00,2026-09-04T22:45:00+00:00,MLB,Los Angeles Angels,Pittsburgh Pirates,Ryan Johnson,Jared Jones,Pittsburgh Pirates,0.6489,-185,PENDING,,,
+824797,2026-09-04T21:47:15+00:00,2026-09-04T23:05:00+00:00,MLB,Boston Red Sox,Baltimore Orioles,Ranger Suarez,Shane Baz,Boston Red Sox,0.5833,-140,PENDING,,,
