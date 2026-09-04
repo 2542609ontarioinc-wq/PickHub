@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-04T21:47:15+00:00",
-  "record": "170-131",
-  "settled": 301,
-  "hit_rate": 56.5,
+  "updated_utc": "2026-09-04T23:29:31+00:00",
+  "record": "171-131",
+  "settled": 302,
+  "hit_rate": 56.6,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "St. Louis Cardinals @ Colorado Rockies",
+      "side": "St. Louis Cardinals",
+      "confidence": 58.4,
+      "fair_line": "-140",
+      "published": "2026-09-04T23:29:31+00:00",
+      "starts": "2026-09-05T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Atlanta Braves @ Philadelphia Phillies",
@@ -48,9 +60,9 @@
       "fair_line": "-121",
       "published": "2026-09-04T17:13:00+00:00",
       "starts": "2026-09-04T18:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "6-7"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "7-11"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Athletics @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 59.2,
-      "fair_line": "-145",
-      "published": "2026-08-23T16:59:08+00:00",
-      "starts": "2026-08-23T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "7-6"
     }
   ]
 }
