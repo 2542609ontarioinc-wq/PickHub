@@ -299,4 +299,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823339,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,San Francisco Giants,Pittsburgh Pirates,Landen Roupp,Bubba Chandler,Pittsburgh Pirates,0.5230,-110,SETTLED,5,4,LOSS
 822931,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,New York Mets,Tampa Bay Rays,Justin Hagenman,Griffin Jax,Tampa Bay Rays,0.5512,-123,SETTLED,10,4,LOSS
 824390,2026-09-02T21:24:31+00:00,2026-09-02T22:40:00+00:00,MLB,Toronto Blue Jays,Cleveland Guardians,Dylan Cease,Joey Cantillo,Cleveland Guardians,0.5320,-114,SETTLED,11,0,LOSS
-822853,2026-09-03T22:56:41+00:00,2026-09-04T00:05:00+00:00,MLB,Tampa Bay Rays,Texas Rangers,Shane McClanahan,Cal Quantrill,Tampa Bay Rays,0.5376,-116,PENDING,,,
+822853,2026-09-03T22:56:41+00:00,2026-09-04T00:05:00+00:00,MLB,Tampa Bay Rays,Texas Rangers,Shane McClanahan,Cal Quantrill,Tampa Bay Rays,0.5376,-116,SETTLED,0,6,LOSS
