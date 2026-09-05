@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-05T22:06:46+00:00",
+  "updated_utc": "2026-09-05T23:51:17+00:00",
   "record": "174-132",
   "settled": 306,
   "hit_rate": 56.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Washington Nationals @ Los Angeles Dodgers",
+      "side": "Los Angeles Dodgers",
+      "confidence": 67.2,
+      "fair_line": "-204",
+      "published": "2026-09-05T23:51:16+00:00",
+      "starts": "2026-09-06T01:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Boston Red Sox @ Baltimore Orioles",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "0-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago Cubs @ Seattle Mariners",
-      "side": "Chicago Cubs",
-      "confidence": 57.2,
-      "fair_line": "-134",
-      "published": "2026-08-23T19:13:24+00:00",
-      "starts": "2026-08-23T20:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "19-2"
     }
   ]
 }
