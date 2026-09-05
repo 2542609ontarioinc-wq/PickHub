@@ -305,3 +305,9 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823338,2026-09-04T21:47:15+00:00,2026-09-04T22:45:00+00:00,MLB,Los Angeles Angels,Pittsburgh Pirates,Ryan Johnson,Jared Jones,Pittsburgh Pirates,0.6489,-185,SETTLED,0,1,WIN
 824797,2026-09-04T21:47:15+00:00,2026-09-04T23:05:00+00:00,MLB,Boston Red Sox,Baltimore Orioles,Ranger Suarez,Shane Baz,Boston Red Sox,0.5833,-140,SETTLED,1,0,WIN
 824311,2026-09-04T23:29:31+00:00,2026-09-05T00:40:00+00:00,MLB,St. Louis Cardinals,Colorado Rockies,Andre Pallante,Ryan Feltner,St. Louis Cardinals,0.5837,-140,SETTLED,7,6,WIN
+824795,2026-09-05T22:06:46+00:00,2026-09-05T23:05:00+00:00,MLB,Boston Red Sox,Baltimore Orioles,Sonny Gray,Chris Bassitt,Boston Red Sox,0.5529,-124,PENDING,,,
+822850,2026-09-05T22:06:46+00:00,2026-09-05T23:05:00+00:00,MLB,Tampa Bay Rays,Texas Rangers,Drew Rasmussen,Jacob deGrom,Tampa Bay Rays,0.5012,-100,PENDING,,,
+824066,2026-09-05T22:06:46+00:00,2026-09-05T23:10:00+00:00,MLB,Toronto Blue Jays,Kansas City Royals,Max Scherzer,Seth Lugo,Toronto Blue Jays,0.5173,-107,PENDING,,,
+824553,2026-09-05T22:06:46+00:00,2026-09-05T23:10:00+00:00,MLB,Minnesota Twins,Chicago White Sox,Taj Bradley,Anthony Kay,Chicago White Sox,0.5606,-128,PENDING,,,
+824145,2026-09-05T22:06:46+00:00,2026-09-05T23:15:00+00:00,MLB,Arizona Diamondbacks,Houston Astros,Brandon Pfaadt,Ethan Pecko,Houston Astros,0.5521,-123,PENDING,,,
+823257,2026-09-05T22:06:46+00:00,2026-09-05T23:15:00+00:00,MLB,New York Yankees,San Diego Padres,Carlos Rodón,Robbie Ray,San Diego Padres,0.5092,-104,PENDING,,,
