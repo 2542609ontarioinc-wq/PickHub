@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-09-06T14:09:47+00:00",
+  "updated_utc": "2026-09-06T16:59:10+00:00",
   "record": "178-135",
   "settled": 313,
   "hit_rate": 56.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Arizona Diamondbacks @ Houston Astros",
+      "side": "Houston Astros",
+      "confidence": 54.4,
+      "fair_line": "-119",
+      "published": "2026-09-06T16:59:10+00:00",
+      "starts": "2026-09-06T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Toronto Blue Jays @ Kansas City Royals",
+      "side": "Kansas City Royals",
+      "confidence": 52.4,
+      "fair_line": "-110",
+      "published": "2026-09-06T16:59:10+00:00",
+      "starts": "2026-09-06T18:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Washington Nationals @ Los Angeles Dodgers",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "3-13"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Atlanta Braves @ Milwaukee Brewers",
-      "side": "Milwaukee Brewers",
-      "confidence": 56.0,
-      "fair_line": "-127",
-      "published": "2026-08-23T21:55:09+00:00",
-      "starts": "2026-08-23T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Pittsburgh Pirates @ Los Angeles Dodgers",
-      "side": "Los Angeles Dodgers",
-      "confidence": 63.6,
-      "fair_line": "-175",
-      "published": "2026-08-23T19:13:24+00:00",
-      "starts": "2026-08-23T20:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "0-4"
     }
   ]
 }
