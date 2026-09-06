@@ -10480,15 +10480,25 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824471,2026-09-04,2026,Cincinnati Reds,Milwaukee Brewers,7,10,695076,675660,Rhett Lowder,Shane Drohan
 824554,2026-09-04,2026,Chicago White Sox,Minnesota Twins,4,1,607200,805673,Erick Fedde,Zebby Matthews
 824797,2026-09-04,2026,Baltimore Orioles,Boston Red Sox,0,1,669358,624133,Shane Baz,Ranger Suarez
+822850,2026-09-05,2026,Texas Rangers,Tampa Bay Rays,3,6,594798,656876,Jacob deGrom,Drew Rasmussen
 822852,2026-09-05,2026,Texas Rangers,Tampa Bay Rays,6,7,592866,607259,Trevor Williams,Nick Martinez
 823093,2026-09-05,2026,Seattle Mariners,Athletics,6,7,669302,695034,Logan Gilbert,Kade Morris
 823256,2026-09-05,2026,San Diego Padres,New York Yankees,3,2,621111,608331,Walker Buehler,Max Fried
+823257,2026-09-05,2026,San Diego Padres,New York Yankees,1,5,592662,607074,Robbie Ray,Carlos Rodón
 823335,2026-09-05,2026,Pittsburgh Pirates,Los Angeles Angels,1,6,677952,579328,Braxton Ashcraft,Yusei Kikuchi
 823419,2026-09-05,2026,Philadelphia Phillies,Atlanta Braves,4,2,554430,527048,Zack Wheeler,Martín Pérez
 823577,2026-09-05,2026,New York Mets,San Francisco Giants,5,9,804267,683627,Zac Thornton,Anthony Molina
 823823,2026-09-05,2026,Miami Marlins,Chicago Cubs,5,6,687473,665871,Ryan Gusto,Javier Assad
 823905,2026-09-05,2026,Los Angeles Dodgers,Washington Nationals,5,3,605483,800600,Blake Snell,Jackson Kent
+824066,2026-09-05,2026,Kansas City Royals,Toronto Blue Jays,3,4,607625,453286,Seth Lugo,Max Scherzer
 824067,2026-09-05,2026,Kansas City Royals,Toronto Blue Jays,2,9,663738,592791,Daniel Lynch IV,Jameson Taillon
+824145,2026-09-05,2026,Houston Astros,Arizona Diamondbacks,3,4,814490,694297,Ethan Pecko,Brandon Pfaadt
 824146,2026-09-05,2026,Houston Astros,Arizona Diamondbacks,3,1,664299,518876,Cristian Javier,Merrill Kelly
 824311,2026-09-05,2026,Colorado Rockies,St. Louis Cardinals,6,7,663372,669467,Ryan Feltner,Andre Pallante
 824389,2026-09-05,2026,Cleveland Guardians,Detroit Tigers,0,6,800048,664285,Parker Messick,Framber Valdez
+824468,2026-09-05,2026,Cincinnati Reds,Milwaukee Brewers,5,3,671096,669160,Andrew Abbott,Dustin May
+824553,2026-09-05,2026,Chicago White Sox,Minnesota Twins,4,6,641743,671737,Anthony Kay,Taj Bradley
+824795,2026-09-05,2026,Baltimore Orioles,Boston Red Sox,0,5,605135,543243,Chris Bassitt,Sonny Gray
+823094,2026-09-06,2026,Seattle Mariners,Athletics,2,6,669923,605488,George Kirby,Jeffrey Springs
+823904,2026-09-06,2026,Los Angeles Dodgers,Washington Nationals,6,5,607192,676917,Tyler Glasnow,Cade Cavalli
+824310,2026-09-06,2026,Colorado Rockies,St. Louis Cardinals,10,7,690279,669461,Mason Adams,Matthew Liberatore
