@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-09-08T20:03:37+00:00",
+  "updated_utc": "2026-09-08T22:36:32+00:00",
   "record": "181-136",
   "settled": 317,
   "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Arizona Diamondbacks @ Kansas City Royals",
+      "side": "Arizona Diamondbacks",
+      "confidence": 52.5,
+      "fair_line": "-111",
+      "published": "2026-09-08T22:36:32+00:00",
+      "starts": "2026-09-08T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Pittsburgh Pirates @ Chicago White Sox",
+      "side": "Chicago White Sox",
+      "confidence": 52.4,
+      "fair_line": "-110",
+      "published": "2026-09-08T22:36:32+00:00",
+      "starts": "2026-09-08T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago Cubs @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 55.2,
+      "fair_line": "-123",
+      "published": "2026-09-08T22:36:32+00:00",
+      "starts": "2026-09-08T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Athletics @ Seattle Mariners",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "9-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Kansas City Royals @ Toronto Blue Jays",
-      "side": "Toronto Blue Jays",
-      "confidence": 57.0,
-      "fair_line": "-133",
-      "published": "2026-08-25T21:49:14+00:00",
-      "starts": "2026-08-25T23:07:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "5-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Texas Rangers @ Chicago White Sox",
-      "side": "Texas Rangers",
-      "confidence": 52.7,
-      "fair_line": "-112",
-      "published": "2026-08-24T22:42:57+00:00",
-      "starts": "2026-08-24T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "11-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Tampa Bay Rays @ Detroit Tigers",
-      "side": "Detroit Tigers",
-      "confidence": 52.2,
-      "fair_line": "-109",
-      "published": "2026-08-24T21:49:39+00:00",
-      "starts": "2026-08-24T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-1"
     }
   ]
 }
