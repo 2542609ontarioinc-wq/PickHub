@@ -319,3 +319,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824063,2026-09-08T22:36:32+00:00,2026-09-08T23:40:00+00:00,MLB,Arizona Diamondbacks,Kansas City Royals,Corbin Burnes,Michael Wacha,Arizona Diamondbacks,0.5251,-111,SETTLED,5,3,WIN
 824551,2026-09-08T22:36:32+00:00,2026-09-08T23:40:00+00:00,MLB,Pittsburgh Pirates,Chicago White Sox,Bubba Chandler,Sean Burke,Chicago White Sox,0.5241,-110,SETTLED,9,3,LOSS
 823738,2026-09-08T22:36:32+00:00,2026-09-08T23:40:00+00:00,MLB,Chicago Cubs,Milwaukee Brewers,David Peterson,Jacob Misiorowski,Milwaukee Brewers,0.5521,-123,SETTLED,3,4,WIN
+823497,2026-09-09T22:02:50+00:00,2026-09-09T23:05:00+00:00,MLB,Colorado Rockies,New York Yankees,Tomoyuki Sugano,Will Warren,New York Yankees,0.7600,-317,PENDING,,,
+824871,2026-09-09T22:02:50+00:00,2026-09-09T23:15:00+00:00,MLB,Tampa Bay Rays,Atlanta Braves,Griffin Jax,Reynaldo López,Atlanta Braves,0.5179,-107,PENDING,,,
