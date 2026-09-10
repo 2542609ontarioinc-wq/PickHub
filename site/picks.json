@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-10T19:38:57+00:00",
+  "updated_utc": "2026-09-10T21:52:27+00:00",
   "record": "184-138",
   "settled": 322,
   "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Colorado Rockies @ New York Yankees",
+      "side": "New York Yankees",
+      "confidence": 78.4,
+      "fair_line": "-362",
+      "published": "2026-09-10T21:52:27+00:00",
+      "starts": "2026-09-10T23:05:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Colorado Rockies @ New York Yankees",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "1-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Boston Red Sox @ Miami Marlins",
-      "side": "Boston Red Sox",
-      "confidence": 53.1,
-      "fair_line": "-113",
-      "published": "2026-08-25T21:49:14+00:00",
-      "starts": "2026-08-25T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "7-3"
     }
   ]
 }
