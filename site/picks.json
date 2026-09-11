@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-09-11T21:06:35+00:00",
+  "updated_utc": "2026-09-11T23:13:11+00:00",
   "record": "185-138",
   "settled": 323,
   "hit_rate": 57.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cleveland Guardians @ Minnesota Twins",
+      "side": "Cleveland Guardians",
+      "confidence": 56.1,
+      "fair_line": "-128",
+      "published": "2026-09-11T23:13:11+00:00",
+      "starts": "2026-09-12T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ St. Louis Cardinals",
+      "side": "St. Louis Cardinals",
+      "confidence": 54.5,
+      "fair_line": "-120",
+      "published": "2026-09-11T23:13:11+00:00",
+      "starts": "2026-09-12T00:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Colorado Rockies @ New York Yankees",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "2-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Los Angeles Dodgers @ Atlanta Braves",
-      "side": "Los Angeles Dodgers",
-      "confidence": 52.7,
-      "fair_line": "-111",
-      "published": "2026-08-25T22:13:28+00:00",
-      "starts": "2026-08-25T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Tampa Bay Rays @ Detroit Tigers",
-      "side": "Detroit Tigers",
-      "confidence": 55.4,
-      "fair_line": "-124",
-      "published": "2026-08-25T21:49:14+00:00",
-      "starts": "2026-08-25T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-4"
     }
   ]
 }

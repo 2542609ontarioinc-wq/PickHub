@@ -322,3 +322,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823497,2026-09-09T22:02:50+00:00,2026-09-09T23:05:00+00:00,MLB,Colorado Rockies,New York Yankees,Tomoyuki Sugano,Will Warren,New York Yankees,0.7600,-317,SETTLED,1,6,WIN
 824871,2026-09-09T22:02:50+00:00,2026-09-09T23:15:00+00:00,MLB,Tampa Bay Rays,Atlanta Braves,Griffin Jax,Reynaldo López,Atlanta Braves,0.5179,-107,SETTLED,7,2,LOSS
 823499,2026-09-10T21:52:27+00:00,2026-09-10T23:05:00+00:00,MLB,Colorado Rockies,New York Yankees,Ryan Feltner,Max Fried,New York Yankees,0.7837,-362,SETTLED,3,10,WIN
+823659,2026-09-11T23:13:11+00:00,2026-09-12T00:10:00+00:00,MLB,Cleveland Guardians,Minnesota Twins,Parker Messick,Taj Bradley,Cleveland Guardians,0.5615,-128,PENDING,,,
+823012,2026-09-11T23:13:11+00:00,2026-09-12T00:15:00+00:00,MLB,Chicago White Sox,St. Louis Cardinals,Anthony Kay,Matthew Liberatore,St. Louis Cardinals,0.5455,-120,PENDING,,,
