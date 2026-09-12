@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-12T18:31:18+00:00",
-  "record": "187-138",
-  "settled": 325,
+  "updated_utc": "2026-09-12T20:55:47+00:00",
+  "record": "188-139",
+  "settled": 327,
   "hit_rate": 57.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Houston Astros @ Tampa Bay Rays",
+      "side": "Tampa Bay Rays",
+      "confidence": 55.6,
+      "fair_line": "-125",
+      "published": "2026-09-12T20:55:47+00:00",
+      "starts": "2026-09-12T22:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Colorado Rockies @ Detroit Tigers",
@@ -12,9 +24,9 @@
       "fair_line": "-260",
       "published": "2026-09-12T16:15:51+00:00",
       "starts": "2026-09-12T17:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "7-11"
     },
     {
       "sport": "MLB",
@@ -24,9 +36,9 @@
       "fair_line": "-150",
       "published": "2026-09-12T16:15:51+00:00",
       "starts": "2026-09-12T17:35:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "12-2"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "3-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Texas Rangers @ Chicago White Sox",
-      "side": "Texas Rangers",
-      "confidence": 52.7,
-      "fair_line": "-111",
-      "published": "2026-08-25T22:44:03+00:00",
-      "starts": "2026-08-25T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "7-11"
     }
   ]
 }
