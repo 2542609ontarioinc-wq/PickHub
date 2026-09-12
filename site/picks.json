@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-09-12T13:07:12+00:00",
+  "updated_utc": "2026-09-12T16:15:51+00:00",
   "record": "187-138",
   "settled": 325,
   "hit_rate": 57.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Colorado Rockies @ Detroit Tigers",
+      "side": "Detroit Tigers",
+      "confidence": 72.2,
+      "fair_line": "-260",
+      "published": "2026-09-12T16:15:51+00:00",
+      "starts": "2026-09-12T17:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "New York Mets @ New York Yankees",
+      "side": "New York Yankees",
+      "confidence": 60.1,
+      "fair_line": "-150",
+      "published": "2026-09-12T16:15:51+00:00",
+      "starts": "2026-09-12T17:35:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Cleveland Guardians @ Minnesota Twins",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "7-11"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Baltimore Orioles @ St. Louis Cardinals",
-      "side": "St. Louis Cardinals",
-      "confidence": 51.3,
-      "fair_line": "-105",
-      "published": "2026-08-25T22:44:03+00:00",
-      "starts": "2026-08-25T23:45:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "13-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Milwaukee Brewers @ New York Mets",
-      "side": "Milwaukee Brewers",
-      "confidence": 51.9,
-      "fair_line": "-108",
-      "published": "2026-08-25T22:13:28+00:00",
-      "starts": "2026-08-25T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "2-3"
     }
   ]
 }

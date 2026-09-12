@@ -324,3 +324,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823499,2026-09-10T21:52:27+00:00,2026-09-10T23:05:00+00:00,MLB,Colorado Rockies,New York Yankees,Ryan Feltner,Max Fried,New York Yankees,0.7837,-362,SETTLED,3,10,WIN
 823659,2026-09-11T23:13:11+00:00,2026-09-12T00:10:00+00:00,MLB,Cleveland Guardians,Minnesota Twins,Parker Messick,Taj Bradley,Cleveland Guardians,0.5615,-128,SETTLED,5,2,WIN
 823012,2026-09-11T23:13:11+00:00,2026-09-12T00:15:00+00:00,MLB,Chicago White Sox,St. Louis Cardinals,Anthony Kay,Matthew Liberatore,St. Louis Cardinals,0.5455,-120,SETTLED,3,7,WIN
+824224,2026-09-12T16:15:51+00:00,2026-09-12T17:10:00+00:00,MLB,Colorado Rockies,Detroit Tigers,Tanner Gordon,Andrew Sears,Detroit Tigers,0.7224,-260,PENDING,,,
+823496,2026-09-12T16:15:51+00:00,2026-09-12T17:35:00+00:00,MLB,New York Mets,New York Yankees,Zac Thornton,Gerrit Cole,New York Yankees,0.6005,-150,PENDING,,,
