@@ -327,4 +327,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824224,2026-09-12T16:15:51+00:00,2026-09-12T17:10:00+00:00,MLB,Colorado Rockies,Detroit Tigers,Tanner Gordon,Andrew Sears,Detroit Tigers,0.7224,-260,SETTLED,7,11,WIN
 823496,2026-09-12T16:15:51+00:00,2026-09-12T17:35:00+00:00,MLB,New York Mets,New York Yankees,Zac Thornton,Gerrit Cole,New York Yankees,0.6005,-150,SETTLED,12,2,LOSS
 822927,2026-09-12T20:55:47+00:00,2026-09-12T22:10:00+00:00,MLB,Houston Astros,Tampa Bay Rays,Peter Lambert,Ian Seymour,Tampa Bay Rays,0.5562,-125,SETTLED,2,3,WIN
-824628,2026-09-13T17:28:20+00:00,2026-09-13T18:20:00+00:00,MLB,Pittsburgh Pirates,Chicago Cubs,Bubba Chandler,Matthew Boyd,Chicago Cubs,0.6353,-174,PENDING,,,
+824628,2026-09-13T17:28:20+00:00,2026-09-13T18:20:00+00:00,MLB,Pittsburgh Pirates,Chicago Cubs,Bubba Chandler,Matthew Boyd,Chicago Cubs,0.6353,-174,SETTLED,4,3,LOSS
