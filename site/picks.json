@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-13T14:20:59+00:00",
+  "updated_utc": "2026-09-13T17:28:20+00:00",
   "record": "189-139",
   "settled": 328,
   "hit_rate": 57.6,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Pittsburgh Pirates @ Chicago Cubs",
+      "side": "Chicago Cubs",
+      "confidence": 63.5,
+      "fair_line": "-174",
+      "published": "2026-09-13T17:28:20+00:00",
+      "starts": "2026-09-13T18:20:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Houston Astros @ Tampa Bay Rays",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "0-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Tampa Bay Rays @ Detroit Tigers",
-      "side": "Detroit Tigers",
-      "confidence": 53.5,
-      "fair_line": "-115",
-      "published": "2026-08-26T15:58:28+00:00",
-      "starts": "2026-08-26T17:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-0"
     }
   ]
 }
