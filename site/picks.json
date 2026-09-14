@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-09-14T18:44:57+00:00",
+  "updated_utc": "2026-09-14T22:04:29+00:00",
   "record": "189-140",
   "settled": 329,
   "hit_rate": 57.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Detroit Tigers @ Toronto Blue Jays",
+      "side": "Toronto Blue Jays",
+      "confidence": 55.9,
+      "fair_line": "-127",
+      "published": "2026-09-14T22:04:28+00:00",
+      "starts": "2026-09-14T23:07:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Baltimore Orioles @ New York Mets",
+      "side": "New York Mets",
+      "confidence": 56.2,
+      "fair_line": "-128",
+      "published": "2026-09-14T22:04:28+00:00",
+      "starts": "2026-09-14T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Pittsburgh Pirates @ Chicago Cubs",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "1-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Minnesota Twins @ Athletics",
-      "side": "Minnesota Twins",
-      "confidence": 51.8,
-      "fair_line": "-108",
-      "published": "2026-08-26T23:48:05+00:00",
-      "starts": "2026-08-27T01:05:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago Cubs @ Arizona Diamondbacks",
-      "side": "Chicago Cubs",
-      "confidence": 54.1,
-      "fair_line": "-118",
-      "published": "2026-08-26T18:23:35+00:00",
-      "starts": "2026-08-26T19:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "0-2"
     }
   ]
 }
