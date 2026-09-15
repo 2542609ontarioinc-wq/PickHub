@@ -1,9 +1,69 @@
 {
-  "updated_utc": "2026-09-15T18:42:17+00:00",
+  "updated_utc": "2026-09-15T21:44:57+00:00",
   "record": "189-142",
   "settled": 331,
   "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Los Angeles Dodgers @ Cincinnati Reds",
+      "side": "Los Angeles Dodgers",
+      "confidence": 59.0,
+      "fair_line": "-144",
+      "published": "2026-09-15T21:44:57+00:00",
+      "starts": "2026-09-15T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Athletics @ Tampa Bay Rays",
+      "side": "Tampa Bay Rays",
+      "confidence": 64.9,
+      "fair_line": "-185",
+      "published": "2026-09-15T21:44:57+00:00",
+      "starts": "2026-09-15T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Chicago White Sox @ Cleveland Guardians",
+      "side": "Cleveland Guardians",
+      "confidence": 56.6,
+      "fair_line": "-130",
+      "published": "2026-09-15T21:44:57+00:00",
+      "starts": "2026-09-15T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Milwaukee Brewers @ Pittsburgh Pirates",
+      "side": "Milwaukee Brewers",
+      "confidence": 57.4,
+      "fair_line": "-135",
+      "published": "2026-09-15T21:44:57+00:00",
+      "starts": "2026-09-15T22:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Philadelphia Phillies @ Washington Nationals",
+      "side": "Philadelphia Phillies",
+      "confidence": 65.2,
+      "fair_line": "-187",
+      "published": "2026-09-15T21:44:57+00:00",
+      "starts": "2026-09-15T22:45:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Detroit Tigers @ Toronto Blue Jays",
@@ -423,66 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "0-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Baltimore Orioles @ Colorado Rockies",
-      "side": "Baltimore Orioles",
-      "confidence": 64.7,
-      "fair_line": "-183",
-      "published": "2026-08-31T23:21:14+00:00",
-      "starts": "2026-09-01T00:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "2-1"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Cincinnati Reds @ Chicago Cubs",
-      "side": "Chicago Cubs",
-      "confidence": 64.7,
-      "fair_line": "-183",
-      "published": "2026-08-30T22:02:59+00:00",
-      "starts": "2026-08-30T23:20:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "7-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Chicago White Sox @ Minnesota Twins",
-      "side": "Minnesota Twins",
-      "confidence": 53.1,
-      "fair_line": "-113",
-      "published": "2026-08-30T16:50:19+00:00",
-      "starts": "2026-08-30T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Texas Rangers @ Milwaukee Brewers",
-      "side": "Milwaukee Brewers",
-      "confidence": 66.0,
-      "fair_line": "-194",
-      "published": "2026-08-30T16:50:19+00:00",
-      "starts": "2026-08-30T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "7-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Texas Rangers @ Milwaukee Brewers",
-      "side": "Milwaukee Brewers",
-      "confidence": 67.6,
-      "fair_line": "-209",
-      "published": "2026-08-28T22:40:02+00:00",
-      "starts": "2026-08-28T23:40:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-6"
     }
   ]
 }
