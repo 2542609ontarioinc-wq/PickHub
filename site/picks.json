@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-15T21:44:57+00:00",
+  "updated_utc": "2026-09-15T23:43:18+00:00",
   "record": "189-142",
   "settled": 331,
   "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "San Diego Padres @ Colorado Rockies",
+      "side": "San Diego Padres",
+      "confidence": 70.9,
+      "fair_line": "-243",
+      "published": "2026-09-15T23:43:18+00:00",
+      "starts": "2026-09-16T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Los Angeles Dodgers @ Cincinnati Reds",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "11-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Philadelphia Phillies @ Arizona Diamondbacks",
-      "side": "Philadelphia Phillies",
-      "confidence": 50.9,
-      "fair_line": "-104",
-      "published": "2026-09-02T18:48:55+00:00",
-      "starts": "2026-09-02T19:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "0-1"
     }
   ]
 }
