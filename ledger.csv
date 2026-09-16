@@ -330,9 +330,9 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824628,2026-09-13T17:28:20+00:00,2026-09-13T18:20:00+00:00,MLB,Pittsburgh Pirates,Chicago Cubs,Bubba Chandler,Matthew Boyd,Chicago Cubs,0.6353,-174,SETTLED,4,3,LOSS
 822765,2026-09-14T22:04:28+00:00,2026-09-14T23:07:00+00:00,MLB,Detroit Tigers,Toronto Blue Jays,Troy Melton,José Soriano,Toronto Blue Jays,0.5586,-127,SETTLED,6,5,LOSS
 823575,2026-09-14T22:04:28+00:00,2026-09-14T23:10:00+00:00,MLB,Baltimore Orioles,New York Mets,Brandon Young,Jonah Tong,New York Mets,0.5622,-128,SETTLED,2,1,LOSS
-824466,2026-09-15T21:44:57+00:00,2026-09-15T22:40:00+00:00,MLB,Los Angeles Dodgers,Cincinnati Reds,Yoshinobu Yamamoto,Rhett Lowder,Los Angeles Dodgers,0.5895,-144,PENDING,,,
-822925,2026-09-15T21:44:57+00:00,2026-09-15T22:40:00+00:00,MLB,Athletics,Tampa Bay Rays,Jack Perkins,Griffin Jax,Tampa Bay Rays,0.6487,-185,PENDING,,,
-824384,2026-09-15T21:44:57+00:00,2026-09-15T22:40:00+00:00,MLB,Chicago White Sox,Cleveland Guardians,Chris Murphy,Foster Griffin,Cleveland Guardians,0.5657,-130,PENDING,,,
-823333,2026-09-15T21:44:57+00:00,2026-09-15T22:40:00+00:00,MLB,Milwaukee Brewers,Pittsburgh Pirates,Jacob Misiorowski,Lake Bachar,Milwaukee Brewers,0.5744,-135,PENDING,,,
-822683,2026-09-15T21:44:57+00:00,2026-09-15T22:45:00+00:00,MLB,Philadelphia Phillies,Washington Nationals,Cristopher Sánchez,Jackson Kent,Philadelphia Phillies,0.6516,-187,PENDING,,,
+824466,2026-09-15T21:44:57+00:00,2026-09-15T22:40:00+00:00,MLB,Los Angeles Dodgers,Cincinnati Reds,Yoshinobu Yamamoto,Rhett Lowder,Los Angeles Dodgers,0.5895,-144,SETTLED,4,0,WIN
+822925,2026-09-15T21:44:57+00:00,2026-09-15T22:40:00+00:00,MLB,Athletics,Tampa Bay Rays,Jack Perkins,Griffin Jax,Tampa Bay Rays,0.6487,-185,SETTLED,1,2,WIN
+824384,2026-09-15T21:44:57+00:00,2026-09-15T22:40:00+00:00,MLB,Chicago White Sox,Cleveland Guardians,Chris Murphy,Foster Griffin,Cleveland Guardians,0.5657,-130,SETTLED,6,7,WIN
+823333,2026-09-15T21:44:57+00:00,2026-09-15T22:40:00+00:00,MLB,Milwaukee Brewers,Pittsburgh Pirates,Jacob Misiorowski,Lake Bachar,Milwaukee Brewers,0.5744,-135,SETTLED,5,1,WIN
+822683,2026-09-15T21:44:57+00:00,2026-09-15T22:45:00+00:00,MLB,Philadelphia Phillies,Washington Nationals,Cristopher Sánchez,Jackson Kent,Philadelphia Phillies,0.6516,-187,SETTLED,3,6,LOSS
 824307,2026-09-15T23:43:18+00:00,2026-09-16T00:40:00+00:00,MLB,San Diego Padres,Colorado Rockies,Walker Buehler,Kyle Freeland,San Diego Padres,0.7088,-243,PENDING,,,
