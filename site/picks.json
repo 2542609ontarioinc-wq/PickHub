@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-16T19:47:24+00:00",
-  "record": "193-144",
-  "settled": 337,
-  "hit_rate": 57.3,
+  "updated_utc": "2026-09-16T22:26:35+00:00",
+  "record": "193-145",
+  "settled": 338,
+  "hit_rate": 57.1,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Atlanta Braves @ Chicago Cubs",
+      "side": "Chicago Cubs",
+      "confidence": 57.7,
+      "fair_line": "-137",
+      "published": "2026-09-16T22:26:35+00:00",
+      "starts": "2026-09-16T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "New York Yankees @ Minnesota Twins",
@@ -12,9 +24,9 @@
       "fair_line": "-206",
       "published": "2026-09-16T16:48:37+00:00",
       "starts": "2026-09-16T17:40:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "LOSS",
+      "score": "4-5"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "5-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Mets @ Tampa Bay Rays",
-      "side": "Tampa Bay Rays",
-      "confidence": 55.1,
-      "fair_line": "-123",
-      "published": "2026-09-02T21:24:31+00:00",
-      "starts": "2026-09-02T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "10-4"
     }
   ]
 }

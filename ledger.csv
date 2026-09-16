@@ -336,4 +336,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823333,2026-09-15T21:44:57+00:00,2026-09-15T22:40:00+00:00,MLB,Milwaukee Brewers,Pittsburgh Pirates,Jacob Misiorowski,Lake Bachar,Milwaukee Brewers,0.5744,-135,SETTLED,5,1,WIN
 822683,2026-09-15T21:44:57+00:00,2026-09-15T22:45:00+00:00,MLB,Philadelphia Phillies,Washington Nationals,Cristopher Sánchez,Jackson Kent,Philadelphia Phillies,0.6516,-187,SETTLED,3,6,LOSS
 824307,2026-09-15T23:43:18+00:00,2026-09-16T00:40:00+00:00,MLB,San Diego Padres,Colorado Rockies,Walker Buehler,Kyle Freeland,San Diego Padres,0.7088,-243,SETTLED,3,9,LOSS
-823655,2026-09-16T16:48:37+00:00,2026-09-16T17:40:00+00:00,MLB,New York Yankees,Minnesota Twins,Carlos Rodón,Zebby Matthews,New York Yankees,0.6728,-206,PENDING,,,
+823655,2026-09-16T16:48:37+00:00,2026-09-16T17:40:00+00:00,MLB,New York Yankees,Minnesota Twins,Carlos Rodón,Zebby Matthews,New York Yankees,0.6728,-206,SETTLED,4,5,LOSS
+824626,2026-09-16T22:26:35+00:00,2026-09-16T23:40:00+00:00,MLB,Atlanta Braves,Chicago Cubs,JR Ritchie,Shota Imanaga,Chicago Cubs,0.5774,-137,PENDING,,,
