@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-09-18T21:14:00+00:00",
+  "updated_utc": "2026-09-18T23:17:32+00:00",
   "record": "194-145",
   "settled": 339,
   "hit_rate": 57.2,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Seattle Mariners @ Colorado Rockies",
+      "side": "Seattle Mariners",
+      "confidence": 63.3,
+      "fair_line": "-173",
+      "published": "2026-09-18T23:17:32+00:00",
+      "starts": "2026-09-19T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Atlanta Braves @ Houston Astros",
+      "side": "Atlanta Braves",
+      "confidence": 51.4,
+      "fair_line": "-106",
+      "published": "2026-09-18T23:17:32+00:00",
+      "starts": "2026-09-19T00:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Washington Nationals @ St. Louis Cardinals",
+      "side": "St. Louis Cardinals",
+      "confidence": 59.9,
+      "fair_line": "-149",
+      "published": "2026-09-18T23:17:32+00:00",
+      "starts": "2026-09-19T00:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Atlanta Braves @ Chicago Cubs",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "1-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Detroit Tigers @ Cleveland Guardians",
-      "side": "Cleveland Guardians",
-      "confidence": 54.7,
-      "fair_line": "-121",
-      "published": "2026-09-04T17:13:00+00:00",
-      "starts": "2026-09-04T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "6-7"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Tampa Bay Rays @ Texas Rangers",
-      "side": "Tampa Bay Rays",
-      "confidence": 53.8,
-      "fair_line": "-116",
-      "published": "2026-09-03T22:56:41+00:00",
-      "starts": "2026-09-04T00:05:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "0-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "San Francisco Giants @ Pittsburgh Pirates",
-      "side": "Pittsburgh Pirates",
-      "confidence": 52.3,
-      "fair_line": "-110",
-      "published": "2026-09-02T21:24:31+00:00",
-      "starts": "2026-09-02T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "5-4"
     }
   ]
 }
