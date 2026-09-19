@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-19T21:31:46+00:00",
-  "record": "196-147",
-  "settled": 343,
-  "hit_rate": 57.1,
+  "updated_utc": "2026-09-19T23:31:31+00:00",
+  "record": "197-147",
+  "settled": 344,
+  "hit_rate": 57.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Miami Marlins @ San Diego Padres",
+      "side": "San Diego Padres",
+      "confidence": 64.9,
+      "fair_line": "-185",
+      "published": "2026-09-19T23:31:31+00:00",
+      "starts": "2026-09-20T00:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Chicago Cubs @ Cincinnati Reds",
@@ -36,9 +48,9 @@
       "fair_line": "-100",
       "published": "2026-09-19T19:19:20+00:00",
       "starts": "2026-09-19T20:10:00+00:00",
-      "status": "PENDING",
-      "result": "",
-      "score": ""
+      "status": "SETTLED",
+      "result": "WIN",
+      "score": "1-2"
     },
     {
       "sport": "MLB",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "LOSS",
       "score": "6-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 55.2,
-      "fair_line": "-123",
-      "published": "2026-09-05T22:06:46+00:00",
-      "starts": "2026-09-05T23:15:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "4-3"
     }
   ]
 }
