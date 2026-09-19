@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-09-19T17:15:06+00:00",
+  "updated_utc": "2026-09-19T19:19:20+00:00",
   "record": "196-146",
   "settled": 342,
   "hit_rate": 57.3,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Boston Red Sox @ Tampa Bay Rays",
+      "side": "Tampa Bay Rays",
+      "confidence": 50.0,
+      "fair_line": "-100",
+      "published": "2026-09-19T19:19:20+00:00",
+      "starts": "2026-09-19T20:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Philadelphia Phillies @ New York Mets",
+      "side": "Philadelphia Phillies",
+      "confidence": 51.4,
+      "fair_line": "-106",
+      "published": "2026-09-19T19:19:20+00:00",
+      "starts": "2026-09-19T20:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Detroit Tigers @ Chicago White Sox",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "7-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Atlanta Braves @ Philadelphia Phillies",
-      "side": "Philadelphia Phillies",
-      "confidence": 58.7,
-      "fair_line": "-142",
-      "published": "2026-09-04T21:47:15+00:00",
-      "starts": "2026-09-04T22:40:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "5-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Los Angeles Angels @ Pittsburgh Pirates",
-      "side": "Pittsburgh Pirates",
-      "confidence": 64.9,
-      "fair_line": "-185",
-      "published": "2026-09-04T21:47:15+00:00",
-      "starts": "2026-09-04T22:45:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "0-1"
     }
   ]
 }

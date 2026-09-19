@@ -342,3 +342,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824138,2026-09-18T23:17:32+00:00,2026-09-19T00:10:00+00:00,MLB,Atlanta Braves,Houston Astros,Tyler Mahle,Peter Lambert,Atlanta Braves,0.5137,-106,SETTLED,6,2,WIN
 823005,2026-09-18T23:17:32+00:00,2026-09-19T00:15:00+00:00,MLB,Washington Nationals,St. Louis Cardinals,Cade Cavalli,Kyle Leahy,St. Louis Cardinals,0.5989,-149,SETTLED,9,1,LOSS
 824545,2026-09-19T17:15:06+00:00,2026-09-19T18:10:00+00:00,MLB,Detroit Tigers,Chicago White Sox,Jackson Jobe,Sean Burke,Detroit Tigers,0.5308,-113,PENDING,,,
+822921,2026-09-19T19:19:20+00:00,2026-09-19T20:10:00+00:00,MLB,Boston Red Sox,Tampa Bay Rays,Brayan Bello,Freddy Peralta,Tampa Bay Rays,0.5002,-100,PENDING,,,
+823571,2026-09-19T19:19:20+00:00,2026-09-19T20:10:00+00:00,MLB,Philadelphia Phillies,New York Mets,Andrew Painter,Christian Scott,Philadelphia Phillies,0.5137,-106,PENDING,,,
