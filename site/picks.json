@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-20T15:35:55+00:00",
+  "updated_utc": "2026-09-20T18:17:33+00:00",
   "record": "200-148",
   "settled": 348,
   "hit_rate": 57.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Seattle Mariners @ Colorado Rockies",
+      "side": "Seattle Mariners",
+      "confidence": 61.6,
+      "fair_line": "-160",
+      "published": "2026-09-20T18:17:33+00:00",
+      "starts": "2026-09-20T19:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Miami Marlins @ San Diego Padres",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "4-3"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Minnesota Twins @ Chicago White Sox",
-      "side": "Chicago White Sox",
-      "confidence": 56.1,
-      "fair_line": "-128",
-      "published": "2026-09-05T22:06:46+00:00",
-      "starts": "2026-09-05T23:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "6-4"
     }
   ]
 }

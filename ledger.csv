@@ -347,3 +347,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824461,2026-09-19T21:31:45+00:00,2026-09-19T22:40:00+00:00,MLB,Chicago Cubs,Cincinnati Reds,Matthew Boyd,Nick Lodolo,Chicago Cubs,0.5686,-132,SETTLED,5,2,WIN
 823330,2026-09-19T21:31:45+00:00,2026-09-19T22:40:00+00:00,MLB,Kansas City Royals,Pittsburgh Pirates,Noah Cameron,Bubba Chandler,Pittsburgh Pirates,0.5191,-108,SETTLED,5,6,WIN
 823249,2026-09-19T23:31:31+00:00,2026-09-20T00:40:00+00:00,MLB,Miami Marlins,San Diego Padres,Eury Pérez,Casey Mize,San Diego Padres,0.6490,-185,SETTLED,6,7,WIN
+824300,2026-09-20T18:17:33+00:00,2026-09-20T19:10:00+00:00,MLB,Seattle Mariners,Colorado Rockies,Kade Anderson,Tomoyuki Sugano,Seattle Mariners,0.6158,-160,PENDING,,,
