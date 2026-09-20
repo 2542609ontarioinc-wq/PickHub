@@ -10664,14 +10664,17 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824463,2026-09-18,2026,Cincinnati Reds,Chicago Cubs,6,4,695505,605280,Chase Burns,Clay Holmes
 824547,2026-09-18,2026,Chicago White Sox,Detroit Tigers,8,11,689818,808825,David Sandlin,Andrew Sears
 824790,2026-09-18,2026,Baltimore Orioles,Milwaukee Brewers,5,6,700249,669160,Cade Povich,Dustin May
+822843,2026-09-19,2026,Texas Rangers,Toronto Blue Jays,6,2,615698,667755,Cal Quantrill,José Soriano
 822847,2026-09-19,2026,Texas Rangers,Toronto Blue Jays,7,1,677958,656302,Kumar Rocker,Dylan Cease
 822921,2026-09-19,2026,Tampa Bay Rays,Boston Red Sox,2,1,642547,678394,Freddy Peralta,Brayan Bello
+823003,2026-09-19,2026,St. Louis Cardinals,Washington Nationals,5,8,700241,674841,Michael McGreevy,Andrew Alvarez
 823005,2026-09-19,2026,St. Louis Cardinals,Washington Nationals,1,9,681517,676917,Kyle Leahy,Cade Cavalli
 823252,2026-09-19,2026,San Diego Padres,Miami Marlins,8,2,601713,663969,Nick Pivetta,Tyler Phillips
 823330,2026-09-19,2026,Pittsburgh Pirates,Kansas City Royals,6,5,696149,702070,Bubba Chandler,Noah Cameron
 823571,2026-09-19,2026,New York Mets,Philadelphia Phillies,10,3,681035,691725,Christian Scott,Andrew Painter
 823898,2026-09-19,2026,Los Angeles Dodgers,San Francisco Giants,8,2,607192,702885,Tyler Glasnow,Cesar Perdomo
 823977,2026-09-19,2026,Los Angeles Angels,Minnesota Twins,0,3,680570,687570,Grayson Rodriguez,Connor Prielipp
+824137,2026-09-19,2026,Houston Astros,Atlanta Braves,3,6,669713,656550,Hayden Wesneski,Grant Holmes
 824138,2026-09-19,2026,Houston Astros,Atlanta Braves,2,6,663567,641816,Peter Lambert,Tyler Mahle
 824303,2026-09-19,2026,Colorado Rockies,Seattle Mariners,4,5,687312,693433,Gabriel Hughes,Bryan Woo
 824380,2026-09-19,2026,Cleveland Guardians,Athletics,12,6,676440,682052,Tanner Bibee,Jacob Lopez
@@ -10679,3 +10682,8 @@ game_pk,date,season,home,away,home_score,away_score,home_sp_id,away_sp_id,home_s
 824545,2026-09-19,2026,Chicago White Sox,Detroit Tigers,3,1,680732,695549,Sean Burke,Jackson Jobe
 824788,2026-09-19,2026,Baltimore Orioles,Milwaukee Brewers,0,1,669432,688107,Trevor Rogers,Robert Gasser
 825032,2026-09-19,2026,Arizona Diamondbacks,New York Yankees,2,9,593958,543037,Eduardo Rodriguez,Gerrit Cole
+823249,2026-09-20,2026,San Diego Padres,Miami Marlins,7,6,663554,691587,Casey Mize,Eury Pérez
+823899,2026-09-20,2026,Los Angeles Dodgers,San Francisco Giants,10,4,669373,805074,Tarik Skubal,Yunior Marte
+823976,2026-09-20,2026,Los Angeles Angels,Minnesota Twins,6,5,672282,657746,Reid Detmers,Joe Ryan
+824304,2026-09-20,2026,Colorado Rockies,Seattle Mariners,5,3,500779,682243,Jose Quintana,Bryce Miller
+825029,2026-09-20,2026,Arizona Diamondbacks,New York Yankees,5,3,694297,693645,Brandon Pfaadt,Cam Schlittler
