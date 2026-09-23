@@ -349,3 +349,5 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 823249,2026-09-19T23:31:31+00:00,2026-09-20T00:40:00+00:00,MLB,Miami Marlins,San Diego Padres,Eury Pérez,Casey Mize,San Diego Padres,0.6490,-185,SETTLED,6,7,WIN
 824300,2026-09-20T18:17:33+00:00,2026-09-20T19:10:00+00:00,MLB,Seattle Mariners,Colorado Rockies,Kade Anderson,Tomoyuki Sugano,Seattle Mariners,0.6158,-160,SETTLED,2,1,WIN
 822840,2026-09-22T22:54:40+00:00,2026-09-23T00:05:00+00:00,MLB,New York Mets,Texas Rangers,Sean Manaea,MacKenzie Gore,Texas Rangers,0.5346,-115,SETTLED,6,3,LOSS
+824710,2026-09-23T22:15:15+00:00,2026-09-23T23:10:00+00:00,MLB,Cleveland Guardians,Boston Red Sox,Foster Griffin,Sonny Gray,Boston Red Sox,0.5917,-145,PENDING,,,
+824868,2026-09-23T22:15:15+00:00,2026-09-23T23:15:00+00:00,MLB,Cincinnati Reds,Atlanta Braves,Andrew Abbott,Chris Sale,Atlanta Braves,0.6100,-156,PENDING,,,

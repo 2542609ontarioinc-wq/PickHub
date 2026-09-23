@@ -1,9 +1,33 @@
 {
-  "updated_utc": "2026-09-23T19:01:27+00:00",
+  "updated_utc": "2026-09-23T22:15:15+00:00",
   "record": "201-149",
   "settled": 350,
   "hit_rate": 57.4,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cleveland Guardians @ Boston Red Sox",
+      "side": "Boston Red Sox",
+      "confidence": 59.2,
+      "fair_line": "-145",
+      "published": "2026-09-23T22:15:15+00:00",
+      "starts": "2026-09-23T23:10:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Atlanta Braves",
+      "side": "Atlanta Braves",
+      "confidence": 61.0,
+      "fair_line": "-156",
+      "published": "2026-09-23T22:15:15+00:00",
+      "starts": "2026-09-23T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "New York Mets @ Texas Rangers",
@@ -459,30 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "5-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Boston Red Sox @ Baltimore Orioles",
-      "side": "Boston Red Sox",
-      "confidence": 55.3,
-      "fair_line": "-124",
-      "published": "2026-09-05T22:06:46+00:00",
-      "starts": "2026-09-05T23:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-0"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Tampa Bay Rays @ Texas Rangers",
-      "side": "Tampa Bay Rays",
-      "confidence": 50.1,
-      "fair_line": "-100",
-      "published": "2026-09-05T22:06:46+00:00",
-      "starts": "2026-09-05T23:05:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "6-3"
     }
   ]
 }
