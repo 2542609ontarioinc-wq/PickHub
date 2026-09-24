@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-24T19:06:01+00:00",
+  "updated_utc": "2026-09-24T22:19:59+00:00",
   "record": "203-149",
   "settled": 352,
   "hit_rate": 57.7,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Atlanta Braves",
+      "side": "Atlanta Braves",
+      "confidence": 63.8,
+      "fair_line": "-176",
+      "published": "2026-09-24T22:19:59+00:00",
+      "starts": "2026-09-24T23:15:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Cleveland Guardians @ Boston Red Sox",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "1-6"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Washington Nationals @ Los Angeles Dodgers",
-      "side": "Los Angeles Dodgers",
-      "confidence": 67.2,
-      "fair_line": "-204",
-      "published": "2026-09-05T23:51:16+00:00",
-      "starts": "2026-09-06T01:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "5-6"
     }
   ]
 }

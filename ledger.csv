@@ -351,3 +351,4 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 822840,2026-09-22T22:54:40+00:00,2026-09-23T00:05:00+00:00,MLB,New York Mets,Texas Rangers,Sean Manaea,MacKenzie Gore,Texas Rangers,0.5346,-115,SETTLED,6,3,LOSS
 824710,2026-09-23T22:15:15+00:00,2026-09-23T23:10:00+00:00,MLB,Cleveland Guardians,Boston Red Sox,Foster Griffin,Sonny Gray,Boston Red Sox,0.5917,-145,SETTLED,0,1,WIN
 824868,2026-09-23T22:15:15+00:00,2026-09-23T23:15:00+00:00,MLB,Cincinnati Reds,Atlanta Braves,Andrew Abbott,Chris Sale,Atlanta Braves,0.6100,-156,SETTLED,2,3,WIN
+824866,2026-09-24T22:19:59+00:00,2026-09-24T23:15:00+00:00,MLB,Cincinnati Reds,Atlanta Braves,Brady Singer,Tyler Mahle,Atlanta Braves,0.6380,-176,PENDING,,,
