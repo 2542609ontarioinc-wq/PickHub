@@ -1,9 +1,45 @@
 {
-  "updated_utc": "2026-09-25T19:21:37+00:00",
+  "updated_utc": "2026-09-25T22:33:09+00:00",
   "record": "203-150",
   "settled": 353,
   "hit_rate": 57.5,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cleveland Guardians @ Kansas City Royals",
+      "side": "Cleveland Guardians",
+      "confidence": 51.5,
+      "fair_line": "-106",
+      "published": "2026-09-25T22:33:09+00:00",
+      "starts": "2026-09-25T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "Colorado Rockies @ Chicago White Sox",
+      "side": "Chicago White Sox",
+      "confidence": 68.1,
+      "fair_line": "-214",
+      "published": "2026-09-25T22:33:09+00:00",
+      "starts": "2026-09-25T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
+    {
+      "sport": "MLB",
+      "matchup": "St. Louis Cardinals @ Milwaukee Brewers",
+      "side": "Milwaukee Brewers",
+      "confidence": 70.0,
+      "fair_line": "-233",
+      "published": "2026-09-25T22:33:09+00:00",
+      "starts": "2026-09-25T23:40:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Cincinnati Reds @ Atlanta Braves",
@@ -447,42 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "0-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "New York Yankees @ San Diego Padres",
-      "side": "San Diego Padres",
-      "confidence": 52.3,
-      "fair_line": "-109",
-      "published": "2026-09-06T18:50:45+00:00",
-      "starts": "2026-09-06T20:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "3-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Arizona Diamondbacks @ Houston Astros",
-      "side": "Houston Astros",
-      "confidence": 54.4,
-      "fair_line": "-119",
-      "published": "2026-09-06T16:59:10+00:00",
-      "starts": "2026-09-06T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "LOSS",
-      "score": "3-2"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Toronto Blue Jays @ Kansas City Royals",
-      "side": "Kansas City Royals",
-      "confidence": 52.4,
-      "fair_line": "-110",
-      "published": "2026-09-06T16:59:10+00:00",
-      "starts": "2026-09-06T18:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "1-6"
     }
   ]
 }
