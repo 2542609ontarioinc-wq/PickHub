@@ -352,6 +352,6 @@ game_pk,published_utc,game_start_utc,sport,away,home,away_sp,home_sp,side,p_win,
 824710,2026-09-23T22:15:15+00:00,2026-09-23T23:10:00+00:00,MLB,Cleveland Guardians,Boston Red Sox,Foster Griffin,Sonny Gray,Boston Red Sox,0.5917,-145,SETTLED,0,1,WIN
 824868,2026-09-23T22:15:15+00:00,2026-09-23T23:15:00+00:00,MLB,Cincinnati Reds,Atlanta Braves,Andrew Abbott,Chris Sale,Atlanta Braves,0.6100,-156,SETTLED,2,3,WIN
 824866,2026-09-24T22:19:59+00:00,2026-09-24T23:15:00+00:00,MLB,Cincinnati Reds,Atlanta Braves,Brady Singer,Tyler Mahle,Atlanta Braves,0.6380,-176,SETTLED,7,6,LOSS
-824058,2026-09-25T22:33:09+00:00,2026-09-25T23:40:00+00:00,MLB,Cleveland Guardians,Kansas City Royals,Gavin Williams,Noah Cameron,Cleveland Guardians,0.5154,-106,PENDING,,,
-824544,2026-09-25T22:33:09+00:00,2026-09-25T23:40:00+00:00,MLB,Colorado Rockies,Chicago White Sox,Tomoyuki Sugano,Sean Burke,Chicago White Sox,0.6811,-214,PENDING,,,
-823735,2026-09-25T22:33:09+00:00,2026-09-25T23:40:00+00:00,MLB,St. Louis Cardinals,Milwaukee Brewers,Michael McGreevy,Robert Gasser,Milwaukee Brewers,0.7001,-233,PENDING,,,
+824058,2026-09-25T22:33:09+00:00,2026-09-25T23:40:00+00:00,MLB,Cleveland Guardians,Kansas City Royals,Gavin Williams,Noah Cameron,Cleveland Guardians,0.5154,-106,SETTLED,12,9,WIN
+824544,2026-09-25T22:33:09+00:00,2026-09-25T23:40:00+00:00,MLB,Colorado Rockies,Chicago White Sox,Tomoyuki Sugano,Sean Burke,Chicago White Sox,0.6811,-214,SETTLED,1,6,WIN
+823735,2026-09-25T22:33:09+00:00,2026-09-25T23:40:00+00:00,MLB,St. Louis Cardinals,Milwaukee Brewers,Michael McGreevy,Robert Gasser,Milwaukee Brewers,0.7001,-233,SETTLED,4,8,WIN
