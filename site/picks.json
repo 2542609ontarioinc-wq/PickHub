@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-09-26T14:29:19+00:00",
+  "updated_utc": "2026-09-26T17:53:39+00:00",
   "record": "206-150",
   "settled": 356,
   "hit_rate": 57.9,
   "picks": [
+    {
+      "sport": "MLB",
+      "matchup": "Cincinnati Reds @ Toronto Blue Jays",
+      "side": "Toronto Blue Jays",
+      "confidence": 62.9,
+      "fair_line": "-169",
+      "published": "2026-09-26T17:53:39+00:00",
+      "starts": "2026-09-26T19:07:00+00:00",
+      "status": "PENDING",
+      "result": "",
+      "score": ""
+    },
     {
       "sport": "MLB",
       "matchup": "Cleveland Guardians @ Kansas City Royals",
@@ -471,18 +483,6 @@
       "status": "SETTLED",
       "result": "WIN",
       "score": "3-4"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "Athletics @ Seattle Mariners",
-      "side": "Seattle Mariners",
-      "confidence": 60.9,
-      "fair_line": "-156",
-      "published": "2026-09-06T18:50:45+00:00",
-      "starts": "2026-09-06T20:10:00+00:00",
-      "status": "SETTLED",
-      "result": "WIN",
-      "score": "0-2"
     }
   ]
 }
